@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 public class Principal {
-	private static int contador = 10;
+	private static int contador = 100;
 	private static ArrayList<Integer> numeros = new ArrayList<Integer>();
 	
 	public static void main(String[] args) {
@@ -46,7 +46,8 @@ public class Principal {
 		//CADA QUIEN QUE UTILICE EL SUYO PARA PROBARLO CUALQUIER COSA
 		// AHI LUEGO QUITAMOS LOS COMENTARIOS Y YA QUEDA TODO BIEN
 		BubbleSort.BubbleSort(numeros, numeros.size());
-		//QuickSort.quickSort(numeros, numeros.size());
-		//MergeSort.mergeSort(numeros, numeros.size());
+		InsertionSort.insertionSort(numeros, numeros.size());                
+		QuickSort.quickSort(numeros, numeros.size());
+		MergeSort.mergeSort(numeros, numeros.size());
 	}
 }
