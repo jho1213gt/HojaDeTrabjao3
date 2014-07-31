@@ -3,8 +3,8 @@ import java.io.*;
 import java.util.*;
 
 public class Principal {
-	private static int contador = 2000;
-        private static int cont = 200;
+	private static int contador = 1900;
+        private static int cont = 175;
 	private static ArrayList<Integer> numeros = new ArrayList<Integer>();
         private static ArrayList<Integer> lista = new ArrayList<Integer>();
 	
@@ -68,8 +68,7 @@ public class Principal {
 /*
  * Se crea la nueva variable comparable que se utilizara cada uno de los sort's
  */
-		//CADA QUIEN QUE UTILICE EL SUYO PARA PROBARLO CUALQUIER COSA
-		// AHI LUEGO QUITAMOS LOS COMENTARIOS Y YA QUEDA TODO BIEN
+		
 		BubbleSort.BubbleSort(numeros, numeros.size());
 		InsertionSort.insertionSort(numeros, numeros.size());                
 		QuickSort.quickSort(numeros, numeros.size());

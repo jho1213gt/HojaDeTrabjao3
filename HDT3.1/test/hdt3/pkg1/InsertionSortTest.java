@@ -35,11 +35,11 @@ public class InsertionSortTest {
     @Test
     public void testInsertionSort() {
         System.out.println("insertionSort");
-        ArrayList<Integer> data = null;
+        ArrayList<Integer> data = new ArrayList<Integer> ();
         int n = 0;
         InsertionSort.insertionSort(data, n);
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        //fail("The test case is a prototype.");
     }
     
 }

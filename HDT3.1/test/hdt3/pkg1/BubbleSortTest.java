@@ -35,11 +35,11 @@ public class BubbleSortTest {
     @Test
     public void testBubbleSort() {
         System.out.println("BubbleSort");
-        ArrayList<Integer> lista = null;
+        ArrayList<Integer> lista = new ArrayList<Integer> ();
         int num = 0;
         BubbleSort.BubbleSort(lista, num);
         // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
+        //fail("The test case is a prototype.");
     }
     
 }

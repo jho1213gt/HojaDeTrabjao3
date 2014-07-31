@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="GNXN000000-PC" name="hdt3.pkg1.PrincipalTest" skipped="0" tests="1" time="0.858" timestamp="2014-07-30T14:29:24">
+<testsuite errors="0" failures="0" hostname="GNXN000000-PC" name="hdt3.pkg1.PrincipalTest" skipped="0" tests="1" time="1.967" timestamp="2014-07-31T20:25:07">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
@@ -58,7 +58,7 @@
     <property name="libs.j2me_common_ant.maven-pom" value="" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner hdt3.pkg1.PrincipalTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\test\results\TEST-hdt3.pkg1.PrincipalTest.xml crashfile=C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\junitvmwatcher8125398502096775971.properties propsfile=C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\junit5213928195102010369.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner hdt3.pkg1.PrincipalTest filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\test\results\TEST-hdt3.pkg1.PrincipalTest.xml crashfile=C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\junitvmwatcher9004592381754320404.properties propsfile=C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\junit5741127991732175481.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
     <property name="build.sysclasspath" value="ignore" />
@@ -76,7 +76,6 @@
     <property name="debug-transport" value="dt_shmem" />
     <property name="netbeans.home" value="F:\Java Program\NetBeans\NetBeans 8.0\platform" />
     <property name="build.compiler.emacs" value="true" />
-    <property name="org.netbeans.lib.profiler.servletTracking" value="false" />
     <property name="libs.javaee-web-api-6.0.src" value="" />
     <property name="libs.jsp-compilation-syscp.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\extide\ant\lib\ant.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\glassfish-jspparser-4.0.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\jstl-impl.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\jsf-2_2\javax.faces.jar" />
     <property name="java.endorsed.dirs" value="F:\JAVA\jre\lib\endorsed" />
@@ -222,7 +221,6 @@
     <property name="org.openide.major.version" value="IDE/1" />
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
     <property name="netbeans.user" value="C:\Users\GNXN000000\AppData\Roaming\NetBeans\8.0" />
-    <property name="tests.failed" value="true" />
     <property name="javadoc.additionalparam" value="" />
     <property name="java.io.tmpdir" value="C:\Users\GNXN00~1\AppData\Local\Temp\" />
     <property name="ant.file.type.HDT3.1" value="file" />
@@ -242,7 +240,6 @@
     <property name="libs.DataBindingME-SVG.src" value="F:\Java Program\NetBeans\NetBeans 8.0\mobility\sources\netbeans_databindingme_svg-src.zip" />
     <property name="dist.jar" value="dist/HDT3.1.jar" />
     <property name="libs.spring-framework400.maven-pom" value="" />
-    <property name="netbeans.automatic.build" value="true" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.project.name" value="HDT3.1" />
     <property name="netbeans.hash.code" value="unique=NB_CND_EXTIDE_GFMOD_GROOVY_JAVA_JC_MOB_PHP_TOMCAT_WEBCOMMON_WEBEE0aadd9c21-2741-42c9-bb8c-9ff31134d177_4031b859-ab3a-4862-b303-9815d25f5808" />
@@ -290,8 +287,8 @@
     <property name="work.dir" value="C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1" />
     <property name="libs.jaxb.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\jaxb-impl.jar;F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\jaxb-xjc.jar;F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\jaxb1-impl.jar;F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\activation.jar;F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\api\jaxb-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\api\jsr173_1.0_api.jar" />
     <property name="do.depend" value="false" />
-    <property name="dist.javadoc.dir" value="dist/javadoc" />
     <property name="libs.j2me_common_ant.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\mobility\modules\org-netbeans-modules-j2me-common-ant.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\org-netbeans-modules-classfile.jar" />
+    <property name="dist.javadoc.dir" value="dist/javadoc" />
     <property name="libs.spring-webmvc3.0.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-webmvc-3.2.7.RELEASE.jar" />
     <property name="libs.swing-layout.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\platform\modules\ext\swing-layout-1.0.4.jar" />
     <property name="libs.javaee-web-api-7.0.maven-pom" value="" />
@@ -309,9 +306,9 @@
     <property name="built-jar.properties" value="C:\Users\GNXN000000\Documents\GitHub\HojaDeTrabjao3\HDT3.1\build\built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src" />
+    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
     <property name="libs.jpa2-persistence.src" value="" />
     <property name="annotation.processing.enabled" value="true" />
-    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
     <property name="libs.jsf20.src" value="" />
     <property name="libs.jpa20-persistence.src" value="" />
     <property name="libs.DataBindingME-SVG.maven-pom" value="" />
@@ -323,13 +320,13 @@
     <property name="dist.dir" value="dist" />
     <property name="libs.groovy-all.javadoc" value="" />
     <property name="testng.debug.mode" value="" />
-    <property name="javac.fork" value="false" />
     <property name="libs.groovy-all.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\groovy\modules\ext\groovy-all.jar" />
+    <property name="javac.fork" value="false" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="default.javac.source" value="1.8" />
     <property name="debug-transport-by-os" value="dt_shmem" />
-    <property name="libs.MySQLDriver.src" value="" />
     <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="libs.MySQLDriver.src" value="" />
     <property name="build.test.results.dir" value="build/test/results" />
     <property name="java.runtime.version" value="1.8.0_05-b13" />
     <property name="default.javac.target" value="1.8" />
@@ -338,14 +335,14 @@
     <property name="nb.junit.single" value="false" />
     <property name="libs.javaee-endorsed-api-6.0.maven-pom" value="" />
     <property name="netbeans.dirs" value="F:\Java Program\NetBeans\NetBeans 8.0\nb;F:\Java Program\NetBeans\NetBeans 8.0\ergonomics;F:\Java Program\NetBeans\NetBeans 8.0\ide;F:\Java Program\NetBeans\NetBeans 8.0\extide;F:\Java Program\NetBeans\NetBeans 8.0\java;F:\Java Program\NetBeans\NetBeans 8.0\apisupport;F:\Java Program\NetBeans\NetBeans 8.0\webcommon;F:\Java Program\NetBeans\NetBeans 8.0\websvccommon;F:\Java Program\NetBeans\NetBeans 8.0\enterprise;F:\Java Program\NetBeans\NetBeans 8.0\mobility;F:\Java Program\NetBeans\NetBeans 8.0\profiler;F:\Java Program\NetBeans\NetBeans 8.0\python;F:\Java Program\NetBeans\NetBeans 8.0\php;F:\Java Program\NetBeans\NetBeans 8.0\identity;F:\Java Program\NetBeans\NetBeans 8.0\harness;F:\Java Program\NetBeans\NetBeans 8.0\cnd;F:\Java Program\NetBeans\NetBeans 8.0\dlight;F:\Java Program\NetBeans\NetBeans 8.0\groovy;F:\Java Program\NetBeans\NetBeans 8.0\extra;F:\Java Program\NetBeans\NetBeans 8.0\javacard;F:\Java Program\NetBeans\NetBeans 8.0\javafx" />
-    <property name="libs.jstl.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.jsf20.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
+    <property name="libs.jstl.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="java.ext.dirs" value="F:\JAVA\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
     <property name="libs.metro.src" value="" />
     <property name="libs.absolutelayout.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\AbsoluteLayout.jar" />
     <property name="excludes" value="" />
-    <property name="libs.metro.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\activation.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-rt.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-tools.jar" />
     <property name="libs.restlib.maven-pom" value="" />
+    <property name="libs.metro.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\jaxb\activation.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra-api.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-extra.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-rt.jar;F:\Java Program\NetBeans\NetBeans 8.0\enterprise\modules\ext\metro\webservices-tools.jar" />
     <property name="libs.jpa2-persistence.javadoc" value="" />
     <property name="libs.DataBindingME.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\mobility\modules\docs\netbeans_databindingme-api.zip" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
@@ -356,8 +353,8 @@
     <property name="os.version" value="6.1" />
     <property name="application.args" value="" />
     <property name="libs.javaee-api-7.0.maven-pom" value="" />
-    <property name="main.class.available" value="true" />
     <property name="sun.awt.enableExtraMouseButtons" value="true" />
+    <property name="main.class.available" value="true" />
     <property name="sun.desktop" value="windows" />
     <property name="libs.hibernate4-persistence.src" value="" />
     <property name="libs.hibernate4-support.maven-pom" value="" />
@@ -366,8 +363,8 @@
     <property name="nb.internal.action.name" value="test" />
     <property name="libs.javaee-api-7.0.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.eclipselink.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\eclipselink\eclipselink.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\eclipselink\org.eclipse.persistence.jpa.jpql_2.5.1.v20130918-f2b9fc5.jar" />
-    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
     <property name="libs.beans-binding.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\java\docs\beansbinding-1.2.1-doc.zip" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="libs.CopyLibs.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar" />
     <property name="libs.spring-framework300.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\org-apache-commons-logging.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\cglib-2.2.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-aop-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-aspects-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-beans-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-build-src-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-context-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-context-support-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-core-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-expression-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-framework-bom-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-instrument-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-jdbc-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-jms-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-orm-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-oxm-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-struts-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-test-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-tx-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-web-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-webmvc-3.2.7.RELEASE.jar;F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.2.7.RELEASE.jar" />
@@ -378,8 +375,8 @@
     <property name="dist.archive.excludes" value="" />
     <property name="libs.testng.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\platform\docs\testng-6.8.1-javadoc.zip" />
     <property name="libs.DataBindingME-PIM.src" value="F:\Java Program\NetBeans\NetBeans 8.0\mobility\sources\netbeans_databindingme_pim-src.zip" />
-    <property name="user.script" value="" />
     <property name="libs.PostgreSQLDriver.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\ide\modules\ext\postgresql-9.2-1002.jdbc4.jar" />
+    <property name="user.script" value="" />
     <property name="libs.jsf12.maven-pom" value="" />
     <property name="libs.hibernate4-persistencemodelgen.classpath" value="F:\Java Program\NetBeans\NetBeans 8.0\java\modules\ext\hibernate4\hibernate-jpamodelgen-1.3.0.Final.jar" />
     <property name="libs.junit.src" value="" />
@@ -398,1818 +395,13844 @@
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="F:\Java Program\NetBeans\NetBeans 8.0\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="hdt3.pkg1.PrincipalTest" name="testMain" time="0.702" />
+  <testcase classname="hdt3.pkg1.PrincipalTest" name="testMain" time="1.827" />
   <system-out><![CDATA[main
 LISTA NORMAL
-0. 323
-1. 1128
-2. 1749
-3. 1320
-4. 703
-5. 594
-6. 1486
-7. 232
-8. 1116
-9. 216
-10. 1789
-11. 1044
-12. 556
-13. 1826
-14. 903
-15. 302
-16. 54
-17. 1989
-18. 1184
-19. 1968
-20. 400
-21. 815
-22. 1877
-23. 136
-24. 215
-25. 704
-26. 1865
-27. 1370
-28. 926
-29. 343
-30. 938
-31. 1748
-32. 1535
-33. 1191
-34. 335
-35. 1707
-36. 593
-37. 425
-38. 779
-39. 1735
-40. 1752
-41. 1854
-42. 1050
-43. 1590
-44. 439
-45. 671
-46. 242
-47. 1287
-48. 728
-49. 1055
-50. 298
-51. 1387
-52. 1357
-53. 1661
-54. 163
-55. 1255
-56. 1930
-57. 756
-58. 926
-59. 933
-60. 863
-61. 442
-62. 731
-63. 990
-64. 1370
-65. 1760
-66. 875
-67. 1316
-68. 896
-69. 1731
-70. 542
-71. 200
-72. 784
-73. 1414
-74. 909
-75. 1224
-76. 700
-77. 941
-78. 1987
-79. 1531
-80. 341
-81. 1105
-82. 1474
-83. 824
-84. 1308
-85. 1623
-86. 176
-87. 112
-88. 669
-89. 1420
-90. 1075
-91. 650
-92. 689
-93. 431
-94. 1011
-95. 782
-96. 504
-97. 1315
-98. 1115
-99. 1481
-100. 1078
-101. 1202
-102. 632
-103. 239
-104. 713
-105. 141
-106. 586
-107. 1684
-108. 541
-109. 269
-110. 838
-111. 1812
-112. 30
-113. 1883
-114. 536
-115. 991
-116. 1301
-117. 1590
-118. 1699
-119. 1120
-120. 249
-121. 1465
-122. 728
-123. 193
-124. 1890
-125. 810
-126. 997
-127. 1304
-128. 1191
-129. 1458
-130. 1399
-131. 736
-132. 626
-133. 1844
-134. 653
-135. 1089
-136. 226
-137. 75
-138. 1539
-139. 680
-140. 490
-141. 100
-142. 831
-143. 1388
-144. 1632
-145. 1758
-146. 1600
-147. 0
-148. 1927
-149. 918
-150. 864
-151. 681
-152. 1595
-153. 263
-154. 1049
-155. 720
-156. 612
-157. 358
-158. 660
-159. 1883
-160. 1122
-161. 538
-162. 1680
-163. 1839
-164. 1709
-165. 1911
-166. 774
-167. 1958
-168. 1672
-169. 293
-170. 109
-171. 1539
-172. 693
-173. 1249
-174. 1795
-175. 1959
-176. 781
-177. 586
-178. 1336
-179. 1636
-180. 1230
-181. 1613
-182. 212
-183. 1762
-184. 1477
-185. 1286
-186. 1834
-187. 1770
-188. 1198
-189. 942
-190. 420
-191. 207
-192. 1777
-193. 1763
-194. 1033
-195. 1299
-196. 354
-197. 333
-198. 1058
-199. 1856
+0. 1821
+1. 189
+2. 191
+3. 438
+4. 1291
+5. 776
+6. 961
+7. 223
+8. 1599
+9. 691
+10. 846
+11. 1344
+12. 1276
+13. 1399
+14. 1711
+15. 885
+16. 19
+17. 1453
+18. 1610
+19. 1748
+20. 540
+21. 1020
+22. 295
+23. 1583
+24. 759
+25. 1251
+26. 726
+27. 1759
+28. 1832
+29. 1059
+30. 1560
+31. 911
+32. 266
+33. 1709
+34. 1166
+35. 553
+36. 1361
+37. 302
+38. 708
+39. 1113
+40. 595
+41. 696
+42. 24
+43. 1359
+44. 1157
+45. 730
+46. 1626
+47. 628
+48. 1871
+49. 1674
+50. 1010
+51. 1557
+52. 1982
+53. 1796
+54. 1601
+55. 1053
+56. 1853
+57. 617
+58. 240
+59. 1139
+60. 1581
+61. 0
+62. 1828
+63. 1024
+64. 679
+65. 573
+66. 1948
+67. 1231
+68. 1551
+69. 1104
+70. 1642
+71. 1953
+72. 1311
+73. 509
+74. 1328
+75. 935
+76. 623
+77. 865
+78. 863
+79. 1139
+80. 737
+81. 1504
+82. 126
+83. 1190
+84. 654
+85. 599
+86. 1193
+87. 196
+88. 1440
+89. 1917
+90. 1177
+91. 892
+92. 107
+93. 471
+94. 62
+95. 1292
+96. 1208
+97. 1613
+98. 552
+99. 999
+100. 306
+101. 1820
+102. 839
+103. 181
+104. 1797
+105. 1867
+106. 441
+107. 843
+108. 274
+109. 405
+110. 1839
+111. 1473
+112. 1499
+113. 33
+114. 494
+115. 1381
+116. 417
+117. 901
+118. 1013
+119. 172
+120. 1148
+121. 584
+122. 1729
+123. 608
+124. 1863
+125. 1512
+126. 1755
+127. 1895
+128. 1613
+129. 628
+130. 1710
+131. 852
+132. 740
+133. 41
+134. 1733
+135. 811
+136. 1305
+137. 501
+138. 142
+139. 201
+140. 1169
+141. 1266
+142. 1164
+143. 720
+144. 741
+145. 526
+146. 539
+147. 754
+148. 1289
+149. 5
+150. 1431
+151. 1294
+152. 1706
+153. 1562
+154. 159
+155. 956
+156. 1073
+157. 664
+158. 1478
+159. 1934
+160. 1060
+161. 1430
+162. 834
+163. 1718
+164. 1241
+165. 680
+166. 1883
+167. 214
+168. 1706
+169. 1809
+170. 1882
+171. 565
+172. 1058
+173. 1671
+174. 1024
+175. 406
+176. 1782
+177. 732
+178. 762
+179. 531
+180. 1304
+181. 657
+182. 255
+183. 58
+184. 1606
+185. 253
+186. 1625
+187. 1027
+188. 1196
+189. 205
+190. 1506
+191. 1087
+192. 409
+193. 1404
+194. 444
+195. 418
+196. 574
+197. 850
+198. 1226
+199. 385
+200. 1404
+201. 1045
+202. 1860
+203. 518
+204. 1110
+205. 1644
+206. 1066
+207. 1396
+208. 224
+209. 1689
+210. 1446
+211. 1746
+212. 859
+213. 1171
+214. 240
+215. 655
+216. 270
+217. 1932
+218. 1509
+219. 168
+220. 916
+221. 1901
+222. 953
+223. 1754
+224. 1008
+225. 1568
+226. 1131
+227. 131
+228. 1484
+229. 1223
+230. 837
+231. 1724
+232. 1753
+233. 1997
+234. 1592
+235. 755
+236. 1140
+237. 1006
+238. 783
+239. 1293
+240. 1983
+241. 1031
+242. 849
+243. 964
+244. 1573
+245. 48
+246. 1100
+247. 1011
+248. 1713
+249. 1693
+250. 1228
+251. 319
+252. 612
+253. 253
+254. 1410
+255. 1716
+256. 1982
+257. 1124
+258. 995
+259. 1355
+260. 802
+261. 1903
+262. 195
+263. 313
+264. 1976
+265. 170
+266. 981
+267. 1674
+268. 1337
+269. 1867
+270. 397
+271. 338
+272. 1841
+273. 794
+274. 1901
+275. 486
+276. 1636
+277. 1088
+278. 16
+279. 1302
+280. 717
+281. 875
+282. 564
+283. 856
+284. 1341
+285. 229
+286. 1080
+287. 1274
+288. 28
+289. 517
+290. 1596
+291. 1374
+292. 41
+293. 797
+294. 935
+295. 1680
+296. 576
+297. 465
+298. 1891
+299. 1462
+300. 496
+301. 1620
+302. 247
+303. 1808
+304. 481
+305. 1722
+306. 1404
+307. 1063
+308. 1666
+309. 1020
+310. 645
+311. 987
+312. 1488
+313. 1988
+314. 485
+315. 1924
+316. 318
+317. 1521
+318. 1407
+319. 910
+320. 1697
+321. 995
+322. 402
+323. 214
+324. 510
+325. 480
+326. 1114
+327. 1091
+328. 1254
+329. 1365
+330. 225
+331. 682
+332. 744
+333. 440
+334. 671
+335. 925
+336. 26
+337. 79
+338. 1725
+339. 1114
+340. 1061
+341. 1610
+342. 632
+343. 327
+344. 826
+345. 156
+346. 465
+347. 279
+348. 888
+349. 1284
+350. 220
+351. 1428
+352. 199
+353. 660
+354. 1730
+355. 1110
+356. 910
+357. 1568
+358. 1966
+359. 311
+360. 1326
+361. 1615
+362. 486
+363. 1363
+364. 767
+365. 1270
+366. 392
+367. 244
+368. 86
+369. 946
+370. 999
+371. 437
+372. 851
+373. 290
+374. 1617
+375. 413
+376. 1792
+377. 1039
+378. 310
+379. 1618
+380. 1011
+381. 1375
+382. 1357
+383. 615
+384. 678
+385. 1028
+386. 205
+387. 1473
+388. 1441
+389. 586
+390. 1168
+391. 889
+392. 641
+393. 1401
+394. 860
+395. 588
+396. 1543
+397. 322
+398. 1401
+399. 1562
+400. 295
+401. 38
+402. 1821
+403. 415
+404. 1056
+405. 1270
+406. 1748
+407. 1691
+408. 1873
+409. 1271
+410. 477
+411. 1430
+412. 240
+413. 108
+414. 809
+415. 380
+416. 18
+417. 86
+418. 693
+419. 346
+420. 405
+421. 335
+422. 590
+423. 1928
+424. 990
+425. 34
+426. 782
+427. 579
+428. 567
+429. 69
+430. 348
+431. 318
+432. 1353
+433. 1
+434. 447
+435. 739
+436. 534
+437. 1160
+438. 689
+439. 993
+440. 1647
+441. 1387
+442. 896
+443. 322
+444. 1193
+445. 487
+446. 1351
+447. 413
+448. 1120
+449. 1843
+450. 761
+451. 366
+452. 1305
+453. 764
+454. 565
+455. 363
+456. 29
+457. 132
+458. 1008
+459. 1288
+460. 580
+461. 736
+462. 415
+463. 490
+464. 567
+465. 1225
+466. 487
+467. 616
+468. 1339
+469. 1091
+470. 1128
+471. 1051
+472. 1951
+473. 1256
+474. 296
+475. 1859
+476. 1541
+477. 959
+478. 1677
+479. 331
+480. 1707
+481. 400
+482. 1616
+483. 236
+484. 457
+485. 339
+486. 642
+487. 1733
+488. 1691
+489. 301
+490. 194
+491. 1483
+492. 797
+493. 300
+494. 1714
+495. 1997
+496. 1892
+497. 1153
+498. 1108
+499. 481
+500. 1573
+501. 1329
+502. 790
+503. 531
+504. 1545
+505. 17
+506. 23
+507. 910
+508. 480
+509. 655
+510. 33
+511. 330
+512. 1603
+513. 487
+514. 1557
+515. 1679
+516. 1087
+517. 1909
+518. 847
+519. 1462
+520. 1106
+521. 316
+522. 1958
+523. 338
+524. 638
+525. 980
+526. 163
+527. 600
+528. 474
+529. 79
+530. 1726
+531. 212
+532. 737
+533. 400
+534. 946
+535. 557
+536. 1279
+537. 503
+538. 364
+539. 476
+540. 1707
+541. 1129
+542. 354
+543. 335
+544. 533
+545. 540
+546. 1918
+547. 905
+548. 1936
+549. 1079
+550. 1448
+551. 631
+552. 12
+553. 803
+554. 463
+555. 1517
+556. 1956
+557. 233
+558. 873
+559. 300
+560. 1684
+561. 1459
+562. 1207
+563. 1840
+564. 1587
+565. 705
+566. 1420
+567. 1734
+568. 759
+569. 178
+570. 1372
+571. 1032
+572. 911
+573. 613
+574. 900
+575. 1650
+576. 405
+577. 241
+578. 1519
+579. 573
+580. 367
+581. 1078
+582. 1207
+583. 252
+584. 673
+585. 1422
+586. 480
+587. 1767
+588. 1761
+589. 245
+590. 33
+591. 243
+592. 671
+593. 722
+594. 1562
+595. 769
+596. 491
+597. 641
+598. 105
+599. 1676
+600. 1514
+601. 567
+602. 184
+603. 367
+604. 1736
+605. 749
+606. 1386
+607. 1111
+608. 111
+609. 586
+610. 1611
+611. 254
+612. 1959
+613. 124
+614. 144
+615. 45
+616. 298
+617. 1548
+618. 1966
+619. 2
+620. 1457
+621. 1928
+622. 1296
+623. 114
+624. 390
+625. 568
+626. 145
+627. 1477
+628. 274
+629. 1219
+630. 963
+631. 1031
+632. 660
+633. 1188
+634. 842
+635. 1917
+636. 272
+637. 1843
+638. 623
+639. 1731
+640. 810
+641. 437
+642. 1327
+643. 1392
+644. 627
+645. 1301
+646. 795
+647. 1713
+648. 1952
+649. 1449
+650. 1136
+651. 891
+652. 560
+653. 1418
+654. 662
+655. 44
+656. 152
+657. 781
+658. 350
+659. 1742
+660. 1578
+661. 1184
+662. 545
+663. 2
+664. 1066
+665. 1984
+666. 625
+667. 1608
+668. 23
+669. 604
+670. 647
+671. 1856
+672. 1725
+673. 1575
+674. 1622
+675. 772
+676. 1205
+677. 922
+678. 1975
+679. 723
+680. 1977
+681. 1975
+682. 30
+683. 949
+684. 936
+685. 1060
+686. 1863
+687. 1005
+688. 662
+689. 536
+690. 809
+691. 1345
+692. 717
+693. 636
+694. 994
+695. 1380
+696. 24
+697. 256
+698. 857
+699. 1191
+700. 1394
+701. 390
+702. 1357
+703. 812
+704. 428
+705. 268
+706. 1727
+707. 478
+708. 566
+709. 1399
+710. 1037
+711. 569
+712. 1904
+713. 732
+714. 592
+715. 1123
+716. 1523
+717. 908
+718. 251
+719. 1715
+720. 1560
+721. 1200
+722. 1089
+723. 1288
+724. 22
+725. 1143
+726. 1558
+727. 64
+728. 409
+729. 86
+730. 243
+731. 79
+732. 1668
+733. 1949
+734. 1650
+735. 1056
+736. 1636
+737. 1312
+738. 96
+739. 356
+740. 1220
+741. 615
+742. 625
+743. 1559
+744. 871
+745. 768
+746. 1239
+747. 1877
+748. 1565
+749. 718
+750. 1174
+751. 35
+752. 1463
+753. 1644
+754. 1888
+755. 1503
+756. 702
+757. 368
+758. 599
+759. 1086
+760. 349
+761. 282
+762. 680
+763. 1686
+764. 1480
+765. 671
+766. 1055
+767. 828
+768. 501
+769. 603
+770. 1845
+771. 980
+772. 1414
+773. 1790
+774. 1942
+775. 85
+776. 537
+777. 1755
+778. 1933
+779. 788
+780. 335
+781. 444
+782. 872
+783. 869
+784. 504
+785. 49
+786. 1734
+787. 1072
+788. 197
+789. 1182
+790. 102
+791. 142
+792. 1391
+793. 801
+794. 1587
+795. 269
+796. 1799
+797. 320
+798. 1864
+799. 1298
+800. 398
+801. 182
+802. 713
+803. 1114
+804. 1740
+805. 1854
+806. 510
+807. 397
+808. 501
+809. 1668
+810. 1755
+811. 621
+812. 1367
+813. 1227
+814. 1855
+815. 569
+816. 1373
+817. 207
+818. 184
+819. 930
+820. 27
+821. 1286
+822. 683
+823. 610
+824. 1166
+825. 1682
+826. 726
+827. 257
+828. 1406
+829. 1289
+830. 1775
+831. 223
+832. 1218
+833. 1797
+834. 1496
+835. 1672
+836. 239
+837. 310
+838. 421
+839. 886
+840. 218
+841. 969
+842. 975
+843. 1931
+844. 1184
+845. 897
+846. 789
+847. 1828
+848. 863
+849. 337
+850. 1512
+851. 1086
+852. 152
+853. 1332
+854. 1105
+855. 1080
+856. 554
+857. 479
+858. 1519
+859. 97
+860. 872
+861. 1339
+862. 1020
+863. 86
+864. 163
+865. 961
+866. 1004
+867. 185
+868. 1998
+869. 607
+870. 1105
+871. 850
+872. 1410
+873. 1287
+874. 1625
+875. 144
+876. 525
+877. 1958
+878. 880
+879. 1090
+880. 1902
+881. 383
+882. 921
+883. 334
+884. 1817
+885. 1536
+886. 282
+887. 1380
+888. 1351
+889. 192
+890. 876
+891. 587
+892. 1038
+893. 847
+894. 1
+895. 760
+896. 1028
+897. 1504
+898. 1500
+899. 1758
+900. 1264
+901. 13
+902. 590
+903. 1774
+904. 990
+905. 600
+906. 575
+907. 1140
+908. 77
+909. 90
+910. 762
+911. 440
+912. 106
+913. 1826
+914. 1228
+915. 461
+916. 916
+917. 804
+918. 1789
+919. 1099
+920. 437
+921. 1698
+922. 1515
+923. 1718
+924. 1991
+925. 542
+926. 1427
+927. 649
+928. 3
+929. 635
+930. 656
+931. 545
+932. 38
+933. 1973
+934. 1254
+935. 1107
+936. 470
+937. 918
+938. 1096
+939. 1350
+940. 698
+941. 1138
+942. 1876
+943. 12
+944. 806
+945. 1989
+946. 67
+947. 967
+948. 1835
+949. 345
+950. 878
+951. 612
+952. 438
+953. 685
+954. 786
+955. 9
+956. 546
+957. 1757
+958. 947
+959. 340
+960. 1952
+961. 492
+962. 1992
+963. 1693
+964. 1181
+965. 995
+966. 94
+967. 533
+968. 1881
+969. 462
+970. 945
+971. 343
+972. 152
+973. 610
+974. 364
+975. 886
+976. 601
+977. 845
+978. 1583
+979. 274
+980. 1813
+981. 1796
+982. 1978
+983. 606
+984. 894
+985. 1078
+986. 1990
+987. 342
+988. 220
+989. 1173
+990. 286
+991. 756
+992. 1217
+993. 206
+994. 1829
+995. 1825
+996. 22
+997. 1998
+998. 1476
+999. 750
+1000. 193
+1001. 348
+1002. 924
+1003. 1902
+1004. 331
+1005. 1666
+1006. 1442
+1007. 490
+1008. 1393
+1009. 319
+1010. 635
+1011. 1439
+1012. 1794
+1013. 1838
+1014. 712
+1015. 109
+1016. 1928
+1017. 979
+1018. 204
+1019. 309
+1020. 1713
+1021. 59
+1022. 877
+1023. 1804
+1024. 896
+1025. 450
+1026. 736
+1027. 1988
+1028. 457
+1029. 203
+1030. 408
+1031. 745
+1032. 220
+1033. 1769
+1034. 1964
+1035. 1632
+1036. 988
+1037. 1620
+1038. 294
+1039. 500
+1040. 931
+1041. 99
+1042. 1484
+1043. 368
+1044. 1776
+1045. 1315
+1046. 405
+1047. 1009
+1048. 409
+1049. 1092
+1050. 601
+1051. 1041
+1052. 1889
+1053. 15
+1054. 0
+1055. 1529
+1056. 644
+1057. 505
+1058. 1471
+1059. 1124
+1060. 1552
+1061. 1481
+1062. 285
+1063. 1565
+1064. 48
+1065. 1673
+1066. 691
+1067. 1028
+1068. 1965
+1069. 925
+1070. 1452
+1071. 1238
+1072. 1846
+1073. 1943
+1074. 1003
+1075. 527
+1076. 672
+1077. 853
+1078. 1092
+1079. 1085
+1080. 613
+1081. 1656
+1082. 1276
+1083. 549
+1084. 1251
+1085. 1223
+1086. 1411
+1087. 1758
+1088. 960
+1089. 1807
+1090. 1436
+1091. 29
+1092. 652
+1093. 1243
+1094. 1159
+1095. 601
+1096. 942
+1097. 951
+1098. 1496
+1099. 75
+1100. 1922
+1101. 674
+1102. 685
+1103. 576
+1104. 1201
+1105. 483
+1106. 360
+1107. 158
+1108. 655
+1109. 980
+1110. 1032
+1111. 1529
+1112. 1400
+1113. 1880
+1114. 565
+1115. 1562
+1116. 1919
+1117. 1186
+1118. 486
+1119. 256
+1120. 1977
+1121. 11
+1122. 1622
+1123. 1815
+1124. 977
+1125. 1792
+1126. 497
+1127. 354
+1128. 1769
+1129. 1110
+1130. 1113
+1131. 332
+1132. 1560
+1133. 591
+1134. 1379
+1135. 1334
+1136. 525
+1137. 533
+1138. 1225
+1139. 1988
+1140. 20
+1141. 745
+1142. 711
+1143. 973
+1144. 1871
+1145. 1869
+1146. 868
+1147. 1867
+1148. 113
+1149. 1972
+1150. 1843
+1151. 1373
+1152. 757
+1153. 1540
+1154. 53
+1155. 880
+1156. 1731
+1157. 202
+1158. 435
+1159. 1715
+1160. 1909
+1161. 1462
+1162. 1690
+1163. 522
+1164. 1358
+1165. 1526
+1166. 1424
+1167. 1181
+1168. 356
+1169. 895
+1170. 466
+1171. 1448
+1172. 532
+1173. 837
+1174. 1359
+1175. 14
+1176. 1540
+1177. 1062
+1178. 970
+1179. 1143
+1180. 1123
+1181. 1962
+1182. 1490
+1183. 1198
+1184. 1076
+1185. 652
+1186. 1736
+1187. 363
+1188. 705
+1189. 681
+1190. 1545
+1191. 1744
+1192. 674
+1193. 803
+1194. 359
+1195. 615
+1196. 1794
+1197. 450
+1198. 599
+1199. 1038
+1200. 1284
+1201. 667
+1202. 1342
+1203. 1377
+1204. 1280
+1205. 1205
+1206. 1955
+1207. 238
+1208. 995
+1209. 1157
+1210. 867
+1211. 302
+1212. 800
+1213. 91
+1214. 1450
+1215. 1206
+1216. 1720
+1217. 988
+1218. 1109
+1219. 110
+1220. 1376
+1221. 1448
+1222. 1092
+1223. 1938
+1224. 1219
+1225. 1595
+1226. 1306
+1227. 422
+1228. 80
+1229. 1945
+1230. 456
+1231. 1971
+1232. 1489
+1233. 48
+1234. 1206
+1235. 1242
+1236. 1033
+1237. 1176
+1238. 739
+1239. 1747
+1240. 1066
+1241. 1548
+1242. 1085
+1243. 1323
+1244. 1522
+1245. 589
+1246. 900
+1247. 410
+1248. 1275
+1249. 1631
+1250. 987
+1251. 1135
+1252. 516
+1253. 94
+1254. 1793
+1255. 1011
+1256. 967
+1257. 647
+1258. 353
+1259. 679
+1260. 1384
+1261. 207
+1262. 706
+1263. 603
+1264. 785
+1265. 1645
+1266. 1696
+1267. 850
+1268. 1093
+1269. 75
+1270. 1219
+1271. 1187
+1272. 494
+1273. 1255
+1274. 504
+1275. 1596
+1276. 682
+1277. 234
+1278. 1805
+1279. 11
+1280. 1416
+1281. 1665
+1282. 10
+1283. 590
+1284. 295
+1285. 1454
+1286. 1078
+1287. 168
+1288. 517
+1289. 296
+1290. 20
+1291. 637
+1292. 565
+1293. 1527
+1294. 104
+1295. 1001
+1296. 1157
+1297. 282
+1298. 1439
+1299. 556
+1300. 645
+1301. 341
+1302. 685
+1303. 267
+1304. 91
+1305. 1354
+1306. 677
+1307. 754
+1308. 1659
+1309. 87
+1310. 1053
+1311. 547
+1312. 702
+1313. 1228
+1314. 586
+1315. 1216
+1316. 878
+1317. 1979
+1318. 848
+1319. 878
+1320. 1062
+1321. 90
+1322. 1100
+1323. 146
+1324. 396
+1325. 1301
+1326. 1827
+1327. 1086
+1328. 1807
+1329. 1301
+1330. 1242
+1331. 1983
+1332. 615
+1333. 1151
+1334. 1216
+1335. 788
+1336. 1410
+1337. 1911
+1338. 659
+1339. 15
+1340. 1304
+1341. 1744
+1342. 1091
+1343. 1547
+1344. 861
+1345. 1071
+1346. 1347
+1347. 1317
+1348. 1537
+1349. 604
+1350. 1735
+1351. 1158
+1352. 309
+1353. 969
+1354. 735
+1355. 250
+1356. 296
+1357. 1508
+1358. 1374
+1359. 1532
+1360. 691
+1361. 1377
+1362. 1793
+1363. 1230
+1364. 21
+1365. 537
+1366. 1191
+1367. 170
+1368. 1913
+1369. 1412
+1370. 322
+1371. 16
+1372. 1912
+1373. 74
+1374. 1055
+1375. 1678
+1376. 1587
+1377. 616
+1378. 89
+1379. 1216
+1380. 253
+1381. 111
+1382. 1866
+1383. 337
+1384. 887
+1385. 1949
+1386. 986
+1387. 266
+1388. 1557
+1389. 717
+1390. 933
+1391. 1164
+1392. 562
+1393. 1816
+1394. 1859
+1395. 585
+1396. 827
+1397. 5
+1398. 1295
+1399. 1474
+1400. 634
+1401. 695
+1402. 180
+1403. 1154
+1404. 1703
+1405. 464
+1406. 411
+1407. 1398
+1408. 1828
+1409. 507
+1410. 1219
+1411. 221
+1412. 1811
+1413. 1007
+1414. 117
+1415. 340
+1416. 1274
+1417. 1301
+1418. 1901
+1419. 1379
+1420. 1074
+1421. 574
+1422. 277
+1423. 858
+1424. 1510
+1425. 368
+1426. 979
+1427. 742
+1428. 1296
+1429. 1652
+1430. 1035
+1431. 1931
+1432. 341
+1433. 1382
+1434. 1712
+1435. 425
+1436. 1802
+1437. 568
+1438. 1086
+1439. 103
+1440. 1577
+1441. 1674
+1442. 1711
+1443. 87
+1444. 416
+1445. 1888
+1446. 1874
+1447. 1457
+1448. 1202
+1449. 231
+1450. 1098
+1451. 729
+1452. 1570
+1453. 797
+1454. 146
+1455. 1942
+1456. 5
+1457. 1529
+1458. 666
+1459. 1507
+1460. 1846
+1461. 1791
+1462. 1745
+1463. 1963
+1464. 211
+1465. 812
+1466. 188
+1467. 757
+1468. 1716
+1469. 546
+1470. 104
+1471. 1778
+1472. 164
+1473. 885
+1474. 1541
+1475. 978
+1476. 786
+1477. 311
+1478. 1299
+1479. 627
+1480. 1580
+1481. 1063
+1482. 1822
+1483. 1994
+1484. 330
+1485. 675
+1486. 132
+1487. 1101
+1488. 434
+1489. 1352
+1490. 101
+1491. 1019
+1492. 1402
+1493. 1063
+1494. 99
+1495. 714
+1496. 989
+1497. 1467
+1498. 1978
+1499. 851
+1500. 1313
+1501. 1809
+1502. 719
+1503. 1155
+1504. 1045
+1505. 801
+1506. 643
+1507. 1932
+1508. 1763
+1509. 158
+1510. 80
+1511. 203
+1512. 908
+1513. 1926
+1514. 1534
+1515. 484
+1516. 424
+1517. 1055
+1518. 1061
+1519. 1769
+1520. 1146
+1521. 750
+1522. 330
+1523. 1456
+1524. 246
+1525. 1063
+1526. 117
+1527. 68
+1528. 658
+1529. 914
+1530. 395
+1531. 1521
+1532. 1298
+1533. 266
+1534. 53
+1535. 351
+1536. 1097
+1537. 540
+1538. 354
+1539. 1824
+1540. 413
+1541. 1512
+1542. 696
+1543. 1232
+1544. 192
+1545. 1927
+1546. 969
+1547. 723
+1548. 439
+1549. 841
+1550. 1882
+1551. 38
+1552. 993
+1553. 1304
+1554. 967
+1555. 1252
+1556. 1376
+1557. 1451
+1558. 1678
+1559. 1180
+1560. 602
+1561. 224
+1562. 1994
+1563. 528
+1564. 196
+1565. 65
+1566. 1228
+1567. 27
+1568. 406
+1569. 725
+1570. 1359
+1571. 825
+1572. 628
+1573. 1022
+1574. 178
+1575. 1235
+1576. 360
+1577. 841
+1578. 1717
+1579. 542
+1580. 706
+1581. 1985
+1582. 1052
+1583. 1050
+1584. 366
+1585. 1572
+1586. 1384
+1587. 1807
+1588. 357
+1589. 1581
+1590. 1529
+1591. 1503
+1592. 275
+1593. 915
+1594. 1416
+1595. 1918
+1596. 1826
+1597. 1836
+1598. 3
+1599. 1034
+1600. 557
+1601. 1046
+1602. 142
+1603. 368
+1604. 233
+1605. 771
+1606. 366
+1607. 477
+1608. 183
+1609. 1282
+1610. 292
+1611. 1666
+1612. 30
+1613. 988
+1614. 414
+1615. 1904
+1616. 744
+1617. 1891
+1618. 411
+1619. 706
+1620. 1674
+1621. 613
+1622. 794
+1623. 307
+1624. 364
+1625. 375
+1626. 693
+1627. 1864
+1628. 1286
+1629. 1444
+1630. 1904
+1631. 569
+1632. 1428
+1633. 317
+1634. 1929
+1635. 1610
+1636. 589
+1637. 1650
+1638. 670
+1639. 739
+1640. 682
+1641. 1397
+1642. 704
+1643. 799
+1644. 916
+1645. 882
+1646. 1587
+1647. 1055
+1648. 726
+1649. 1688
+1650. 533
+1651. 1419
+1652. 1589
+1653. 132
+1654. 983
+1655. 709
+1656. 456
+1657. 1800
+1658. 1080
+1659. 1000
+1660. 1423
+1661. 1219
+1662. 1868
+1663. 819
+1664. 479
+1665. 1026
+1666. 141
+1667. 399
+1668. 692
+1669. 1223
+1670. 1330
+1671. 604
+1672. 53
+1673. 40
+1674. 1534
+1675. 1212
+1676. 1301
+1677. 1734
+1678. 855
+1679. 212
+1680. 581
+1681. 1282
+1682. 591
+1683. 1532
+1684. 1487
+1685. 1272
+1686. 505
+1687. 196
+1688. 1207
+1689. 624
+1690. 1376
+1691. 1260
+1692. 1818
+1693. 1713
+1694. 367
+1695. 115
+1696. 544
+1697. 404
+1698. 335
+1699. 728
+1700. 1785
+1701. 98
+1702. 1176
+1703. 1223
+1704. 1076
+1705. 452
+1706. 1503
+1707. 838
+1708. 779
+1709. 1641
+1710. 541
+1711. 738
+1712. 1281
+1713. 196
+1714. 973
+1715. 1442
+1716. 1739
+1717. 332
+1718. 1675
+1719. 1653
+1720. 1005
+1721. 1443
+1722. 743
+1723. 1214
+1724. 262
+1725. 1936
+1726. 49
+1727. 581
+1728. 122
+1729. 1965
+1730. 654
+1731. 707
+1732. 453
+1733. 792
+1734. 1884
+1735. 595
+1736. 1036
+1737. 451
+1738. 1546
+1739. 847
+1740. 1331
+1741. 216
+1742. 901
+1743. 556
+1744. 49
+1745. 1958
+1746. 1315
+1747. 1583
+1748. 49
+1749. 895
+1750. 224
+1751. 887
+1752. 1133
+1753. 1462
+1754. 32
+1755. 1912
+1756. 732
+1757. 105
+1758. 871
+1759. 284
+1760. 167
+1761. 1581
+1762. 778
+1763. 1020
+1764. 230
+1765. 1109
+1766. 742
+1767. 340
+1768. 137
+1769. 1104
+1770. 1383
+1771. 749
+1772. 555
+1773. 586
+1774. 505
+1775. 1543
+1776. 393
+1777. 1415
+1778. 698
+1779. 133
+1780. 307
+1781. 448
+1782. 1309
+1783. 650
+1784. 1444
+1785. 413
+1786. 1599
+1787. 1216
+1788. 1877
+1789. 884
+1790. 1738
+1791. 1888
+1792. 1378
+1793. 23
+1794. 1364
+1795. 1890
+1796. 1705
+1797. 0
+1798. 1906
+1799. 975
+1800. 417
+1801. 1916
+1802. 593
+1803. 1967
+1804. 1390
+1805. 1890
+1806. 1120
+1807. 1434
+1808. 653
+1809. 533
+1810. 345
+1811. 1224
+1812. 1948
+1813. 1500
+1814. 25
+1815. 1170
+1816. 517
+1817. 991
+1818. 1639
+1819. 637
+1820. 1989
+1821. 1131
+1822. 631
+1823. 1799
+1824. 1996
+1825. 26
+1826. 1997
+1827. 543
+1828. 1121
+1829. 1937
+1830. 160
+1831. 1693
+1832. 1165
+1833. 511
+1834. 185
+1835. 1938
+1836. 353
+1837. 268
+1838. 1101
+1839. 221
+1840. 1040
+1841. 703
+1842. 817
+1843. 1664
+1844. 1802
+1845. 1204
+1846. 409
+1847. 1171
+1848. 330
+1849. 1788
+1850. 997
+1851. 680
+1852. 487
+1853. 143
+1854. 1243
+1855. 1820
+1856. 89
+1857. 1843
+1858. 1641
+1859. 1167
+1860. 1482
+1861. 1782
+1862. 1174
+1863. 632
+1864. 839
+1865. 805
+1866. 671
+1867. 692
+1868. 257
+1869. 358
+1870. 1268
+1871. 1053
+1872. 1176
+1873. 1554
+1874. 1712
+1875. 144
+1876. 448
+1877. 1472
+1878. 958
+1879. 1400
+1880. 1422
+1881. 724
+1882. 492
+1883. 674
+1884. 1887
+1885. 397
+1886. 120
+1887. 1299
+1888. 342
+1889. 1306
+1890. 1579
+1891. 1380
+1892. 154
+1893. 156
+1894. 271
+1895. 1654
+1896. 1477
+1897. 1699
+1898. 639
+1899. 1943
+LISTA NORMAL
+0. 1445
+1. 1286
+2. 1297
+3. 1638
+4. 136
+5. 258
+6. 1862
+7. 946
+8. 1064
+9. 1599
+10. 632
+11. 655
+12. 563
+13. 973
+14. 746
+15. 1114
+16. 294
+17. 795
+18. 289
+19. 1777
+20. 1352
+21. 375
+22. 864
+23. 1191
+24. 970
+25. 1302
+26. 1676
+27. 1624
+28. 1619
+29. 256
+30. 1820
+31. 677
+32. 1523
+33. 1169
+34. 601
+35. 144
+36. 987
+37. 1329
+38. 31
+39. 168
+40. 788
+41. 1376
+42. 1364
+43. 306
+44. 915
+45. 1403
+46. 500
+47. 501
+48. 367
+49. 412
+50. 1393
+51. 147
+52. 1421
+53. 198
+54. 267
+55. 459
+56. 833
+57. 1466
+58. 287
+59. 176
+60. 1719
+61. 1379
+62. 671
+63. 1241
+64. 1579
+65. 98
+66. 1714
+67. 1595
+68. 1833
+69. 940
+70. 107
+71. 426
+72. 567
+73. 715
+74. 1077
+75. 1323
+76. 703
+77. 1504
+78. 1436
+79. 672
+80. 805
+81. 732
+82. 334
+83. 292
+84. 840
+85. 672
+86. 723
+87. 863
+88. 821
+89. 1756
+90. 1924
+91. 1995
+92. 63
+93. 1
+94. 435
+95. 1926
+96. 917
+97. 1640
+98. 184
+99. 777
+100. 1354
+101. 1724
+102. 806
+103. 74
+104. 1507
+105. 1763
+106. 1184
+107. 1804
+108. 377
+109. 817
+110. 1506
+111. 649
+112. 328
+113. 403
+114. 396
+115. 1246
+116. 685
+117. 494
+118. 279
+119. 357
+120. 1788
+121. 1517
+122. 98
+123. 1596
+124. 1181
+125. 1754
+126. 1721
+127. 65
+128. 286
+129. 830
+130. 944
+131. 1632
+132. 846
+133. 81
+134. 1869
+135. 910
+136. 1736
+137. 1529
+138. 605
+139. 993
+140. 280
+141. 869
+142. 746
+143. 965
+144. 144
+145. 470
+146. 887
+147. 1841
+148. 107
+149. 1718
+150. 1539
+151. 142
+152. 469
+153. 196
+154. 1264
+155. 589
+156. 771
+157. 169
+158. 1575
+159. 1605
+160. 1605
+161. 663
+162. 1210
+163. 1167
+164. 761
+165. 1985
+166. 755
+167. 399
+168. 1749
+169. 993
+170. 272
+171. 1813
+172. 813
+173. 1603
+174. 1602
 ----------------
 LISTA ARREGLADA (BubbleSort)
 0.0
-1.30
-2.54
-3.75
-4.100
-5.109
-6.112
-7.136
-8.141
-9.163
-10.176
-11.193
-12.200
-13.207
-14.212
-15.215
-16.216
-17.226
-18.232
-19.239
-20.242
-21.249
-22.263
-23.269
-24.293
-25.298
-26.302
-27.323
-28.333
-29.335
-30.341
-31.343
-32.354
-33.358
-34.400
-35.420
-36.425
-37.431
-38.439
-39.442
-40.490
-41.504
-42.536
-43.538
-44.541
-45.542
-46.556
-47.586
-48.586
-49.593
-50.594
-51.612
-52.626
-53.632
-54.650
-55.653
-56.660
-57.669
-58.671
-59.680
-60.681
-61.689
-62.693
-63.700
-64.703
-65.704
-66.713
-67.720
-68.728
-69.728
-70.731
-71.736
-72.756
-73.774
-74.779
-75.781
-76.782
-77.784
-78.810
-79.815
-80.824
-81.831
-82.838
-83.863
-84.864
-85.875
-86.896
-87.903
-88.909
-89.918
-90.926
-91.926
-92.933
-93.938
-94.941
-95.942
-96.990
-97.991
-98.997
-99.1011
-100.1033
-101.1044
-102.1049
-103.1050
-104.1055
-105.1058
-106.1075
-107.1078
-108.1089
-109.1105
-110.1115
-111.1116
-112.1120
-113.1122
-114.1128
-115.1184
-116.1191
-117.1191
-118.1198
-119.1202
-120.1224
-121.1230
-122.1249
-123.1255
-124.1286
-125.1287
-126.1299
-127.1301
-128.1304
-129.1308
-130.1315
-131.1316
-132.1320
-133.1336
-134.1357
-135.1370
-136.1370
-137.1387
-138.1388
-139.1399
-140.1414
-141.1420
-142.1458
-143.1465
-144.1474
-145.1477
-146.1481
-147.1486
-148.1531
-149.1535
-150.1539
-151.1539
-152.1590
-153.1590
-154.1595
-155.1600
-156.1613
-157.1623
-158.1632
-159.1636
-160.1661
-161.1672
-162.1680
-163.1684
-164.1699
-165.1707
-166.1709
-167.1731
-168.1735
-169.1748
-170.1749
-171.1752
-172.1758
-173.1760
-174.1762
-175.1763
-176.1770
-177.1777
-178.1789
-179.1795
-180.1812
-181.1826
-182.1834
-183.1839
-184.1844
-185.1854
-186.1856
-187.1865
-188.1877
-189.1883
-190.1883
-191.1890
-192.1911
-193.1927
-194.1930
-195.1958
-196.1959
-197.1968
-198.1987
-199.1989
+1.0
+2.0
+3.1
+4.1
+5.2
+6.2
+7.3
+8.3
+9.5
+10.5
+11.5
+12.9
+13.10
+14.11
+15.11
+16.12
+17.12
+18.13
+19.14
+20.15
+21.15
+22.16
+23.16
+24.17
+25.18
+26.19
+27.20
+28.20
+29.21
+30.22
+31.22
+32.23
+33.23
+34.23
+35.24
+36.24
+37.25
+38.26
+39.26
+40.27
+41.27
+42.28
+43.29
+44.29
+45.30
+46.30
+47.32
+48.33
+49.33
+50.33
+51.34
+52.35
+53.38
+54.38
+55.38
+56.40
+57.41
+58.41
+59.44
+60.45
+61.48
+62.48
+63.48
+64.49
+65.49
+66.49
+67.49
+68.53
+69.53
+70.53
+71.58
+72.59
+73.62
+74.64
+75.65
+76.67
+77.68
+78.69
+79.74
+80.75
+81.75
+82.77
+83.79
+84.79
+85.79
+86.80
+87.80
+88.85
+89.86
+90.86
+91.86
+92.86
+93.87
+94.87
+95.89
+96.89
+97.90
+98.90
+99.91
+100.91
+101.94
+102.94
+103.96
+104.97
+105.98
+106.99
+107.99
+108.101
+109.102
+110.103
+111.104
+112.104
+113.105
+114.105
+115.106
+116.107
+117.108
+118.109
+119.110
+120.111
+121.111
+122.113
+123.114
+124.115
+125.117
+126.117
+127.120
+128.122
+129.124
+130.126
+131.131
+132.132
+133.132
+134.132
+135.133
+136.137
+137.141
+138.142
+139.142
+140.142
+141.143
+142.144
+143.144
+144.144
+145.145
+146.146
+147.146
+148.152
+149.152
+150.152
+151.154
+152.156
+153.156
+154.158
+155.158
+156.159
+157.160
+158.163
+159.163
+160.164
+161.167
+162.168
+163.168
+164.170
+165.170
+166.172
+167.178
+168.178
+169.180
+170.181
+171.182
+172.183
+173.184
+174.184
+175.185
+176.185
+177.188
+178.189
+179.191
+180.192
+181.192
+182.193
+183.194
+184.195
+185.196
+186.196
+187.196
+188.196
+189.197
+190.199
+191.201
+192.202
+193.203
+194.203
+195.204
+196.205
+197.205
+198.206
+199.207
+200.207
+201.211
+202.212
+203.212
+204.214
+205.214
+206.216
+207.218
+208.220
+209.220
+210.220
+211.221
+212.221
+213.223
+214.223
+215.224
+216.224
+217.224
+218.225
+219.229
+220.230
+221.231
+222.233
+223.233
+224.234
+225.236
+226.238
+227.239
+228.240
+229.240
+230.240
+231.241
+232.243
+233.243
+234.244
+235.245
+236.246
+237.247
+238.250
+239.251
+240.252
+241.253
+242.253
+243.253
+244.254
+245.255
+246.256
+247.256
+248.257
+249.257
+250.262
+251.266
+252.266
+253.266
+254.267
+255.268
+256.268
+257.269
+258.270
+259.271
+260.272
+261.274
+262.274
+263.274
+264.275
+265.277
+266.279
+267.282
+268.282
+269.282
+270.284
+271.285
+272.286
+273.290
+274.292
+275.294
+276.295
+277.295
+278.295
+279.296
+280.296
+281.296
+282.298
+283.300
+284.300
+285.301
+286.302
+287.302
+288.306
+289.307
+290.307
+291.309
+292.309
+293.310
+294.310
+295.311
+296.311
+297.313
+298.316
+299.317
+300.318
+301.318
+302.319
+303.319
+304.320
+305.322
+306.322
+307.322
+308.327
+309.330
+310.330
+311.330
+312.330
+313.331
+314.331
+315.332
+316.332
+317.334
+318.335
+319.335
+320.335
+321.335
+322.337
+323.337
+324.338
+325.338
+326.339
+327.340
+328.340
+329.340
+330.341
+331.341
+332.342
+333.342
+334.343
+335.345
+336.345
+337.346
+338.348
+339.348
+340.349
+341.350
+342.351
+343.353
+344.353
+345.354
+346.354
+347.354
+348.356
+349.356
+350.357
+351.358
+352.359
+353.360
+354.360
+355.363
+356.363
+357.364
+358.364
+359.364
+360.366
+361.366
+362.366
+363.367
+364.367
+365.367
+366.368
+367.368
+368.368
+369.368
+370.375
+371.380
+372.383
+373.385
+374.390
+375.390
+376.392
+377.393
+378.395
+379.396
+380.397
+381.397
+382.397
+383.398
+384.399
+385.400
+386.400
+387.402
+388.404
+389.405
+390.405
+391.405
+392.405
+393.406
+394.406
+395.408
+396.409
+397.409
+398.409
+399.409
+400.410
+401.411
+402.411
+403.413
+404.413
+405.413
+406.413
+407.414
+408.415
+409.415
+410.416
+411.417
+412.417
+413.418
+414.421
+415.422
+416.424
+417.425
+418.428
+419.434
+420.435
+421.437
+422.437
+423.437
+424.438
+425.438
+426.439
+427.440
+428.440
+429.441
+430.444
+431.444
+432.447
+433.448
+434.448
+435.450
+436.450
+437.451
+438.452
+439.453
+440.456
+441.456
+442.457
+443.457
+444.461
+445.462
+446.463
+447.464
+448.465
+449.465
+450.466
+451.470
+452.471
+453.474
+454.476
+455.477
+456.477
+457.478
+458.479
+459.479
+460.480
+461.480
+462.480
+463.481
+464.481
+465.483
+466.484
+467.485
+468.486
+469.486
+470.486
+471.487
+472.487
+473.487
+474.487
+475.490
+476.490
+477.491
+478.492
+479.492
+480.494
+481.494
+482.496
+483.497
+484.500
+485.501
+486.501
+487.501
+488.503
+489.504
+490.504
+491.505
+492.505
+493.505
+494.507
+495.509
+496.510
+497.510
+498.511
+499.516
+500.517
+501.517
+502.517
+503.518
+504.522
+505.525
+506.525
+507.526
+508.527
+509.528
+510.531
+511.531
+512.532
+513.533
+514.533
+515.533
+516.533
+517.533
+518.534
+519.536
+520.537
+521.537
+522.539
+523.540
+524.540
+525.540
+526.541
+527.542
+528.542
+529.543
+530.544
+531.545
+532.545
+533.546
+534.546
+535.547
+536.549
+537.552
+538.553
+539.554
+540.555
+541.556
+542.556
+543.557
+544.557
+545.560
+546.562
+547.564
+548.565
+549.565
+550.565
+551.565
+552.566
+553.567
+554.567
+555.567
+556.568
+557.568
+558.569
+559.569
+560.569
+561.573
+562.573
+563.574
+564.574
+565.575
+566.576
+567.576
+568.579
+569.580
+570.581
+571.581
+572.584
+573.585
+574.586
+575.586
+576.586
+577.586
+578.587
+579.588
+580.589
+581.589
+582.590
+583.590
+584.590
+585.591
+586.591
+587.592
+588.593
+589.595
+590.595
+591.599
+592.599
+593.599
+594.600
+595.600
+596.601
+597.601
+598.601
+599.602
+600.603
+601.603
+602.604
+603.604
+604.604
+605.606
+606.607
+607.608
+608.610
+609.610
+610.612
+611.612
+612.613
+613.613
+614.613
+615.615
+616.615
+617.615
+618.615
+619.616
+620.616
+621.617
+622.621
+623.623
+624.623
+625.624
+626.625
+627.625
+628.627
+629.627
+630.628
+631.628
+632.628
+633.631
+634.631
+635.632
+636.632
+637.634
+638.635
+639.635
+640.636
+641.637
+642.637
+643.638
+644.639
+645.641
+646.641
+647.642
+648.643
+649.644
+650.645
+651.645
+652.647
+653.647
+654.649
+655.650
+656.652
+657.652
+658.653
+659.654
+660.654
+661.655
+662.655
+663.655
+664.656
+665.657
+666.658
+667.659
+668.660
+669.660
+670.662
+671.662
+672.664
+673.666
+674.667
+675.670
+676.671
+677.671
+678.671
+679.671
+680.672
+681.673
+682.674
+683.674
+684.674
+685.675
+686.677
+687.678
+688.679
+689.679
+690.680
+691.680
+692.680
+693.681
+694.682
+695.682
+696.682
+697.683
+698.685
+699.685
+700.685
+701.689
+702.691
+703.691
+704.691
+705.692
+706.692
+707.693
+708.693
+709.695
+710.696
+711.696
+712.698
+713.698
+714.702
+715.702
+716.703
+717.704
+718.705
+719.705
+720.706
+721.706
+722.706
+723.707
+724.708
+725.709
+726.711
+727.712
+728.713
+729.714
+730.717
+731.717
+732.717
+733.718
+734.719
+735.720
+736.722
+737.723
+738.723
+739.724
+740.725
+741.726
+742.726
+743.726
+744.728
+745.729
+746.730
+747.732
+748.732
+749.732
+750.735
+751.736
+752.736
+753.737
+754.737
+755.738
+756.739
+757.739
+758.739
+759.740
+760.741
+761.742
+762.742
+763.743
+764.744
+765.744
+766.745
+767.745
+768.749
+769.749
+770.750
+771.750
+772.754
+773.754
+774.755
+775.756
+776.757
+777.757
+778.759
+779.759
+780.760
+781.761
+782.762
+783.762
+784.764
+785.767
+786.768
+787.769
+788.771
+789.772
+790.776
+791.778
+792.779
+793.781
+794.782
+795.783
+796.785
+797.786
+798.786
+799.788
+800.788
+801.789
+802.790
+803.792
+804.794
+805.794
+806.795
+807.797
+808.797
+809.797
+810.799
+811.800
+812.801
+813.801
+814.802
+815.803
+816.803
+817.804
+818.805
+819.806
+820.809
+821.809
+822.810
+823.811
+824.812
+825.812
+826.817
+827.819
+828.825
+829.826
+830.827
+831.828
+832.834
+833.837
+834.837
+835.838
+836.839
+837.839
+838.841
+839.841
+840.842
+841.843
+842.845
+843.846
+844.847
+845.847
+846.847
+847.848
+848.849
+849.850
+850.850
+851.850
+852.851
+853.851
+854.852
+855.853
+856.855
+857.856
+858.857
+859.858
+860.859
+861.860
+862.861
+863.863
+864.863
+865.865
+866.867
+867.868
+868.869
+869.871
+870.871
+871.872
+872.872
+873.873
+874.875
+875.876
+876.877
+877.878
+878.878
+879.878
+880.880
+881.880
+882.882
+883.884
+884.885
+885.885
+886.886
+887.886
+888.887
+889.887
+890.888
+891.889
+892.891
+893.892
+894.894
+895.895
+896.895
+897.896
+898.896
+899.897
+900.900
+901.900
+902.901
+903.901
+904.905
+905.908
+906.908
+907.910
+908.910
+909.910
+910.911
+911.911
+912.914
+913.915
+914.916
+915.916
+916.916
+917.918
+918.921
+919.922
+920.924
+921.925
+922.925
+923.930
+924.931
+925.933
+926.935
+927.935
+928.936
+929.942
+930.945
+931.946
+932.946
+933.947
+934.949
+935.951
+936.953
+937.956
+938.958
+939.959
+940.960
+941.961
+942.961
+943.963
+944.964
+945.967
+946.967
+947.967
+948.969
+949.969
+950.969
+951.970
+952.973
+953.973
+954.975
+955.975
+956.977
+957.978
+958.979
+959.979
+960.980
+961.980
+962.980
+963.981
+964.983
+965.986
+966.987
+967.987
+968.988
+969.988
+970.988
+971.989
+972.990
+973.990
+974.991
+975.993
+976.993
+977.994
+978.995
+979.995
+980.995
+981.995
+982.997
+983.999
+984.999
+985.1000
+986.1001
+987.1003
+988.1004
+989.1005
+990.1005
+991.1006
+992.1007
+993.1008
+994.1008
+995.1009
+996.1010
+997.1011
+998.1011
+999.1011
+1000.1013
+1001.1019
+1002.1020
+1003.1020
+1004.1020
+1005.1020
+1006.1022
+1007.1024
+1008.1024
+1009.1026
+1010.1027
+1011.1028
+1012.1028
+1013.1028
+1014.1031
+1015.1031
+1016.1032
+1017.1032
+1018.1033
+1019.1034
+1020.1035
+1021.1036
+1022.1037
+1023.1038
+1024.1038
+1025.1039
+1026.1040
+1027.1041
+1028.1045
+1029.1045
+1030.1046
+1031.1050
+1032.1051
+1033.1052
+1034.1053
+1035.1053
+1036.1053
+1037.1055
+1038.1055
+1039.1055
+1040.1055
+1041.1056
+1042.1056
+1043.1058
+1044.1059
+1045.1060
+1046.1060
+1047.1061
+1048.1061
+1049.1062
+1050.1062
+1051.1063
+1052.1063
+1053.1063
+1054.1063
+1055.1066
+1056.1066
+1057.1066
+1058.1071
+1059.1072
+1060.1073
+1061.1074
+1062.1076
+1063.1076
+1064.1078
+1065.1078
+1066.1078
+1067.1079
+1068.1080
+1069.1080
+1070.1080
+1071.1085
+1072.1085
+1073.1086
+1074.1086
+1075.1086
+1076.1086
+1077.1087
+1078.1087
+1079.1088
+1080.1089
+1081.1090
+1082.1091
+1083.1091
+1084.1091
+1085.1092
+1086.1092
+1087.1092
+1088.1093
+1089.1096
+1090.1097
+1091.1098
+1092.1099
+1093.1100
+1094.1100
+1095.1101
+1096.1101
+1097.1104
+1098.1104
+1099.1105
+1100.1105
+1101.1106
+1102.1107
+1103.1108
+1104.1109
+1105.1109
+1106.1110
+1107.1110
+1108.1110
+1109.1111
+1110.1113
+1111.1113
+1112.1114
+1113.1114
+1114.1114
+1115.1120
+1116.1120
+1117.1121
+1118.1123
+1119.1123
+1120.1124
+1121.1124
+1122.1128
+1123.1129
+1124.1131
+1125.1131
+1126.1133
+1127.1135
+1128.1136
+1129.1138
+1130.1139
+1131.1139
+1132.1140
+1133.1140
+1134.1143
+1135.1143
+1136.1146
+1137.1148
+1138.1151
+1139.1153
+1140.1154
+1141.1155
+1142.1157
+1143.1157
+1144.1157
+1145.1158
+1146.1159
+1147.1160
+1148.1164
+1149.1164
+1150.1165
+1151.1166
+1152.1166
+1153.1167
+1154.1168
+1155.1169
+1156.1170
+1157.1171
+1158.1171
+1159.1173
+1160.1174
+1161.1174
+1162.1176
+1163.1176
+1164.1176
+1165.1177
+1166.1180
+1167.1181
+1168.1181
+1169.1182
+1170.1184
+1171.1184
+1172.1186
+1173.1187
+1174.1188
+1175.1190
+1176.1191
+1177.1191
+1178.1193
+1179.1193
+1180.1196
+1181.1198
+1182.1200
+1183.1201
+1184.1202
+1185.1204
+1186.1205
+1187.1205
+1188.1206
+1189.1206
+1190.1207
+1191.1207
+1192.1207
+1193.1208
+1194.1212
+1195.1214
+1196.1216
+1197.1216
+1198.1216
+1199.1216
+1200.1217
+1201.1218
+1202.1219
+1203.1219
+1204.1219
+1205.1219
+1206.1219
+1207.1220
+1208.1223
+1209.1223
+1210.1223
+1211.1223
+1212.1224
+1213.1225
+1214.1225
+1215.1226
+1216.1227
+1217.1228
+1218.1228
+1219.1228
+1220.1228
+1221.1230
+1222.1231
+1223.1232
+1224.1235
+1225.1238
+1226.1239
+1227.1241
+1228.1242
+1229.1242
+1230.1243
+1231.1243
+1232.1251
+1233.1251
+1234.1252
+1235.1254
+1236.1254
+1237.1255
+1238.1256
+1239.1260
+1240.1264
+1241.1266
+1242.1268
+1243.1270
+1244.1270
+1245.1271
+1246.1272
+1247.1274
+1248.1274
+1249.1275
+1250.1276
+1251.1276
+1252.1279
+1253.1280
+1254.1281
+1255.1282
+1256.1282
+1257.1284
+1258.1284
+1259.1286
+1260.1286
+1261.1287
+1262.1288
+1263.1288
+1264.1289
+1265.1289
+1266.1291
+1267.1292
+1268.1293
+1269.1294
+1270.1295
+1271.1296
+1272.1296
+1273.1298
+1274.1298
+1275.1299
+1276.1299
+1277.1301
+1278.1301
+1279.1301
+1280.1301
+1281.1301
+1282.1302
+1283.1304
+1284.1304
+1285.1304
+1286.1305
+1287.1305
+1288.1306
+1289.1306
+1290.1309
+1291.1311
+1292.1312
+1293.1313
+1294.1315
+1295.1315
+1296.1317
+1297.1323
+1298.1326
+1299.1327
+1300.1328
+1301.1329
+1302.1330
+1303.1331
+1304.1332
+1305.1334
+1306.1337
+1307.1339
+1308.1339
+1309.1341
+1310.1342
+1311.1344
+1312.1345
+1313.1347
+1314.1350
+1315.1351
+1316.1351
+1317.1352
+1318.1353
+1319.1354
+1320.1355
+1321.1357
+1322.1357
+1323.1358
+1324.1359
+1325.1359
+1326.1359
+1327.1361
+1328.1363
+1329.1364
+1330.1365
+1331.1367
+1332.1372
+1333.1373
+1334.1373
+1335.1374
+1336.1374
+1337.1375
+1338.1376
+1339.1376
+1340.1376
+1341.1377
+1342.1377
+1343.1378
+1344.1379
+1345.1379
+1346.1380
+1347.1380
+1348.1380
+1349.1381
+1350.1382
+1351.1383
+1352.1384
+1353.1384
+1354.1386
+1355.1387
+1356.1390
+1357.1391
+1358.1392
+1359.1393
+1360.1394
+1361.1396
+1362.1397
+1363.1398
+1364.1399
+1365.1399
+1366.1400
+1367.1400
+1368.1401
+1369.1401
+1370.1402
+1371.1404
+1372.1404
+1373.1404
+1374.1406
+1375.1407
+1376.1410
+1377.1410
+1378.1410
+1379.1411
+1380.1412
+1381.1414
+1382.1415
+1383.1416
+1384.1416
+1385.1418
+1386.1419
+1387.1420
+1388.1422
+1389.1422
+1390.1423
+1391.1424
+1392.1427
+1393.1428
+1394.1428
+1395.1430
+1396.1430
+1397.1431
+1398.1434
+1399.1436
+1400.1439
+1401.1439
+1402.1440
+1403.1441
+1404.1442
+1405.1442
+1406.1443
+1407.1444
+1408.1444
+1409.1446
+1410.1448
+1411.1448
+1412.1448
+1413.1449
+1414.1450
+1415.1451
+1416.1452
+1417.1453
+1418.1454
+1419.1456
+1420.1457
+1421.1457
+1422.1459
+1423.1462
+1424.1462
+1425.1462
+1426.1462
+1427.1463
+1428.1467
+1429.1471
+1430.1472
+1431.1473
+1432.1473
+1433.1474
+1434.1476
+1435.1477
+1436.1477
+1437.1478
+1438.1480
+1439.1481
+1440.1482
+1441.1483
+1442.1484
+1443.1484
+1444.1487
+1445.1488
+1446.1489
+1447.1490
+1448.1496
+1449.1496
+1450.1499
+1451.1500
+1452.1500
+1453.1503
+1454.1503
+1455.1503
+1456.1504
+1457.1504
+1458.1506
+1459.1507
+1460.1508
+1461.1509
+1462.1510
+1463.1512
+1464.1512
+1465.1512
+1466.1514
+1467.1515
+1468.1517
+1469.1519
+1470.1519
+1471.1521
+1472.1521
+1473.1522
+1474.1523
+1475.1526
+1476.1527
+1477.1529
+1478.1529
+1479.1529
+1480.1529
+1481.1532
+1482.1532
+1483.1534
+1484.1534
+1485.1536
+1486.1537
+1487.1540
+1488.1540
+1489.1541
+1490.1541
+1491.1543
+1492.1543
+1493.1545
+1494.1545
+1495.1546
+1496.1547
+1497.1548
+1498.1548
+1499.1551
+1500.1552
+1501.1554
+1502.1557
+1503.1557
+1504.1557
+1505.1558
+1506.1559
+1507.1560
+1508.1560
+1509.1560
+1510.1562
+1511.1562
+1512.1562
+1513.1562
+1514.1565
+1515.1565
+1516.1568
+1517.1568
+1518.1570
+1519.1572
+1520.1573
+1521.1573
+1522.1575
+1523.1577
+1524.1578
+1525.1579
+1526.1580
+1527.1581
+1528.1581
+1529.1581
+1530.1583
+1531.1583
+1532.1583
+1533.1587
+1534.1587
+1535.1587
+1536.1587
+1537.1589
+1538.1592
+1539.1595
+1540.1596
+1541.1596
+1542.1599
+1543.1599
+1544.1601
+1545.1603
+1546.1606
+1547.1608
+1548.1610
+1549.1610
+1550.1610
+1551.1611
+1552.1613
+1553.1613
+1554.1615
+1555.1616
+1556.1617
+1557.1618
+1558.1620
+1559.1620
+1560.1622
+1561.1622
+1562.1625
+1563.1625
+1564.1626
+1565.1631
+1566.1632
+1567.1636
+1568.1636
+1569.1639
+1570.1641
+1571.1641
+1572.1642
+1573.1644
+1574.1644
+1575.1645
+1576.1647
+1577.1650
+1578.1650
+1579.1650
+1580.1652
+1581.1653
+1582.1654
+1583.1656
+1584.1659
+1585.1664
+1586.1665
+1587.1666
+1588.1666
+1589.1666
+1590.1668
+1591.1668
+1592.1671
+1593.1672
+1594.1673
+1595.1674
+1596.1674
+1597.1674
+1598.1674
+1599.1675
+1600.1676
+1601.1677
+1602.1678
+1603.1678
+1604.1679
+1605.1680
+1606.1682
+1607.1684
+1608.1686
+1609.1688
+1610.1689
+1611.1690
+1612.1691
+1613.1691
+1614.1693
+1615.1693
+1616.1693
+1617.1696
+1618.1697
+1619.1698
+1620.1699
+1621.1703
+1622.1705
+1623.1706
+1624.1706
+1625.1707
+1626.1707
+1627.1709
+1628.1710
+1629.1711
+1630.1711
+1631.1712
+1632.1712
+1633.1713
+1634.1713
+1635.1713
+1636.1713
+1637.1714
+1638.1715
+1639.1715
+1640.1716
+1641.1716
+1642.1717
+1643.1718
+1644.1718
+1645.1720
+1646.1722
+1647.1724
+1648.1725
+1649.1725
+1650.1726
+1651.1727
+1652.1729
+1653.1730
+1654.1731
+1655.1731
+1656.1733
+1657.1733
+1658.1734
+1659.1734
+1660.1734
+1661.1735
+1662.1736
+1663.1736
+1664.1738
+1665.1739
+1666.1740
+1667.1742
+1668.1744
+1669.1744
+1670.1745
+1671.1746
+1672.1747
+1673.1748
+1674.1748
+1675.1753
+1676.1754
+1677.1755
+1678.1755
+1679.1755
+1680.1757
+1681.1758
+1682.1758
+1683.1759
+1684.1761
+1685.1763
+1686.1767
+1687.1769
+1688.1769
+1689.1769
+1690.1774
+1691.1775
+1692.1776
+1693.1778
+1694.1782
+1695.1782
+1696.1785
+1697.1788
+1698.1789
+1699.1790
+1700.1791
+1701.1792
+1702.1792
+1703.1793
+1704.1793
+1705.1794
+1706.1794
+1707.1796
+1708.1796
+1709.1797
+1710.1797
+1711.1799
+1712.1799
+1713.1800
+1714.1802
+1715.1802
+1716.1804
+1717.1805
+1718.1807
+1719.1807
+1720.1807
+1721.1808
+1722.1809
+1723.1809
+1724.1811
+1725.1813
+1726.1815
+1727.1816
+1728.1817
+1729.1818
+1730.1820
+1731.1820
+1732.1821
+1733.1821
+1734.1822
+1735.1824
+1736.1825
+1737.1826
+1738.1826
+1739.1827
+1740.1828
+1741.1828
+1742.1828
+1743.1829
+1744.1832
+1745.1835
+1746.1836
+1747.1838
+1748.1839
+1749.1840
+1750.1841
+1751.1843
+1752.1843
+1753.1843
+1754.1843
+1755.1845
+1756.1846
+1757.1846
+1758.1853
+1759.1854
+1760.1855
+1761.1856
+1762.1859
+1763.1859
+1764.1860
+1765.1863
+1766.1863
+1767.1864
+1768.1864
+1769.1866
+1770.1867
+1771.1867
+1772.1867
+1773.1868
+1774.1869
+1775.1871
+1776.1871
+1777.1873
+1778.1874
+1779.1876
+1780.1877
+1781.1877
+1782.1880
+1783.1881
+1784.1882
+1785.1882
+1786.1883
+1787.1884
+1788.1887
+1789.1888
+1790.1888
+1791.1888
+1792.1889
+1793.1890
+1794.1890
+1795.1891
+1796.1891
+1797.1892
+1798.1895
+1799.1901
+1800.1901
+1801.1901
+1802.1902
+1803.1902
+1804.1903
+1805.1904
+1806.1904
+1807.1904
+1808.1906
+1809.1909
+1810.1909
+1811.1911
+1812.1912
+1813.1912
+1814.1913
+1815.1916
+1816.1917
+1817.1917
+1818.1918
+1819.1918
+1820.1919
+1821.1922
+1822.1924
+1823.1926
+1824.1927
+1825.1928
+1826.1928
+1827.1928
+1828.1929
+1829.1931
+1830.1931
+1831.1932
+1832.1932
+1833.1933
+1834.1934
+1835.1936
+1836.1936
+1837.1937
+1838.1938
+1839.1938
+1840.1942
+1841.1942
+1842.1943
+1843.1943
+1844.1945
+1845.1948
+1846.1948
+1847.1949
+1848.1949
+1849.1951
+1850.1952
+1851.1952
+1852.1953
+1853.1955
+1854.1956
+1855.1958
+1856.1958
+1857.1958
+1858.1959
+1859.1962
+1860.1963
+1861.1964
+1862.1965
+1863.1965
+1864.1966
+1865.1966
+1866.1967
+1867.1971
+1868.1972
+1869.1973
+1870.1975
+1871.1975
+1872.1976
+1873.1977
+1874.1977
+1875.1978
+1876.1978
+1877.1979
+1878.1982
+1879.1982
+1880.1983
+1881.1983
+1882.1984
+1883.1985
+1884.1988
+1885.1988
+1886.1988
+1887.1989
+1888.1989
+1889.1990
+1890.1991
+1891.1992
+1892.1994
+1893.1994
+1894.1996
+1895.1997
+1896.1997
+1897.1997
+1898.1998
+1899.1998
 LISTA NORMAL
 0. 0
-1. 30
-2. 54
-3. 75
-4. 100
-5. 109
-6. 112
-7. 136
-8. 141
-9. 163
-10. 176
-11. 193
-12. 200
-13. 207
-14. 212
-15. 215
-16. 216
-17. 226
-18. 232
-19. 239
-20. 242
-21. 249
-22. 263
-23. 269
-24. 293
-25. 298
-26. 302
-27. 323
-28. 333
-29. 335
-30. 341
-31. 343
-32. 354
-33. 358
-34. 400
-35. 420
-36. 425
-37. 431
-38. 439
-39. 442
-40. 490
-41. 504
-42. 536
-43. 538
-44. 541
-45. 542
-46. 556
-47. 586
-48. 586
-49. 593
-50. 594
-51. 612
-52. 626
-53. 632
-54. 650
-55. 653
-56. 660
-57. 669
-58. 671
-59. 680
-60. 681
-61. 689
-62. 693
-63. 700
-64. 703
-65. 704
-66. 713
-67. 720
-68. 728
-69. 728
-70. 731
-71. 736
-72. 756
-73. 774
-74. 779
-75. 781
-76. 782
-77. 784
-78. 810
-79. 815
-80. 824
-81. 831
-82. 838
-83. 863
-84. 864
-85. 875
-86. 896
-87. 903
-88. 909
-89. 918
-90. 926
-91. 926
-92. 933
-93. 938
-94. 941
-95. 942
-96. 990
-97. 991
-98. 997
-99. 1011
-100. 1033
-101. 1044
-102. 1049
-103. 1050
-104. 1055
-105. 1058
-106. 1075
-107. 1078
-108. 1089
-109. 1105
-110. 1115
-111. 1116
-112. 1120
-113. 1122
-114. 1128
-115. 1184
-116. 1191
-117. 1191
-118. 1198
-119. 1202
-120. 1224
-121. 1230
-122. 1249
-123. 1255
-124. 1286
-125. 1287
-126. 1299
-127. 1301
-128. 1304
-129. 1308
-130. 1315
-131. 1316
-132. 1320
-133. 1336
-134. 1357
-135. 1370
-136. 1370
-137. 1387
-138. 1388
-139. 1399
-140. 1414
-141. 1420
-142. 1458
-143. 1465
-144. 1474
-145. 1477
-146. 1481
-147. 1486
-148. 1531
-149. 1535
-150. 1539
-151. 1539
-152. 1590
-153. 1590
-154. 1595
-155. 1600
-156. 1613
-157. 1623
-158. 1632
-159. 1636
-160. 1661
-161. 1672
-162. 1680
-163. 1684
-164. 1699
-165. 1707
-166. 1709
-167. 1731
-168. 1735
-169. 1748
-170. 1749
-171. 1752
-172. 1758
-173. 1760
-174. 1762
-175. 1763
-176. 1770
-177. 1777
-178. 1789
-179. 1795
-180. 1812
-181. 1826
-182. 1834
-183. 1839
-184. 1844
-185. 1854
-186. 1856
-187. 1865
-188. 1877
-189. 1883
-190. 1883
-191. 1890
-192. 1911
-193. 1927
-194. 1930
-195. 1958
-196. 1959
-197. 1968
-198. 1987
-199. 1989
+1. 0
+2. 0
+3. 1
+4. 1
+5. 2
+6. 2
+7. 3
+8. 3
+9. 5
+10. 5
+11. 5
+12. 9
+13. 10
+14. 11
+15. 11
+16. 12
+17. 12
+18. 13
+19. 14
+20. 15
+21. 15
+22. 16
+23. 16
+24. 17
+25. 18
+26. 19
+27. 20
+28. 20
+29. 21
+30. 22
+31. 22
+32. 23
+33. 23
+34. 23
+35. 24
+36. 24
+37. 25
+38. 26
+39. 26
+40. 27
+41. 27
+42. 28
+43. 29
+44. 29
+45. 30
+46. 30
+47. 32
+48. 33
+49. 33
+50. 33
+51. 34
+52. 35
+53. 38
+54. 38
+55. 38
+56. 40
+57. 41
+58. 41
+59. 44
+60. 45
+61. 48
+62. 48
+63. 48
+64. 49
+65. 49
+66. 49
+67. 49
+68. 53
+69. 53
+70. 53
+71. 58
+72. 59
+73. 62
+74. 64
+75. 65
+76. 67
+77. 68
+78. 69
+79. 74
+80. 75
+81. 75
+82. 77
+83. 79
+84. 79
+85. 79
+86. 80
+87. 80
+88. 85
+89. 86
+90. 86
+91. 86
+92. 86
+93. 87
+94. 87
+95. 89
+96. 89
+97. 90
+98. 90
+99. 91
+100. 91
+101. 94
+102. 94
+103. 96
+104. 97
+105. 98
+106. 99
+107. 99
+108. 101
+109. 102
+110. 103
+111. 104
+112. 104
+113. 105
+114. 105
+115. 106
+116. 107
+117. 108
+118. 109
+119. 110
+120. 111
+121. 111
+122. 113
+123. 114
+124. 115
+125. 117
+126. 117
+127. 120
+128. 122
+129. 124
+130. 126
+131. 131
+132. 132
+133. 132
+134. 132
+135. 133
+136. 137
+137. 141
+138. 142
+139. 142
+140. 142
+141. 143
+142. 144
+143. 144
+144. 144
+145. 145
+146. 146
+147. 146
+148. 152
+149. 152
+150. 152
+151. 154
+152. 156
+153. 156
+154. 158
+155. 158
+156. 159
+157. 160
+158. 163
+159. 163
+160. 164
+161. 167
+162. 168
+163. 168
+164. 170
+165. 170
+166. 172
+167. 178
+168. 178
+169. 180
+170. 181
+171. 182
+172. 183
+173. 184
+174. 184
+175. 185
+176. 185
+177. 188
+178. 189
+179. 191
+180. 192
+181. 192
+182. 193
+183. 194
+184. 195
+185. 196
+186. 196
+187. 196
+188. 196
+189. 197
+190. 199
+191. 201
+192. 202
+193. 203
+194. 203
+195. 204
+196. 205
+197. 205
+198. 206
+199. 207
+200. 207
+201. 211
+202. 212
+203. 212
+204. 214
+205. 214
+206. 216
+207. 218
+208. 220
+209. 220
+210. 220
+211. 221
+212. 221
+213. 223
+214. 223
+215. 224
+216. 224
+217. 224
+218. 225
+219. 229
+220. 230
+221. 231
+222. 233
+223. 233
+224. 234
+225. 236
+226. 238
+227. 239
+228. 240
+229. 240
+230. 240
+231. 241
+232. 243
+233. 243
+234. 244
+235. 245
+236. 246
+237. 247
+238. 250
+239. 251
+240. 252
+241. 253
+242. 253
+243. 253
+244. 254
+245. 255
+246. 256
+247. 256
+248. 257
+249. 257
+250. 262
+251. 266
+252. 266
+253. 266
+254. 267
+255. 268
+256. 268
+257. 269
+258. 270
+259. 271
+260. 272
+261. 274
+262. 274
+263. 274
+264. 275
+265. 277
+266. 279
+267. 282
+268. 282
+269. 282
+270. 284
+271. 285
+272. 286
+273. 290
+274. 292
+275. 294
+276. 295
+277. 295
+278. 295
+279. 296
+280. 296
+281. 296
+282. 298
+283. 300
+284. 300
+285. 301
+286. 302
+287. 302
+288. 306
+289. 307
+290. 307
+291. 309
+292. 309
+293. 310
+294. 310
+295. 311
+296. 311
+297. 313
+298. 316
+299. 317
+300. 318
+301. 318
+302. 319
+303. 319
+304. 320
+305. 322
+306. 322
+307. 322
+308. 327
+309. 330
+310. 330
+311. 330
+312. 330
+313. 331
+314. 331
+315. 332
+316. 332
+317. 334
+318. 335
+319. 335
+320. 335
+321. 335
+322. 337
+323. 337
+324. 338
+325. 338
+326. 339
+327. 340
+328. 340
+329. 340
+330. 341
+331. 341
+332. 342
+333. 342
+334. 343
+335. 345
+336. 345
+337. 346
+338. 348
+339. 348
+340. 349
+341. 350
+342. 351
+343. 353
+344. 353
+345. 354
+346. 354
+347. 354
+348. 356
+349. 356
+350. 357
+351. 358
+352. 359
+353. 360
+354. 360
+355. 363
+356. 363
+357. 364
+358. 364
+359. 364
+360. 366
+361. 366
+362. 366
+363. 367
+364. 367
+365. 367
+366. 368
+367. 368
+368. 368
+369. 368
+370. 375
+371. 380
+372. 383
+373. 385
+374. 390
+375. 390
+376. 392
+377. 393
+378. 395
+379. 396
+380. 397
+381. 397
+382. 397
+383. 398
+384. 399
+385. 400
+386. 400
+387. 402
+388. 404
+389. 405
+390. 405
+391. 405
+392. 405
+393. 406
+394. 406
+395. 408
+396. 409
+397. 409
+398. 409
+399. 409
+400. 410
+401. 411
+402. 411
+403. 413
+404. 413
+405. 413
+406. 413
+407. 414
+408. 415
+409. 415
+410. 416
+411. 417
+412. 417
+413. 418
+414. 421
+415. 422
+416. 424
+417. 425
+418. 428
+419. 434
+420. 435
+421. 437
+422. 437
+423. 437
+424. 438
+425. 438
+426. 439
+427. 440
+428. 440
+429. 441
+430. 444
+431. 444
+432. 447
+433. 448
+434. 448
+435. 450
+436. 450
+437. 451
+438. 452
+439. 453
+440. 456
+441. 456
+442. 457
+443. 457
+444. 461
+445. 462
+446. 463
+447. 464
+448. 465
+449. 465
+450. 466
+451. 470
+452. 471
+453. 474
+454. 476
+455. 477
+456. 477
+457. 478
+458. 479
+459. 479
+460. 480
+461. 480
+462. 480
+463. 481
+464. 481
+465. 483
+466. 484
+467. 485
+468. 486
+469. 486
+470. 486
+471. 487
+472. 487
+473. 487
+474. 487
+475. 490
+476. 490
+477. 491
+478. 492
+479. 492
+480. 494
+481. 494
+482. 496
+483. 497
+484. 500
+485. 501
+486. 501
+487. 501
+488. 503
+489. 504
+490. 504
+491. 505
+492. 505
+493. 505
+494. 507
+495. 509
+496. 510
+497. 510
+498. 511
+499. 516
+500. 517
+501. 517
+502. 517
+503. 518
+504. 522
+505. 525
+506. 525
+507. 526
+508. 527
+509. 528
+510. 531
+511. 531
+512. 532
+513. 533
+514. 533
+515. 533
+516. 533
+517. 533
+518. 534
+519. 536
+520. 537
+521. 537
+522. 539
+523. 540
+524. 540
+525. 540
+526. 541
+527. 542
+528. 542
+529. 543
+530. 544
+531. 545
+532. 545
+533. 546
+534. 546
+535. 547
+536. 549
+537. 552
+538. 553
+539. 554
+540. 555
+541. 556
+542. 556
+543. 557
+544. 557
+545. 560
+546. 562
+547. 564
+548. 565
+549. 565
+550. 565
+551. 565
+552. 566
+553. 567
+554. 567
+555. 567
+556. 568
+557. 568
+558. 569
+559. 569
+560. 569
+561. 573
+562. 573
+563. 574
+564. 574
+565. 575
+566. 576
+567. 576
+568. 579
+569. 580
+570. 581
+571. 581
+572. 584
+573. 585
+574. 586
+575. 586
+576. 586
+577. 586
+578. 587
+579. 588
+580. 589
+581. 589
+582. 590
+583. 590
+584. 590
+585. 591
+586. 591
+587. 592
+588. 593
+589. 595
+590. 595
+591. 599
+592. 599
+593. 599
+594. 600
+595. 600
+596. 601
+597. 601
+598. 601
+599. 602
+600. 603
+601. 603
+602. 604
+603. 604
+604. 604
+605. 606
+606. 607
+607. 608
+608. 610
+609. 610
+610. 612
+611. 612
+612. 613
+613. 613
+614. 613
+615. 615
+616. 615
+617. 615
+618. 615
+619. 616
+620. 616
+621. 617
+622. 621
+623. 623
+624. 623
+625. 624
+626. 625
+627. 625
+628. 627
+629. 627
+630. 628
+631. 628
+632. 628
+633. 631
+634. 631
+635. 632
+636. 632
+637. 634
+638. 635
+639. 635
+640. 636
+641. 637
+642. 637
+643. 638
+644. 639
+645. 641
+646. 641
+647. 642
+648. 643
+649. 644
+650. 645
+651. 645
+652. 647
+653. 647
+654. 649
+655. 650
+656. 652
+657. 652
+658. 653
+659. 654
+660. 654
+661. 655
+662. 655
+663. 655
+664. 656
+665. 657
+666. 658
+667. 659
+668. 660
+669. 660
+670. 662
+671. 662
+672. 664
+673. 666
+674. 667
+675. 670
+676. 671
+677. 671
+678. 671
+679. 671
+680. 672
+681. 673
+682. 674
+683. 674
+684. 674
+685. 675
+686. 677
+687. 678
+688. 679
+689. 679
+690. 680
+691. 680
+692. 680
+693. 681
+694. 682
+695. 682
+696. 682
+697. 683
+698. 685
+699. 685
+700. 685
+701. 689
+702. 691
+703. 691
+704. 691
+705. 692
+706. 692
+707. 693
+708. 693
+709. 695
+710. 696
+711. 696
+712. 698
+713. 698
+714. 702
+715. 702
+716. 703
+717. 704
+718. 705
+719. 705
+720. 706
+721. 706
+722. 706
+723. 707
+724. 708
+725. 709
+726. 711
+727. 712
+728. 713
+729. 714
+730. 717
+731. 717
+732. 717
+733. 718
+734. 719
+735. 720
+736. 722
+737. 723
+738. 723
+739. 724
+740. 725
+741. 726
+742. 726
+743. 726
+744. 728
+745. 729
+746. 730
+747. 732
+748. 732
+749. 732
+750. 735
+751. 736
+752. 736
+753. 737
+754. 737
+755. 738
+756. 739
+757. 739
+758. 739
+759. 740
+760. 741
+761. 742
+762. 742
+763. 743
+764. 744
+765. 744
+766. 745
+767. 745
+768. 749
+769. 749
+770. 750
+771. 750
+772. 754
+773. 754
+774. 755
+775. 756
+776. 757
+777. 757
+778. 759
+779. 759
+780. 760
+781. 761
+782. 762
+783. 762
+784. 764
+785. 767
+786. 768
+787. 769
+788. 771
+789. 772
+790. 776
+791. 778
+792. 779
+793. 781
+794. 782
+795. 783
+796. 785
+797. 786
+798. 786
+799. 788
+800. 788
+801. 789
+802. 790
+803. 792
+804. 794
+805. 794
+806. 795
+807. 797
+808. 797
+809. 797
+810. 799
+811. 800
+812. 801
+813. 801
+814. 802
+815. 803
+816. 803
+817. 804
+818. 805
+819. 806
+820. 809
+821. 809
+822. 810
+823. 811
+824. 812
+825. 812
+826. 817
+827. 819
+828. 825
+829. 826
+830. 827
+831. 828
+832. 834
+833. 837
+834. 837
+835. 838
+836. 839
+837. 839
+838. 841
+839. 841
+840. 842
+841. 843
+842. 845
+843. 846
+844. 847
+845. 847
+846. 847
+847. 848
+848. 849
+849. 850
+850. 850
+851. 850
+852. 851
+853. 851
+854. 852
+855. 853
+856. 855
+857. 856
+858. 857
+859. 858
+860. 859
+861. 860
+862. 861
+863. 863
+864. 863
+865. 865
+866. 867
+867. 868
+868. 869
+869. 871
+870. 871
+871. 872
+872. 872
+873. 873
+874. 875
+875. 876
+876. 877
+877. 878
+878. 878
+879. 878
+880. 880
+881. 880
+882. 882
+883. 884
+884. 885
+885. 885
+886. 886
+887. 886
+888. 887
+889. 887
+890. 888
+891. 889
+892. 891
+893. 892
+894. 894
+895. 895
+896. 895
+897. 896
+898. 896
+899. 897
+900. 900
+901. 900
+902. 901
+903. 901
+904. 905
+905. 908
+906. 908
+907. 910
+908. 910
+909. 910
+910. 911
+911. 911
+912. 914
+913. 915
+914. 916
+915. 916
+916. 916
+917. 918
+918. 921
+919. 922
+920. 924
+921. 925
+922. 925
+923. 930
+924. 931
+925. 933
+926. 935
+927. 935
+928. 936
+929. 942
+930. 945
+931. 946
+932. 946
+933. 947
+934. 949
+935. 951
+936. 953
+937. 956
+938. 958
+939. 959
+940. 960
+941. 961
+942. 961
+943. 963
+944. 964
+945. 967
+946. 967
+947. 967
+948. 969
+949. 969
+950. 969
+951. 970
+952. 973
+953. 973
+954. 975
+955. 975
+956. 977
+957. 978
+958. 979
+959. 979
+960. 980
+961. 980
+962. 980
+963. 981
+964. 983
+965. 986
+966. 987
+967. 987
+968. 988
+969. 988
+970. 988
+971. 989
+972. 990
+973. 990
+974. 991
+975. 993
+976. 993
+977. 994
+978. 995
+979. 995
+980. 995
+981. 995
+982. 997
+983. 999
+984. 999
+985. 1000
+986. 1001
+987. 1003
+988. 1004
+989. 1005
+990. 1005
+991. 1006
+992. 1007
+993. 1008
+994. 1008
+995. 1009
+996. 1010
+997. 1011
+998. 1011
+999. 1011
+1000. 1013
+1001. 1019
+1002. 1020
+1003. 1020
+1004. 1020
+1005. 1020
+1006. 1022
+1007. 1024
+1008. 1024
+1009. 1026
+1010. 1027
+1011. 1028
+1012. 1028
+1013. 1028
+1014. 1031
+1015. 1031
+1016. 1032
+1017. 1032
+1018. 1033
+1019. 1034
+1020. 1035
+1021. 1036
+1022. 1037
+1023. 1038
+1024. 1038
+1025. 1039
+1026. 1040
+1027. 1041
+1028. 1045
+1029. 1045
+1030. 1046
+1031. 1050
+1032. 1051
+1033. 1052
+1034. 1053
+1035. 1053
+1036. 1053
+1037. 1055
+1038. 1055
+1039. 1055
+1040. 1055
+1041. 1056
+1042. 1056
+1043. 1058
+1044. 1059
+1045. 1060
+1046. 1060
+1047. 1061
+1048. 1061
+1049. 1062
+1050. 1062
+1051. 1063
+1052. 1063
+1053. 1063
+1054. 1063
+1055. 1066
+1056. 1066
+1057. 1066
+1058. 1071
+1059. 1072
+1060. 1073
+1061. 1074
+1062. 1076
+1063. 1076
+1064. 1078
+1065. 1078
+1066. 1078
+1067. 1079
+1068. 1080
+1069. 1080
+1070. 1080
+1071. 1085
+1072. 1085
+1073. 1086
+1074. 1086
+1075. 1086
+1076. 1086
+1077. 1087
+1078. 1087
+1079. 1088
+1080. 1089
+1081. 1090
+1082. 1091
+1083. 1091
+1084. 1091
+1085. 1092
+1086. 1092
+1087. 1092
+1088. 1093
+1089. 1096
+1090. 1097
+1091. 1098
+1092. 1099
+1093. 1100
+1094. 1100
+1095. 1101
+1096. 1101
+1097. 1104
+1098. 1104
+1099. 1105
+1100. 1105
+1101. 1106
+1102. 1107
+1103. 1108
+1104. 1109
+1105. 1109
+1106. 1110
+1107. 1110
+1108. 1110
+1109. 1111
+1110. 1113
+1111. 1113
+1112. 1114
+1113. 1114
+1114. 1114
+1115. 1120
+1116. 1120
+1117. 1121
+1118. 1123
+1119. 1123
+1120. 1124
+1121. 1124
+1122. 1128
+1123. 1129
+1124. 1131
+1125. 1131
+1126. 1133
+1127. 1135
+1128. 1136
+1129. 1138
+1130. 1139
+1131. 1139
+1132. 1140
+1133. 1140
+1134. 1143
+1135. 1143
+1136. 1146
+1137. 1148
+1138. 1151
+1139. 1153
+1140. 1154
+1141. 1155
+1142. 1157
+1143. 1157
+1144. 1157
+1145. 1158
+1146. 1159
+1147. 1160
+1148. 1164
+1149. 1164
+1150. 1165
+1151. 1166
+1152. 1166
+1153. 1167
+1154. 1168
+1155. 1169
+1156. 1170
+1157. 1171
+1158. 1171
+1159. 1173
+1160. 1174
+1161. 1174
+1162. 1176
+1163. 1176
+1164. 1176
+1165. 1177
+1166. 1180
+1167. 1181
+1168. 1181
+1169. 1182
+1170. 1184
+1171. 1184
+1172. 1186
+1173. 1187
+1174. 1188
+1175. 1190
+1176. 1191
+1177. 1191
+1178. 1193
+1179. 1193
+1180. 1196
+1181. 1198
+1182. 1200
+1183. 1201
+1184. 1202
+1185. 1204
+1186. 1205
+1187. 1205
+1188. 1206
+1189. 1206
+1190. 1207
+1191. 1207
+1192. 1207
+1193. 1208
+1194. 1212
+1195. 1214
+1196. 1216
+1197. 1216
+1198. 1216
+1199. 1216
+1200. 1217
+1201. 1218
+1202. 1219
+1203. 1219
+1204. 1219
+1205. 1219
+1206. 1219
+1207. 1220
+1208. 1223
+1209. 1223
+1210. 1223
+1211. 1223
+1212. 1224
+1213. 1225
+1214. 1225
+1215. 1226
+1216. 1227
+1217. 1228
+1218. 1228
+1219. 1228
+1220. 1228
+1221. 1230
+1222. 1231
+1223. 1232
+1224. 1235
+1225. 1238
+1226. 1239
+1227. 1241
+1228. 1242
+1229. 1242
+1230. 1243
+1231. 1243
+1232. 1251
+1233. 1251
+1234. 1252
+1235. 1254
+1236. 1254
+1237. 1255
+1238. 1256
+1239. 1260
+1240. 1264
+1241. 1266
+1242. 1268
+1243. 1270
+1244. 1270
+1245. 1271
+1246. 1272
+1247. 1274
+1248. 1274
+1249. 1275
+1250. 1276
+1251. 1276
+1252. 1279
+1253. 1280
+1254. 1281
+1255. 1282
+1256. 1282
+1257. 1284
+1258. 1284
+1259. 1286
+1260. 1286
+1261. 1287
+1262. 1288
+1263. 1288
+1264. 1289
+1265. 1289
+1266. 1291
+1267. 1292
+1268. 1293
+1269. 1294
+1270. 1295
+1271. 1296
+1272. 1296
+1273. 1298
+1274. 1298
+1275. 1299
+1276. 1299
+1277. 1301
+1278. 1301
+1279. 1301
+1280. 1301
+1281. 1301
+1282. 1302
+1283. 1304
+1284. 1304
+1285. 1304
+1286. 1305
+1287. 1305
+1288. 1306
+1289. 1306
+1290. 1309
+1291. 1311
+1292. 1312
+1293. 1313
+1294. 1315
+1295. 1315
+1296. 1317
+1297. 1323
+1298. 1326
+1299. 1327
+1300. 1328
+1301. 1329
+1302. 1330
+1303. 1331
+1304. 1332
+1305. 1334
+1306. 1337
+1307. 1339
+1308. 1339
+1309. 1341
+1310. 1342
+1311. 1344
+1312. 1345
+1313. 1347
+1314. 1350
+1315. 1351
+1316. 1351
+1317. 1352
+1318. 1353
+1319. 1354
+1320. 1355
+1321. 1357
+1322. 1357
+1323. 1358
+1324. 1359
+1325. 1359
+1326. 1359
+1327. 1361
+1328. 1363
+1329. 1364
+1330. 1365
+1331. 1367
+1332. 1372
+1333. 1373
+1334. 1373
+1335. 1374
+1336. 1374
+1337. 1375
+1338. 1376
+1339. 1376
+1340. 1376
+1341. 1377
+1342. 1377
+1343. 1378
+1344. 1379
+1345. 1379
+1346. 1380
+1347. 1380
+1348. 1380
+1349. 1381
+1350. 1382
+1351. 1383
+1352. 1384
+1353. 1384
+1354. 1386
+1355. 1387
+1356. 1390
+1357. 1391
+1358. 1392
+1359. 1393
+1360. 1394
+1361. 1396
+1362. 1397
+1363. 1398
+1364. 1399
+1365. 1399
+1366. 1400
+1367. 1400
+1368. 1401
+1369. 1401
+1370. 1402
+1371. 1404
+1372. 1404
+1373. 1404
+1374. 1406
+1375. 1407
+1376. 1410
+1377. 1410
+1378. 1410
+1379. 1411
+1380. 1412
+1381. 1414
+1382. 1415
+1383. 1416
+1384. 1416
+1385. 1418
+1386. 1419
+1387. 1420
+1388. 1422
+1389. 1422
+1390. 1423
+1391. 1424
+1392. 1427
+1393. 1428
+1394. 1428
+1395. 1430
+1396. 1430
+1397. 1431
+1398. 1434
+1399. 1436
+1400. 1439
+1401. 1439
+1402. 1440
+1403. 1441
+1404. 1442
+1405. 1442
+1406. 1443
+1407. 1444
+1408. 1444
+1409. 1446
+1410. 1448
+1411. 1448
+1412. 1448
+1413. 1449
+1414. 1450
+1415. 1451
+1416. 1452
+1417. 1453
+1418. 1454
+1419. 1456
+1420. 1457
+1421. 1457
+1422. 1459
+1423. 1462
+1424. 1462
+1425. 1462
+1426. 1462
+1427. 1463
+1428. 1467
+1429. 1471
+1430. 1472
+1431. 1473
+1432. 1473
+1433. 1474
+1434. 1476
+1435. 1477
+1436. 1477
+1437. 1478
+1438. 1480
+1439. 1481
+1440. 1482
+1441. 1483
+1442. 1484
+1443. 1484
+1444. 1487
+1445. 1488
+1446. 1489
+1447. 1490
+1448. 1496
+1449. 1496
+1450. 1499
+1451. 1500
+1452. 1500
+1453. 1503
+1454. 1503
+1455. 1503
+1456. 1504
+1457. 1504
+1458. 1506
+1459. 1507
+1460. 1508
+1461. 1509
+1462. 1510
+1463. 1512
+1464. 1512
+1465. 1512
+1466. 1514
+1467. 1515
+1468. 1517
+1469. 1519
+1470. 1519
+1471. 1521
+1472. 1521
+1473. 1522
+1474. 1523
+1475. 1526
+1476. 1527
+1477. 1529
+1478. 1529
+1479. 1529
+1480. 1529
+1481. 1532
+1482. 1532
+1483. 1534
+1484. 1534
+1485. 1536
+1486. 1537
+1487. 1540
+1488. 1540
+1489. 1541
+1490. 1541
+1491. 1543
+1492. 1543
+1493. 1545
+1494. 1545
+1495. 1546
+1496. 1547
+1497. 1548
+1498. 1548
+1499. 1551
+1500. 1552
+1501. 1554
+1502. 1557
+1503. 1557
+1504. 1557
+1505. 1558
+1506. 1559
+1507. 1560
+1508. 1560
+1509. 1560
+1510. 1562
+1511. 1562
+1512. 1562
+1513. 1562
+1514. 1565
+1515. 1565
+1516. 1568
+1517. 1568
+1518. 1570
+1519. 1572
+1520. 1573
+1521. 1573
+1522. 1575
+1523. 1577
+1524. 1578
+1525. 1579
+1526. 1580
+1527. 1581
+1528. 1581
+1529. 1581
+1530. 1583
+1531. 1583
+1532. 1583
+1533. 1587
+1534. 1587
+1535. 1587
+1536. 1587
+1537. 1589
+1538. 1592
+1539. 1595
+1540. 1596
+1541. 1596
+1542. 1599
+1543. 1599
+1544. 1601
+1545. 1603
+1546. 1606
+1547. 1608
+1548. 1610
+1549. 1610
+1550. 1610
+1551. 1611
+1552. 1613
+1553. 1613
+1554. 1615
+1555. 1616
+1556. 1617
+1557. 1618
+1558. 1620
+1559. 1620
+1560. 1622
+1561. 1622
+1562. 1625
+1563. 1625
+1564. 1626
+1565. 1631
+1566. 1632
+1567. 1636
+1568. 1636
+1569. 1639
+1570. 1641
+1571. 1641
+1572. 1642
+1573. 1644
+1574. 1644
+1575. 1645
+1576. 1647
+1577. 1650
+1578. 1650
+1579. 1650
+1580. 1652
+1581. 1653
+1582. 1654
+1583. 1656
+1584. 1659
+1585. 1664
+1586. 1665
+1587. 1666
+1588. 1666
+1589. 1666
+1590. 1668
+1591. 1668
+1592. 1671
+1593. 1672
+1594. 1673
+1595. 1674
+1596. 1674
+1597. 1674
+1598. 1674
+1599. 1675
+1600. 1676
+1601. 1677
+1602. 1678
+1603. 1678
+1604. 1679
+1605. 1680
+1606. 1682
+1607. 1684
+1608. 1686
+1609. 1688
+1610. 1689
+1611. 1690
+1612. 1691
+1613. 1691
+1614. 1693
+1615. 1693
+1616. 1693
+1617. 1696
+1618. 1697
+1619. 1698
+1620. 1699
+1621. 1703
+1622. 1705
+1623. 1706
+1624. 1706
+1625. 1707
+1626. 1707
+1627. 1709
+1628. 1710
+1629. 1711
+1630. 1711
+1631. 1712
+1632. 1712
+1633. 1713
+1634. 1713
+1635. 1713
+1636. 1713
+1637. 1714
+1638. 1715
+1639. 1715
+1640. 1716
+1641. 1716
+1642. 1717
+1643. 1718
+1644. 1718
+1645. 1720
+1646. 1722
+1647. 1724
+1648. 1725
+1649. 1725
+1650. 1726
+1651. 1727
+1652. 1729
+1653. 1730
+1654. 1731
+1655. 1731
+1656. 1733
+1657. 1733
+1658. 1734
+1659. 1734
+1660. 1734
+1661. 1735
+1662. 1736
+1663. 1736
+1664. 1738
+1665. 1739
+1666. 1740
+1667. 1742
+1668. 1744
+1669. 1744
+1670. 1745
+1671. 1746
+1672. 1747
+1673. 1748
+1674. 1748
+1675. 1753
+1676. 1754
+1677. 1755
+1678. 1755
+1679. 1755
+1680. 1757
+1681. 1758
+1682. 1758
+1683. 1759
+1684. 1761
+1685. 1763
+1686. 1767
+1687. 1769
+1688. 1769
+1689. 1769
+1690. 1774
+1691. 1775
+1692. 1776
+1693. 1778
+1694. 1782
+1695. 1782
+1696. 1785
+1697. 1788
+1698. 1789
+1699. 1790
+1700. 1791
+1701. 1792
+1702. 1792
+1703. 1793
+1704. 1793
+1705. 1794
+1706. 1794
+1707. 1796
+1708. 1796
+1709. 1797
+1710. 1797
+1711. 1799
+1712. 1799
+1713. 1800
+1714. 1802
+1715. 1802
+1716. 1804
+1717. 1805
+1718. 1807
+1719. 1807
+1720. 1807
+1721. 1808
+1722. 1809
+1723. 1809
+1724. 1811
+1725. 1813
+1726. 1815
+1727. 1816
+1728. 1817
+1729. 1818
+1730. 1820
+1731. 1820
+1732. 1821
+1733. 1821
+1734. 1822
+1735. 1824
+1736. 1825
+1737. 1826
+1738. 1826
+1739. 1827
+1740. 1828
+1741. 1828
+1742. 1828
+1743. 1829
+1744. 1832
+1745. 1835
+1746. 1836
+1747. 1838
+1748. 1839
+1749. 1840
+1750. 1841
+1751. 1843
+1752. 1843
+1753. 1843
+1754. 1843
+1755. 1845
+1756. 1846
+1757. 1846
+1758. 1853
+1759. 1854
+1760. 1855
+1761. 1856
+1762. 1859
+1763. 1859
+1764. 1860
+1765. 1863
+1766. 1863
+1767. 1864
+1768. 1864
+1769. 1866
+1770. 1867
+1771. 1867
+1772. 1867
+1773. 1868
+1774. 1869
+1775. 1871
+1776. 1871
+1777. 1873
+1778. 1874
+1779. 1876
+1780. 1877
+1781. 1877
+1782. 1880
+1783. 1881
+1784. 1882
+1785. 1882
+1786. 1883
+1787. 1884
+1788. 1887
+1789. 1888
+1790. 1888
+1791. 1888
+1792. 1889
+1793. 1890
+1794. 1890
+1795. 1891
+1796. 1891
+1797. 1892
+1798. 1895
+1799. 1901
+1800. 1901
+1801. 1901
+1802. 1902
+1803. 1902
+1804. 1903
+1805. 1904
+1806. 1904
+1807. 1904
+1808. 1906
+1809. 1909
+1810. 1909
+1811. 1911
+1812. 1912
+1813. 1912
+1814. 1913
+1815. 1916
+1816. 1917
+1817. 1917
+1818. 1918
+1819. 1918
+1820. 1919
+1821. 1922
+1822. 1924
+1823. 1926
+1824. 1927
+1825. 1928
+1826. 1928
+1827. 1928
+1828. 1929
+1829. 1931
+1830. 1931
+1831. 1932
+1832. 1932
+1833. 1933
+1834. 1934
+1835. 1936
+1836. 1936
+1837. 1937
+1838. 1938
+1839. 1938
+1840. 1942
+1841. 1942
+1842. 1943
+1843. 1943
+1844. 1945
+1845. 1948
+1846. 1948
+1847. 1949
+1848. 1949
+1849. 1951
+1850. 1952
+1851. 1952
+1852. 1953
+1853. 1955
+1854. 1956
+1855. 1958
+1856. 1958
+1857. 1958
+1858. 1959
+1859. 1962
+1860. 1963
+1861. 1964
+1862. 1965
+1863. 1965
+1864. 1966
+1865. 1966
+1866. 1967
+1867. 1971
+1868. 1972
+1869. 1973
+1870. 1975
+1871. 1975
+1872. 1976
+1873. 1977
+1874. 1977
+1875. 1978
+1876. 1978
+1877. 1979
+1878. 1982
+1879. 1982
+1880. 1983
+1881. 1983
+1882. 1984
+1883. 1985
+1884. 1988
+1885. 1988
+1886. 1988
+1887. 1989
+1888. 1989
+1889. 1990
+1890. 1991
+1891. 1992
+1892. 1994
+1893. 1994
+1894. 1996
+1895. 1997
+1896. 1997
+1897. 1997
+1898. 1998
+1899. 1998
 LISTA ARREGLADA (InsertionSort)
 0.0
-1.30
-2.54
-3.75
-4.100
-5.109
-6.112
-7.136
-8.141
-9.163
-10.176
-11.193
-12.200
-13.207
-14.212
-15.215
-16.216
-17.226
-18.232
-19.239
-20.242
-21.249
-22.263
-23.269
-24.293
-25.298
-26.302
-27.323
-28.333
-29.335
-30.341
-31.343
-32.354
-33.358
-34.400
-35.420
-36.425
-37.431
-38.439
-39.442
-40.490
-41.504
-42.536
-43.538
-44.541
-45.542
-46.556
-47.586
-48.586
-49.593
-50.594
-51.612
-52.626
-53.632
-54.650
-55.653
-56.660
-57.669
-58.671
-59.680
-60.681
-61.689
-62.693
-63.700
-64.703
-65.704
-66.713
-67.720
-68.728
-69.728
-70.731
-71.736
-72.756
-73.774
-74.779
-75.781
-76.782
-77.784
-78.810
-79.815
-80.824
-81.831
-82.838
-83.863
-84.864
-85.875
-86.896
-87.903
-88.909
-89.918
-90.926
-91.926
-92.933
-93.938
-94.941
-95.942
-96.990
-97.991
-98.997
-99.1011
-100.1033
-101.1044
-102.1049
-103.1050
-104.1055
-105.1058
-106.1075
-107.1078
-108.1089
-109.1105
-110.1115
-111.1116
-112.1120
-113.1122
-114.1128
-115.1184
-116.1191
-117.1191
-118.1198
-119.1202
-120.1224
-121.1230
-122.1249
-123.1255
-124.1286
-125.1287
-126.1299
-127.1301
-128.1304
-129.1308
-130.1315
-131.1316
-132.1320
-133.1336
-134.1357
-135.1370
-136.1370
-137.1387
-138.1388
-139.1399
-140.1414
-141.1420
-142.1458
-143.1465
-144.1474
-145.1477
-146.1481
-147.1486
-148.1531
-149.1535
-150.1539
-151.1539
-152.1590
-153.1590
-154.1595
-155.1600
-156.1613
-157.1623
-158.1632
-159.1636
-160.1661
-161.1672
-162.1680
-163.1684
-164.1699
-165.1707
-166.1709
-167.1731
-168.1735
-169.1748
-170.1749
-171.1752
-172.1758
-173.1760
-174.1762
-175.1763
-176.1770
-177.1777
-178.1789
-179.1795
-180.1812
-181.1826
-182.1834
-183.1839
-184.1844
-185.1854
-186.1856
-187.1865
-188.1877
-189.1883
-190.1883
-191.1890
-192.1911
-193.1927
-194.1930
-195.1958
-196.1959
-197.1968
-198.1987
-199.1989
+1.0
+2.0
+3.1
+4.1
+5.2
+6.2
+7.3
+8.3
+9.5
+10.5
+11.5
+12.9
+13.10
+14.11
+15.11
+16.12
+17.12
+18.13
+19.14
+20.15
+21.15
+22.16
+23.16
+24.17
+25.18
+26.19
+27.20
+28.20
+29.21
+30.22
+31.22
+32.23
+33.23
+34.23
+35.24
+36.24
+37.25
+38.26
+39.26
+40.27
+41.27
+42.28
+43.29
+44.29
+45.30
+46.30
+47.32
+48.33
+49.33
+50.33
+51.34
+52.35
+53.38
+54.38
+55.38
+56.40
+57.41
+58.41
+59.44
+60.45
+61.48
+62.48
+63.48
+64.49
+65.49
+66.49
+67.49
+68.53
+69.53
+70.53
+71.58
+72.59
+73.62
+74.64
+75.65
+76.67
+77.68
+78.69
+79.74
+80.75
+81.75
+82.77
+83.79
+84.79
+85.79
+86.80
+87.80
+88.85
+89.86
+90.86
+91.86
+92.86
+93.87
+94.87
+95.89
+96.89
+97.90
+98.90
+99.91
+100.91
+101.94
+102.94
+103.96
+104.97
+105.98
+106.99
+107.99
+108.101
+109.102
+110.103
+111.104
+112.104
+113.105
+114.105
+115.106
+116.107
+117.108
+118.109
+119.110
+120.111
+121.111
+122.113
+123.114
+124.115
+125.117
+126.117
+127.120
+128.122
+129.124
+130.126
+131.131
+132.132
+133.132
+134.132
+135.133
+136.137
+137.141
+138.142
+139.142
+140.142
+141.143
+142.144
+143.144
+144.144
+145.145
+146.146
+147.146
+148.152
+149.152
+150.152
+151.154
+152.156
+153.156
+154.158
+155.158
+156.159
+157.160
+158.163
+159.163
+160.164
+161.167
+162.168
+163.168
+164.170
+165.170
+166.172
+167.178
+168.178
+169.180
+170.181
+171.182
+172.183
+173.184
+174.184
+175.185
+176.185
+177.188
+178.189
+179.191
+180.192
+181.192
+182.193
+183.194
+184.195
+185.196
+186.196
+187.196
+188.196
+189.197
+190.199
+191.201
+192.202
+193.203
+194.203
+195.204
+196.205
+197.205
+198.206
+199.207
+200.207
+201.211
+202.212
+203.212
+204.214
+205.214
+206.216
+207.218
+208.220
+209.220
+210.220
+211.221
+212.221
+213.223
+214.223
+215.224
+216.224
+217.224
+218.225
+219.229
+220.230
+221.231
+222.233
+223.233
+224.234
+225.236
+226.238
+227.239
+228.240
+229.240
+230.240
+231.241
+232.243
+233.243
+234.244
+235.245
+236.246
+237.247
+238.250
+239.251
+240.252
+241.253
+242.253
+243.253
+244.254
+245.255
+246.256
+247.256
+248.257
+249.257
+250.262
+251.266
+252.266
+253.266
+254.267
+255.268
+256.268
+257.269
+258.270
+259.271
+260.272
+261.274
+262.274
+263.274
+264.275
+265.277
+266.279
+267.282
+268.282
+269.282
+270.284
+271.285
+272.286
+273.290
+274.292
+275.294
+276.295
+277.295
+278.295
+279.296
+280.296
+281.296
+282.298
+283.300
+284.300
+285.301
+286.302
+287.302
+288.306
+289.307
+290.307
+291.309
+292.309
+293.310
+294.310
+295.311
+296.311
+297.313
+298.316
+299.317
+300.318
+301.318
+302.319
+303.319
+304.320
+305.322
+306.322
+307.322
+308.327
+309.330
+310.330
+311.330
+312.330
+313.331
+314.331
+315.332
+316.332
+317.334
+318.335
+319.335
+320.335
+321.335
+322.337
+323.337
+324.338
+325.338
+326.339
+327.340
+328.340
+329.340
+330.341
+331.341
+332.342
+333.342
+334.343
+335.345
+336.345
+337.346
+338.348
+339.348
+340.349
+341.350
+342.351
+343.353
+344.353
+345.354
+346.354
+347.354
+348.356
+349.356
+350.357
+351.358
+352.359
+353.360
+354.360
+355.363
+356.363
+357.364
+358.364
+359.364
+360.366
+361.366
+362.366
+363.367
+364.367
+365.367
+366.368
+367.368
+368.368
+369.368
+370.375
+371.380
+372.383
+373.385
+374.390
+375.390
+376.392
+377.393
+378.395
+379.396
+380.397
+381.397
+382.397
+383.398
+384.399
+385.400
+386.400
+387.402
+388.404
+389.405
+390.405
+391.405
+392.405
+393.406
+394.406
+395.408
+396.409
+397.409
+398.409
+399.409
+400.410
+401.411
+402.411
+403.413
+404.413
+405.413
+406.413
+407.414
+408.415
+409.415
+410.416
+411.417
+412.417
+413.418
+414.421
+415.422
+416.424
+417.425
+418.428
+419.434
+420.435
+421.437
+422.437
+423.437
+424.438
+425.438
+426.439
+427.440
+428.440
+429.441
+430.444
+431.444
+432.447
+433.448
+434.448
+435.450
+436.450
+437.451
+438.452
+439.453
+440.456
+441.456
+442.457
+443.457
+444.461
+445.462
+446.463
+447.464
+448.465
+449.465
+450.466
+451.470
+452.471
+453.474
+454.476
+455.477
+456.477
+457.478
+458.479
+459.479
+460.480
+461.480
+462.480
+463.481
+464.481
+465.483
+466.484
+467.485
+468.486
+469.486
+470.486
+471.487
+472.487
+473.487
+474.487
+475.490
+476.490
+477.491
+478.492
+479.492
+480.494
+481.494
+482.496
+483.497
+484.500
+485.501
+486.501
+487.501
+488.503
+489.504
+490.504
+491.505
+492.505
+493.505
+494.507
+495.509
+496.510
+497.510
+498.511
+499.516
+500.517
+501.517
+502.517
+503.518
+504.522
+505.525
+506.525
+507.526
+508.527
+509.528
+510.531
+511.531
+512.532
+513.533
+514.533
+515.533
+516.533
+517.533
+518.534
+519.536
+520.537
+521.537
+522.539
+523.540
+524.540
+525.540
+526.541
+527.542
+528.542
+529.543
+530.544
+531.545
+532.545
+533.546
+534.546
+535.547
+536.549
+537.552
+538.553
+539.554
+540.555
+541.556
+542.556
+543.557
+544.557
+545.560
+546.562
+547.564
+548.565
+549.565
+550.565
+551.565
+552.566
+553.567
+554.567
+555.567
+556.568
+557.568
+558.569
+559.569
+560.569
+561.573
+562.573
+563.574
+564.574
+565.575
+566.576
+567.576
+568.579
+569.580
+570.581
+571.581
+572.584
+573.585
+574.586
+575.586
+576.586
+577.586
+578.587
+579.588
+580.589
+581.589
+582.590
+583.590
+584.590
+585.591
+586.591
+587.592
+588.593
+589.595
+590.595
+591.599
+592.599
+593.599
+594.600
+595.600
+596.601
+597.601
+598.601
+599.602
+600.603
+601.603
+602.604
+603.604
+604.604
+605.606
+606.607
+607.608
+608.610
+609.610
+610.612
+611.612
+612.613
+613.613
+614.613
+615.615
+616.615
+617.615
+618.615
+619.616
+620.616
+621.617
+622.621
+623.623
+624.623
+625.624
+626.625
+627.625
+628.627
+629.627
+630.628
+631.628
+632.628
+633.631
+634.631
+635.632
+636.632
+637.634
+638.635
+639.635
+640.636
+641.637
+642.637
+643.638
+644.639
+645.641
+646.641
+647.642
+648.643
+649.644
+650.645
+651.645
+652.647
+653.647
+654.649
+655.650
+656.652
+657.652
+658.653
+659.654
+660.654
+661.655
+662.655
+663.655
+664.656
+665.657
+666.658
+667.659
+668.660
+669.660
+670.662
+671.662
+672.664
+673.666
+674.667
+675.670
+676.671
+677.671
+678.671
+679.671
+680.672
+681.673
+682.674
+683.674
+684.674
+685.675
+686.677
+687.678
+688.679
+689.679
+690.680
+691.680
+692.680
+693.681
+694.682
+695.682
+696.682
+697.683
+698.685
+699.685
+700.685
+701.689
+702.691
+703.691
+704.691
+705.692
+706.692
+707.693
+708.693
+709.695
+710.696
+711.696
+712.698
+713.698
+714.702
+715.702
+716.703
+717.704
+718.705
+719.705
+720.706
+721.706
+722.706
+723.707
+724.708
+725.709
+726.711
+727.712
+728.713
+729.714
+730.717
+731.717
+732.717
+733.718
+734.719
+735.720
+736.722
+737.723
+738.723
+739.724
+740.725
+741.726
+742.726
+743.726
+744.728
+745.729
+746.730
+747.732
+748.732
+749.732
+750.735
+751.736
+752.736
+753.737
+754.737
+755.738
+756.739
+757.739
+758.739
+759.740
+760.741
+761.742
+762.742
+763.743
+764.744
+765.744
+766.745
+767.745
+768.749
+769.749
+770.750
+771.750
+772.754
+773.754
+774.755
+775.756
+776.757
+777.757
+778.759
+779.759
+780.760
+781.761
+782.762
+783.762
+784.764
+785.767
+786.768
+787.769
+788.771
+789.772
+790.776
+791.778
+792.779
+793.781
+794.782
+795.783
+796.785
+797.786
+798.786
+799.788
+800.788
+801.789
+802.790
+803.792
+804.794
+805.794
+806.795
+807.797
+808.797
+809.797
+810.799
+811.800
+812.801
+813.801
+814.802
+815.803
+816.803
+817.804
+818.805
+819.806
+820.809
+821.809
+822.810
+823.811
+824.812
+825.812
+826.817
+827.819
+828.825
+829.826
+830.827
+831.828
+832.834
+833.837
+834.837
+835.838
+836.839
+837.839
+838.841
+839.841
+840.842
+841.843
+842.845
+843.846
+844.847
+845.847
+846.847
+847.848
+848.849
+849.850
+850.850
+851.850
+852.851
+853.851
+854.852
+855.853
+856.855
+857.856
+858.857
+859.858
+860.859
+861.860
+862.861
+863.863
+864.863
+865.865
+866.867
+867.868
+868.869
+869.871
+870.871
+871.872
+872.872
+873.873
+874.875
+875.876
+876.877
+877.878
+878.878
+879.878
+880.880
+881.880
+882.882
+883.884
+884.885
+885.885
+886.886
+887.886
+888.887
+889.887
+890.888
+891.889
+892.891
+893.892
+894.894
+895.895
+896.895
+897.896
+898.896
+899.897
+900.900
+901.900
+902.901
+903.901
+904.905
+905.908
+906.908
+907.910
+908.910
+909.910
+910.911
+911.911
+912.914
+913.915
+914.916
+915.916
+916.916
+917.918
+918.921
+919.922
+920.924
+921.925
+922.925
+923.930
+924.931
+925.933
+926.935
+927.935
+928.936
+929.942
+930.945
+931.946
+932.946
+933.947
+934.949
+935.951
+936.953
+937.956
+938.958
+939.959
+940.960
+941.961
+942.961
+943.963
+944.964
+945.967
+946.967
+947.967
+948.969
+949.969
+950.969
+951.970
+952.973
+953.973
+954.975
+955.975
+956.977
+957.978
+958.979
+959.979
+960.980
+961.980
+962.980
+963.981
+964.983
+965.986
+966.987
+967.987
+968.988
+969.988
+970.988
+971.989
+972.990
+973.990
+974.991
+975.993
+976.993
+977.994
+978.995
+979.995
+980.995
+981.995
+982.997
+983.999
+984.999
+985.1000
+986.1001
+987.1003
+988.1004
+989.1005
+990.1005
+991.1006
+992.1007
+993.1008
+994.1008
+995.1009
+996.1010
+997.1011
+998.1011
+999.1011
+1000.1013
+1001.1019
+1002.1020
+1003.1020
+1004.1020
+1005.1020
+1006.1022
+1007.1024
+1008.1024
+1009.1026
+1010.1027
+1011.1028
+1012.1028
+1013.1028
+1014.1031
+1015.1031
+1016.1032
+1017.1032
+1018.1033
+1019.1034
+1020.1035
+1021.1036
+1022.1037
+1023.1038
+1024.1038
+1025.1039
+1026.1040
+1027.1041
+1028.1045
+1029.1045
+1030.1046
+1031.1050
+1032.1051
+1033.1052
+1034.1053
+1035.1053
+1036.1053
+1037.1055
+1038.1055
+1039.1055
+1040.1055
+1041.1056
+1042.1056
+1043.1058
+1044.1059
+1045.1060
+1046.1060
+1047.1061
+1048.1061
+1049.1062
+1050.1062
+1051.1063
+1052.1063
+1053.1063
+1054.1063
+1055.1066
+1056.1066
+1057.1066
+1058.1071
+1059.1072
+1060.1073
+1061.1074
+1062.1076
+1063.1076
+1064.1078
+1065.1078
+1066.1078
+1067.1079
+1068.1080
+1069.1080
+1070.1080
+1071.1085
+1072.1085
+1073.1086
+1074.1086
+1075.1086
+1076.1086
+1077.1087
+1078.1087
+1079.1088
+1080.1089
+1081.1090
+1082.1091
+1083.1091
+1084.1091
+1085.1092
+1086.1092
+1087.1092
+1088.1093
+1089.1096
+1090.1097
+1091.1098
+1092.1099
+1093.1100
+1094.1100
+1095.1101
+1096.1101
+1097.1104
+1098.1104
+1099.1105
+1100.1105
+1101.1106
+1102.1107
+1103.1108
+1104.1109
+1105.1109
+1106.1110
+1107.1110
+1108.1110
+1109.1111
+1110.1113
+1111.1113
+1112.1114
+1113.1114
+1114.1114
+1115.1120
+1116.1120
+1117.1121
+1118.1123
+1119.1123
+1120.1124
+1121.1124
+1122.1128
+1123.1129
+1124.1131
+1125.1131
+1126.1133
+1127.1135
+1128.1136
+1129.1138
+1130.1139
+1131.1139
+1132.1140
+1133.1140
+1134.1143
+1135.1143
+1136.1146
+1137.1148
+1138.1151
+1139.1153
+1140.1154
+1141.1155
+1142.1157
+1143.1157
+1144.1157
+1145.1158
+1146.1159
+1147.1160
+1148.1164
+1149.1164
+1150.1165
+1151.1166
+1152.1166
+1153.1167
+1154.1168
+1155.1169
+1156.1170
+1157.1171
+1158.1171
+1159.1173
+1160.1174
+1161.1174
+1162.1176
+1163.1176
+1164.1176
+1165.1177
+1166.1180
+1167.1181
+1168.1181
+1169.1182
+1170.1184
+1171.1184
+1172.1186
+1173.1187
+1174.1188
+1175.1190
+1176.1191
+1177.1191
+1178.1193
+1179.1193
+1180.1196
+1181.1198
+1182.1200
+1183.1201
+1184.1202
+1185.1204
+1186.1205
+1187.1205
+1188.1206
+1189.1206
+1190.1207
+1191.1207
+1192.1207
+1193.1208
+1194.1212
+1195.1214
+1196.1216
+1197.1216
+1198.1216
+1199.1216
+1200.1217
+1201.1218
+1202.1219
+1203.1219
+1204.1219
+1205.1219
+1206.1219
+1207.1220
+1208.1223
+1209.1223
+1210.1223
+1211.1223
+1212.1224
+1213.1225
+1214.1225
+1215.1226
+1216.1227
+1217.1228
+1218.1228
+1219.1228
+1220.1228
+1221.1230
+1222.1231
+1223.1232
+1224.1235
+1225.1238
+1226.1239
+1227.1241
+1228.1242
+1229.1242
+1230.1243
+1231.1243
+1232.1251
+1233.1251
+1234.1252
+1235.1254
+1236.1254
+1237.1255
+1238.1256
+1239.1260
+1240.1264
+1241.1266
+1242.1268
+1243.1270
+1244.1270
+1245.1271
+1246.1272
+1247.1274
+1248.1274
+1249.1275
+1250.1276
+1251.1276
+1252.1279
+1253.1280
+1254.1281
+1255.1282
+1256.1282
+1257.1284
+1258.1284
+1259.1286
+1260.1286
+1261.1287
+1262.1288
+1263.1288
+1264.1289
+1265.1289
+1266.1291
+1267.1292
+1268.1293
+1269.1294
+1270.1295
+1271.1296
+1272.1296
+1273.1298
+1274.1298
+1275.1299
+1276.1299
+1277.1301
+1278.1301
+1279.1301
+1280.1301
+1281.1301
+1282.1302
+1283.1304
+1284.1304
+1285.1304
+1286.1305
+1287.1305
+1288.1306
+1289.1306
+1290.1309
+1291.1311
+1292.1312
+1293.1313
+1294.1315
+1295.1315
+1296.1317
+1297.1323
+1298.1326
+1299.1327
+1300.1328
+1301.1329
+1302.1330
+1303.1331
+1304.1332
+1305.1334
+1306.1337
+1307.1339
+1308.1339
+1309.1341
+1310.1342
+1311.1344
+1312.1345
+1313.1347
+1314.1350
+1315.1351
+1316.1351
+1317.1352
+1318.1353
+1319.1354
+1320.1355
+1321.1357
+1322.1357
+1323.1358
+1324.1359
+1325.1359
+1326.1359
+1327.1361
+1328.1363
+1329.1364
+1330.1365
+1331.1367
+1332.1372
+1333.1373
+1334.1373
+1335.1374
+1336.1374
+1337.1375
+1338.1376
+1339.1376
+1340.1376
+1341.1377
+1342.1377
+1343.1378
+1344.1379
+1345.1379
+1346.1380
+1347.1380
+1348.1380
+1349.1381
+1350.1382
+1351.1383
+1352.1384
+1353.1384
+1354.1386
+1355.1387
+1356.1390
+1357.1391
+1358.1392
+1359.1393
+1360.1394
+1361.1396
+1362.1397
+1363.1398
+1364.1399
+1365.1399
+1366.1400
+1367.1400
+1368.1401
+1369.1401
+1370.1402
+1371.1404
+1372.1404
+1373.1404
+1374.1406
+1375.1407
+1376.1410
+1377.1410
+1378.1410
+1379.1411
+1380.1412
+1381.1414
+1382.1415
+1383.1416
+1384.1416
+1385.1418
+1386.1419
+1387.1420
+1388.1422
+1389.1422
+1390.1423
+1391.1424
+1392.1427
+1393.1428
+1394.1428
+1395.1430
+1396.1430
+1397.1431
+1398.1434
+1399.1436
+1400.1439
+1401.1439
+1402.1440
+1403.1441
+1404.1442
+1405.1442
+1406.1443
+1407.1444
+1408.1444
+1409.1446
+1410.1448
+1411.1448
+1412.1448
+1413.1449
+1414.1450
+1415.1451
+1416.1452
+1417.1453
+1418.1454
+1419.1456
+1420.1457
+1421.1457
+1422.1459
+1423.1462
+1424.1462
+1425.1462
+1426.1462
+1427.1463
+1428.1467
+1429.1471
+1430.1472
+1431.1473
+1432.1473
+1433.1474
+1434.1476
+1435.1477
+1436.1477
+1437.1478
+1438.1480
+1439.1481
+1440.1482
+1441.1483
+1442.1484
+1443.1484
+1444.1487
+1445.1488
+1446.1489
+1447.1490
+1448.1496
+1449.1496
+1450.1499
+1451.1500
+1452.1500
+1453.1503
+1454.1503
+1455.1503
+1456.1504
+1457.1504
+1458.1506
+1459.1507
+1460.1508
+1461.1509
+1462.1510
+1463.1512
+1464.1512
+1465.1512
+1466.1514
+1467.1515
+1468.1517
+1469.1519
+1470.1519
+1471.1521
+1472.1521
+1473.1522
+1474.1523
+1475.1526
+1476.1527
+1477.1529
+1478.1529
+1479.1529
+1480.1529
+1481.1532
+1482.1532
+1483.1534
+1484.1534
+1485.1536
+1486.1537
+1487.1540
+1488.1540
+1489.1541
+1490.1541
+1491.1543
+1492.1543
+1493.1545
+1494.1545
+1495.1546
+1496.1547
+1497.1548
+1498.1548
+1499.1551
+1500.1552
+1501.1554
+1502.1557
+1503.1557
+1504.1557
+1505.1558
+1506.1559
+1507.1560
+1508.1560
+1509.1560
+1510.1562
+1511.1562
+1512.1562
+1513.1562
+1514.1565
+1515.1565
+1516.1568
+1517.1568
+1518.1570
+1519.1572
+1520.1573
+1521.1573
+1522.1575
+1523.1577
+1524.1578
+1525.1579
+1526.1580
+1527.1581
+1528.1581
+1529.1581
+1530.1583
+1531.1583
+1532.1583
+1533.1587
+1534.1587
+1535.1587
+1536.1587
+1537.1589
+1538.1592
+1539.1595
+1540.1596
+1541.1596
+1542.1599
+1543.1599
+1544.1601
+1545.1603
+1546.1606
+1547.1608
+1548.1610
+1549.1610
+1550.1610
+1551.1611
+1552.1613
+1553.1613
+1554.1615
+1555.1616
+1556.1617
+1557.1618
+1558.1620
+1559.1620
+1560.1622
+1561.1622
+1562.1625
+1563.1625
+1564.1626
+1565.1631
+1566.1632
+1567.1636
+1568.1636
+1569.1639
+1570.1641
+1571.1641
+1572.1642
+1573.1644
+1574.1644
+1575.1645
+1576.1647
+1577.1650
+1578.1650
+1579.1650
+1580.1652
+1581.1653
+1582.1654
+1583.1656
+1584.1659
+1585.1664
+1586.1665
+1587.1666
+1588.1666
+1589.1666
+1590.1668
+1591.1668
+1592.1671
+1593.1672
+1594.1673
+1595.1674
+1596.1674
+1597.1674
+1598.1674
+1599.1675
+1600.1676
+1601.1677
+1602.1678
+1603.1678
+1604.1679
+1605.1680
+1606.1682
+1607.1684
+1608.1686
+1609.1688
+1610.1689
+1611.1690
+1612.1691
+1613.1691
+1614.1693
+1615.1693
+1616.1693
+1617.1696
+1618.1697
+1619.1698
+1620.1699
+1621.1703
+1622.1705
+1623.1706
+1624.1706
+1625.1707
+1626.1707
+1627.1709
+1628.1710
+1629.1711
+1630.1711
+1631.1712
+1632.1712
+1633.1713
+1634.1713
+1635.1713
+1636.1713
+1637.1714
+1638.1715
+1639.1715
+1640.1716
+1641.1716
+1642.1717
+1643.1718
+1644.1718
+1645.1720
+1646.1722
+1647.1724
+1648.1725
+1649.1725
+1650.1726
+1651.1727
+1652.1729
+1653.1730
+1654.1731
+1655.1731
+1656.1733
+1657.1733
+1658.1734
+1659.1734
+1660.1734
+1661.1735
+1662.1736
+1663.1736
+1664.1738
+1665.1739
+1666.1740
+1667.1742
+1668.1744
+1669.1744
+1670.1745
+1671.1746
+1672.1747
+1673.1748
+1674.1748
+1675.1753
+1676.1754
+1677.1755
+1678.1755
+1679.1755
+1680.1757
+1681.1758
+1682.1758
+1683.1759
+1684.1761
+1685.1763
+1686.1767
+1687.1769
+1688.1769
+1689.1769
+1690.1774
+1691.1775
+1692.1776
+1693.1778
+1694.1782
+1695.1782
+1696.1785
+1697.1788
+1698.1789
+1699.1790
+1700.1791
+1701.1792
+1702.1792
+1703.1793
+1704.1793
+1705.1794
+1706.1794
+1707.1796
+1708.1796
+1709.1797
+1710.1797
+1711.1799
+1712.1799
+1713.1800
+1714.1802
+1715.1802
+1716.1804
+1717.1805
+1718.1807
+1719.1807
+1720.1807
+1721.1808
+1722.1809
+1723.1809
+1724.1811
+1725.1813
+1726.1815
+1727.1816
+1728.1817
+1729.1818
+1730.1820
+1731.1820
+1732.1821
+1733.1821
+1734.1822
+1735.1824
+1736.1825
+1737.1826
+1738.1826
+1739.1827
+1740.1828
+1741.1828
+1742.1828
+1743.1829
+1744.1832
+1745.1835
+1746.1836
+1747.1838
+1748.1839
+1749.1840
+1750.1841
+1751.1843
+1752.1843
+1753.1843
+1754.1843
+1755.1845
+1756.1846
+1757.1846
+1758.1853
+1759.1854
+1760.1855
+1761.1856
+1762.1859
+1763.1859
+1764.1860
+1765.1863
+1766.1863
+1767.1864
+1768.1864
+1769.1866
+1770.1867
+1771.1867
+1772.1867
+1773.1868
+1774.1869
+1775.1871
+1776.1871
+1777.1873
+1778.1874
+1779.1876
+1780.1877
+1781.1877
+1782.1880
+1783.1881
+1784.1882
+1785.1882
+1786.1883
+1787.1884
+1788.1887
+1789.1888
+1790.1888
+1791.1888
+1792.1889
+1793.1890
+1794.1890
+1795.1891
+1796.1891
+1797.1892
+1798.1895
+1799.1901
+1800.1901
+1801.1901
+1802.1902
+1803.1902
+1804.1903
+1805.1904
+1806.1904
+1807.1904
+1808.1906
+1809.1909
+1810.1909
+1811.1911
+1812.1912
+1813.1912
+1814.1913
+1815.1916
+1816.1917
+1817.1917
+1818.1918
+1819.1918
+1820.1919
+1821.1922
+1822.1924
+1823.1926
+1824.1927
+1825.1928
+1826.1928
+1827.1928
+1828.1929
+1829.1931
+1830.1931
+1831.1932
+1832.1932
+1833.1933
+1834.1934
+1835.1936
+1836.1936
+1837.1937
+1838.1938
+1839.1938
+1840.1942
+1841.1942
+1842.1943
+1843.1943
+1844.1945
+1845.1948
+1846.1948
+1847.1949
+1848.1949
+1849.1951
+1850.1952
+1851.1952
+1852.1953
+1853.1955
+1854.1956
+1855.1958
+1856.1958
+1857.1958
+1858.1959
+1859.1962
+1860.1963
+1861.1964
+1862.1965
+1863.1965
+1864.1966
+1865.1966
+1866.1967
+1867.1971
+1868.1972
+1869.1973
+1870.1975
+1871.1975
+1872.1976
+1873.1977
+1874.1977
+1875.1978
+1876.1978
+1877.1979
+1878.1982
+1879.1982
+1880.1983
+1881.1983
+1882.1984
+1883.1985
+1884.1988
+1885.1988
+1886.1988
+1887.1989
+1888.1989
+1889.1990
+1890.1991
+1891.1992
+1892.1994
+1893.1994
+1894.1996
+1895.1997
+1896.1997
+1897.1997
+1898.1998
+1899.1998
 LISTA NORMAL
 0. 0
-1. 30
-2. 54
-3. 75
-4. 100
-5. 109
-6. 112
-7. 136
-8. 141
-9. 163
-10. 176
-11. 193
-12. 200
-13. 207
-14. 212
-15. 215
-16. 216
-17. 226
-18. 232
-19. 239
-20. 242
-21. 249
-22. 263
-23. 269
-24. 293
-25. 298
-26. 302
-27. 323
-28. 333
-29. 335
-30. 341
-31. 343
-32. 354
-33. 358
-34. 400
-35. 420
-36. 425
-37. 431
-38. 439
-39. 442
-40. 490
-41. 504
-42. 536
-43. 538
-44. 541
-45. 542
-46. 556
-47. 586
-48. 586
-49. 593
-50. 594
-51. 612
-52. 626
-53. 632
-54. 650
-55. 653
-56. 660
-57. 669
-58. 671
-59. 680
-60. 681
-61. 689
-62. 693
-63. 700
-64. 703
-65. 704
-66. 713
-67. 720
-68. 728
-69. 728
-70. 731
-71. 736
-72. 756
-73. 774
-74. 779
-75. 781
-76. 782
-77. 784
-78. 810
-79. 815
-80. 824
-81. 831
-82. 838
-83. 863
-84. 864
-85. 875
-86. 896
-87. 903
-88. 909
-89. 918
-90. 926
-91. 926
-92. 933
-93. 938
-94. 941
-95. 942
-96. 990
-97. 991
-98. 997
-99. 1011
-100. 1033
-101. 1044
-102. 1049
-103. 1050
-104. 1055
-105. 1058
-106. 1075
-107. 1078
-108. 1089
-109. 1105
-110. 1115
-111. 1116
-112. 1120
-113. 1122
-114. 1128
-115. 1184
-116. 1191
-117. 1191
-118. 1198
-119. 1202
-120. 1224
-121. 1230
-122. 1249
-123. 1255
-124. 1286
-125. 1287
-126. 1299
-127. 1301
-128. 1304
-129. 1308
-130. 1315
-131. 1316
-132. 1320
-133. 1336
-134. 1357
-135. 1370
-136. 1370
-137. 1387
-138. 1388
-139. 1399
-140. 1414
-141. 1420
-142. 1458
-143. 1465
-144. 1474
-145. 1477
-146. 1481
-147. 1486
-148. 1531
-149. 1535
-150. 1539
-151. 1539
-152. 1590
-153. 1590
-154. 1595
-155. 1600
-156. 1613
-157. 1623
-158. 1632
-159. 1636
-160. 1661
-161. 1672
-162. 1680
-163. 1684
-164. 1699
-165. 1707
-166. 1709
-167. 1731
-168. 1735
-169. 1748
-170. 1749
-171. 1752
-172. 1758
-173. 1760
-174. 1762
-175. 1763
-176. 1770
-177. 1777
-178. 1789
-179. 1795
-180. 1812
-181. 1826
-182. 1834
-183. 1839
-184. 1844
-185. 1854
-186. 1856
-187. 1865
-188. 1877
-189. 1883
-190. 1883
-191. 1890
-192. 1911
-193. 1927
-194. 1930
-195. 1958
-196. 1959
-197. 1968
-198. 1987
-199. 1989
+1. 0
+2. 0
+3. 1
+4. 1
+5. 2
+6. 2
+7. 3
+8. 3
+9. 5
+10. 5
+11. 5
+12. 9
+13. 10
+14. 11
+15. 11
+16. 12
+17. 12
+18. 13
+19. 14
+20. 15
+21. 15
+22. 16
+23. 16
+24. 17
+25. 18
+26. 19
+27. 20
+28. 20
+29. 21
+30. 22
+31. 22
+32. 23
+33. 23
+34. 23
+35. 24
+36. 24
+37. 25
+38. 26
+39. 26
+40. 27
+41. 27
+42. 28
+43. 29
+44. 29
+45. 30
+46. 30
+47. 32
+48. 33
+49. 33
+50. 33
+51. 34
+52. 35
+53. 38
+54. 38
+55. 38
+56. 40
+57. 41
+58. 41
+59. 44
+60. 45
+61. 48
+62. 48
+63. 48
+64. 49
+65. 49
+66. 49
+67. 49
+68. 53
+69. 53
+70. 53
+71. 58
+72. 59
+73. 62
+74. 64
+75. 65
+76. 67
+77. 68
+78. 69
+79. 74
+80. 75
+81. 75
+82. 77
+83. 79
+84. 79
+85. 79
+86. 80
+87. 80
+88. 85
+89. 86
+90. 86
+91. 86
+92. 86
+93. 87
+94. 87
+95. 89
+96. 89
+97. 90
+98. 90
+99. 91
+100. 91
+101. 94
+102. 94
+103. 96
+104. 97
+105. 98
+106. 99
+107. 99
+108. 101
+109. 102
+110. 103
+111. 104
+112. 104
+113. 105
+114. 105
+115. 106
+116. 107
+117. 108
+118. 109
+119. 110
+120. 111
+121. 111
+122. 113
+123. 114
+124. 115
+125. 117
+126. 117
+127. 120
+128. 122
+129. 124
+130. 126
+131. 131
+132. 132
+133. 132
+134. 132
+135. 133
+136. 137
+137. 141
+138. 142
+139. 142
+140. 142
+141. 143
+142. 144
+143. 144
+144. 144
+145. 145
+146. 146
+147. 146
+148. 152
+149. 152
+150. 152
+151. 154
+152. 156
+153. 156
+154. 158
+155. 158
+156. 159
+157. 160
+158. 163
+159. 163
+160. 164
+161. 167
+162. 168
+163. 168
+164. 170
+165. 170
+166. 172
+167. 178
+168. 178
+169. 180
+170. 181
+171. 182
+172. 183
+173. 184
+174. 184
+175. 185
+176. 185
+177. 188
+178. 189
+179. 191
+180. 192
+181. 192
+182. 193
+183. 194
+184. 195
+185. 196
+186. 196
+187. 196
+188. 196
+189. 197
+190. 199
+191. 201
+192. 202
+193. 203
+194. 203
+195. 204
+196. 205
+197. 205
+198. 206
+199. 207
+200. 207
+201. 211
+202. 212
+203. 212
+204. 214
+205. 214
+206. 216
+207. 218
+208. 220
+209. 220
+210. 220
+211. 221
+212. 221
+213. 223
+214. 223
+215. 224
+216. 224
+217. 224
+218. 225
+219. 229
+220. 230
+221. 231
+222. 233
+223. 233
+224. 234
+225. 236
+226. 238
+227. 239
+228. 240
+229. 240
+230. 240
+231. 241
+232. 243
+233. 243
+234. 244
+235. 245
+236. 246
+237. 247
+238. 250
+239. 251
+240. 252
+241. 253
+242. 253
+243. 253
+244. 254
+245. 255
+246. 256
+247. 256
+248. 257
+249. 257
+250. 262
+251. 266
+252. 266
+253. 266
+254. 267
+255. 268
+256. 268
+257. 269
+258. 270
+259. 271
+260. 272
+261. 274
+262. 274
+263. 274
+264. 275
+265. 277
+266. 279
+267. 282
+268. 282
+269. 282
+270. 284
+271. 285
+272. 286
+273. 290
+274. 292
+275. 294
+276. 295
+277. 295
+278. 295
+279. 296
+280. 296
+281. 296
+282. 298
+283. 300
+284. 300
+285. 301
+286. 302
+287. 302
+288. 306
+289. 307
+290. 307
+291. 309
+292. 309
+293. 310
+294. 310
+295. 311
+296. 311
+297. 313
+298. 316
+299. 317
+300. 318
+301. 318
+302. 319
+303. 319
+304. 320
+305. 322
+306. 322
+307. 322
+308. 327
+309. 330
+310. 330
+311. 330
+312. 330
+313. 331
+314. 331
+315. 332
+316. 332
+317. 334
+318. 335
+319. 335
+320. 335
+321. 335
+322. 337
+323. 337
+324. 338
+325. 338
+326. 339
+327. 340
+328. 340
+329. 340
+330. 341
+331. 341
+332. 342
+333. 342
+334. 343
+335. 345
+336. 345
+337. 346
+338. 348
+339. 348
+340. 349
+341. 350
+342. 351
+343. 353
+344. 353
+345. 354
+346. 354
+347. 354
+348. 356
+349. 356
+350. 357
+351. 358
+352. 359
+353. 360
+354. 360
+355. 363
+356. 363
+357. 364
+358. 364
+359. 364
+360. 366
+361. 366
+362. 366
+363. 367
+364. 367
+365. 367
+366. 368
+367. 368
+368. 368
+369. 368
+370. 375
+371. 380
+372. 383
+373. 385
+374. 390
+375. 390
+376. 392
+377. 393
+378. 395
+379. 396
+380. 397
+381. 397
+382. 397
+383. 398
+384. 399
+385. 400
+386. 400
+387. 402
+388. 404
+389. 405
+390. 405
+391. 405
+392. 405
+393. 406
+394. 406
+395. 408
+396. 409
+397. 409
+398. 409
+399. 409
+400. 410
+401. 411
+402. 411
+403. 413
+404. 413
+405. 413
+406. 413
+407. 414
+408. 415
+409. 415
+410. 416
+411. 417
+412. 417
+413. 418
+414. 421
+415. 422
+416. 424
+417. 425
+418. 428
+419. 434
+420. 435
+421. 437
+422. 437
+423. 437
+424. 438
+425. 438
+426. 439
+427. 440
+428. 440
+429. 441
+430. 444
+431. 444
+432. 447
+433. 448
+434. 448
+435. 450
+436. 450
+437. 451
+438. 452
+439. 453
+440. 456
+441. 456
+442. 457
+443. 457
+444. 461
+445. 462
+446. 463
+447. 464
+448. 465
+449. 465
+450. 466
+451. 470
+452. 471
+453. 474
+454. 476
+455. 477
+456. 477
+457. 478
+458. 479
+459. 479
+460. 480
+461. 480
+462. 480
+463. 481
+464. 481
+465. 483
+466. 484
+467. 485
+468. 486
+469. 486
+470. 486
+471. 487
+472. 487
+473. 487
+474. 487
+475. 490
+476. 490
+477. 491
+478. 492
+479. 492
+480. 494
+481. 494
+482. 496
+483. 497
+484. 500
+485. 501
+486. 501
+487. 501
+488. 503
+489. 504
+490. 504
+491. 505
+492. 505
+493. 505
+494. 507
+495. 509
+496. 510
+497. 510
+498. 511
+499. 516
+500. 517
+501. 517
+502. 517
+503. 518
+504. 522
+505. 525
+506. 525
+507. 526
+508. 527
+509. 528
+510. 531
+511. 531
+512. 532
+513. 533
+514. 533
+515. 533
+516. 533
+517. 533
+518. 534
+519. 536
+520. 537
+521. 537
+522. 539
+523. 540
+524. 540
+525. 540
+526. 541
+527. 542
+528. 542
+529. 543
+530. 544
+531. 545
+532. 545
+533. 546
+534. 546
+535. 547
+536. 549
+537. 552
+538. 553
+539. 554
+540. 555
+541. 556
+542. 556
+543. 557
+544. 557
+545. 560
+546. 562
+547. 564
+548. 565
+549. 565
+550. 565
+551. 565
+552. 566
+553. 567
+554. 567
+555. 567
+556. 568
+557. 568
+558. 569
+559. 569
+560. 569
+561. 573
+562. 573
+563. 574
+564. 574
+565. 575
+566. 576
+567. 576
+568. 579
+569. 580
+570. 581
+571. 581
+572. 584
+573. 585
+574. 586
+575. 586
+576. 586
+577. 586
+578. 587
+579. 588
+580. 589
+581. 589
+582. 590
+583. 590
+584. 590
+585. 591
+586. 591
+587. 592
+588. 593
+589. 595
+590. 595
+591. 599
+592. 599
+593. 599
+594. 600
+595. 600
+596. 601
+597. 601
+598. 601
+599. 602
+600. 603
+601. 603
+602. 604
+603. 604
+604. 604
+605. 606
+606. 607
+607. 608
+608. 610
+609. 610
+610. 612
+611. 612
+612. 613
+613. 613
+614. 613
+615. 615
+616. 615
+617. 615
+618. 615
+619. 616
+620. 616
+621. 617
+622. 621
+623. 623
+624. 623
+625. 624
+626. 625
+627. 625
+628. 627
+629. 627
+630. 628
+631. 628
+632. 628
+633. 631
+634. 631
+635. 632
+636. 632
+637. 634
+638. 635
+639. 635
+640. 636
+641. 637
+642. 637
+643. 638
+644. 639
+645. 641
+646. 641
+647. 642
+648. 643
+649. 644
+650. 645
+651. 645
+652. 647
+653. 647
+654. 649
+655. 650
+656. 652
+657. 652
+658. 653
+659. 654
+660. 654
+661. 655
+662. 655
+663. 655
+664. 656
+665. 657
+666. 658
+667. 659
+668. 660
+669. 660
+670. 662
+671. 662
+672. 664
+673. 666
+674. 667
+675. 670
+676. 671
+677. 671
+678. 671
+679. 671
+680. 672
+681. 673
+682. 674
+683. 674
+684. 674
+685. 675
+686. 677
+687. 678
+688. 679
+689. 679
+690. 680
+691. 680
+692. 680
+693. 681
+694. 682
+695. 682
+696. 682
+697. 683
+698. 685
+699. 685
+700. 685
+701. 689
+702. 691
+703. 691
+704. 691
+705. 692
+706. 692
+707. 693
+708. 693
+709. 695
+710. 696
+711. 696
+712. 698
+713. 698
+714. 702
+715. 702
+716. 703
+717. 704
+718. 705
+719. 705
+720. 706
+721. 706
+722. 706
+723. 707
+724. 708
+725. 709
+726. 711
+727. 712
+728. 713
+729. 714
+730. 717
+731. 717
+732. 717
+733. 718
+734. 719
+735. 720
+736. 722
+737. 723
+738. 723
+739. 724
+740. 725
+741. 726
+742. 726
+743. 726
+744. 728
+745. 729
+746. 730
+747. 732
+748. 732
+749. 732
+750. 735
+751. 736
+752. 736
+753. 737
+754. 737
+755. 738
+756. 739
+757. 739
+758. 739
+759. 740
+760. 741
+761. 742
+762. 742
+763. 743
+764. 744
+765. 744
+766. 745
+767. 745
+768. 749
+769. 749
+770. 750
+771. 750
+772. 754
+773. 754
+774. 755
+775. 756
+776. 757
+777. 757
+778. 759
+779. 759
+780. 760
+781. 761
+782. 762
+783. 762
+784. 764
+785. 767
+786. 768
+787. 769
+788. 771
+789. 772
+790. 776
+791. 778
+792. 779
+793. 781
+794. 782
+795. 783
+796. 785
+797. 786
+798. 786
+799. 788
+800. 788
+801. 789
+802. 790
+803. 792
+804. 794
+805. 794
+806. 795
+807. 797
+808. 797
+809. 797
+810. 799
+811. 800
+812. 801
+813. 801
+814. 802
+815. 803
+816. 803
+817. 804
+818. 805
+819. 806
+820. 809
+821. 809
+822. 810
+823. 811
+824. 812
+825. 812
+826. 817
+827. 819
+828. 825
+829. 826
+830. 827
+831. 828
+832. 834
+833. 837
+834. 837
+835. 838
+836. 839
+837. 839
+838. 841
+839. 841
+840. 842
+841. 843
+842. 845
+843. 846
+844. 847
+845. 847
+846. 847
+847. 848
+848. 849
+849. 850
+850. 850
+851. 850
+852. 851
+853. 851
+854. 852
+855. 853
+856. 855
+857. 856
+858. 857
+859. 858
+860. 859
+861. 860
+862. 861
+863. 863
+864. 863
+865. 865
+866. 867
+867. 868
+868. 869
+869. 871
+870. 871
+871. 872
+872. 872
+873. 873
+874. 875
+875. 876
+876. 877
+877. 878
+878. 878
+879. 878
+880. 880
+881. 880
+882. 882
+883. 884
+884. 885
+885. 885
+886. 886
+887. 886
+888. 887
+889. 887
+890. 888
+891. 889
+892. 891
+893. 892
+894. 894
+895. 895
+896. 895
+897. 896
+898. 896
+899. 897
+900. 900
+901. 900
+902. 901
+903. 901
+904. 905
+905. 908
+906. 908
+907. 910
+908. 910
+909. 910
+910. 911
+911. 911
+912. 914
+913. 915
+914. 916
+915. 916
+916. 916
+917. 918
+918. 921
+919. 922
+920. 924
+921. 925
+922. 925
+923. 930
+924. 931
+925. 933
+926. 935
+927. 935
+928. 936
+929. 942
+930. 945
+931. 946
+932. 946
+933. 947
+934. 949
+935. 951
+936. 953
+937. 956
+938. 958
+939. 959
+940. 960
+941. 961
+942. 961
+943. 963
+944. 964
+945. 967
+946. 967
+947. 967
+948. 969
+949. 969
+950. 969
+951. 970
+952. 973
+953. 973
+954. 975
+955. 975
+956. 977
+957. 978
+958. 979
+959. 979
+960. 980
+961. 980
+962. 980
+963. 981
+964. 983
+965. 986
+966. 987
+967. 987
+968. 988
+969. 988
+970. 988
+971. 989
+972. 990
+973. 990
+974. 991
+975. 993
+976. 993
+977. 994
+978. 995
+979. 995
+980. 995
+981. 995
+982. 997
+983. 999
+984. 999
+985. 1000
+986. 1001
+987. 1003
+988. 1004
+989. 1005
+990. 1005
+991. 1006
+992. 1007
+993. 1008
+994. 1008
+995. 1009
+996. 1010
+997. 1011
+998. 1011
+999. 1011
+1000. 1013
+1001. 1019
+1002. 1020
+1003. 1020
+1004. 1020
+1005. 1020
+1006. 1022
+1007. 1024
+1008. 1024
+1009. 1026
+1010. 1027
+1011. 1028
+1012. 1028
+1013. 1028
+1014. 1031
+1015. 1031
+1016. 1032
+1017. 1032
+1018. 1033
+1019. 1034
+1020. 1035
+1021. 1036
+1022. 1037
+1023. 1038
+1024. 1038
+1025. 1039
+1026. 1040
+1027. 1041
+1028. 1045
+1029. 1045
+1030. 1046
+1031. 1050
+1032. 1051
+1033. 1052
+1034. 1053
+1035. 1053
+1036. 1053
+1037. 1055
+1038. 1055
+1039. 1055
+1040. 1055
+1041. 1056
+1042. 1056
+1043. 1058
+1044. 1059
+1045. 1060
+1046. 1060
+1047. 1061
+1048. 1061
+1049. 1062
+1050. 1062
+1051. 1063
+1052. 1063
+1053. 1063
+1054. 1063
+1055. 1066
+1056. 1066
+1057. 1066
+1058. 1071
+1059. 1072
+1060. 1073
+1061. 1074
+1062. 1076
+1063. 1076
+1064. 1078
+1065. 1078
+1066. 1078
+1067. 1079
+1068. 1080
+1069. 1080
+1070. 1080
+1071. 1085
+1072. 1085
+1073. 1086
+1074. 1086
+1075. 1086
+1076. 1086
+1077. 1087
+1078. 1087
+1079. 1088
+1080. 1089
+1081. 1090
+1082. 1091
+1083. 1091
+1084. 1091
+1085. 1092
+1086. 1092
+1087. 1092
+1088. 1093
+1089. 1096
+1090. 1097
+1091. 1098
+1092. 1099
+1093. 1100
+1094. 1100
+1095. 1101
+1096. 1101
+1097. 1104
+1098. 1104
+1099. 1105
+1100. 1105
+1101. 1106
+1102. 1107
+1103. 1108
+1104. 1109
+1105. 1109
+1106. 1110
+1107. 1110
+1108. 1110
+1109. 1111
+1110. 1113
+1111. 1113
+1112. 1114
+1113. 1114
+1114. 1114
+1115. 1120
+1116. 1120
+1117. 1121
+1118. 1123
+1119. 1123
+1120. 1124
+1121. 1124
+1122. 1128
+1123. 1129
+1124. 1131
+1125. 1131
+1126. 1133
+1127. 1135
+1128. 1136
+1129. 1138
+1130. 1139
+1131. 1139
+1132. 1140
+1133. 1140
+1134. 1143
+1135. 1143
+1136. 1146
+1137. 1148
+1138. 1151
+1139. 1153
+1140. 1154
+1141. 1155
+1142. 1157
+1143. 1157
+1144. 1157
+1145. 1158
+1146. 1159
+1147. 1160
+1148. 1164
+1149. 1164
+1150. 1165
+1151. 1166
+1152. 1166
+1153. 1167
+1154. 1168
+1155. 1169
+1156. 1170
+1157. 1171
+1158. 1171
+1159. 1173
+1160. 1174
+1161. 1174
+1162. 1176
+1163. 1176
+1164. 1176
+1165. 1177
+1166. 1180
+1167. 1181
+1168. 1181
+1169. 1182
+1170. 1184
+1171. 1184
+1172. 1186
+1173. 1187
+1174. 1188
+1175. 1190
+1176. 1191
+1177. 1191
+1178. 1193
+1179. 1193
+1180. 1196
+1181. 1198
+1182. 1200
+1183. 1201
+1184. 1202
+1185. 1204
+1186. 1205
+1187. 1205
+1188. 1206
+1189. 1206
+1190. 1207
+1191. 1207
+1192. 1207
+1193. 1208
+1194. 1212
+1195. 1214
+1196. 1216
+1197. 1216
+1198. 1216
+1199. 1216
+1200. 1217
+1201. 1218
+1202. 1219
+1203. 1219
+1204. 1219
+1205. 1219
+1206. 1219
+1207. 1220
+1208. 1223
+1209. 1223
+1210. 1223
+1211. 1223
+1212. 1224
+1213. 1225
+1214. 1225
+1215. 1226
+1216. 1227
+1217. 1228
+1218. 1228
+1219. 1228
+1220. 1228
+1221. 1230
+1222. 1231
+1223. 1232
+1224. 1235
+1225. 1238
+1226. 1239
+1227. 1241
+1228. 1242
+1229. 1242
+1230. 1243
+1231. 1243
+1232. 1251
+1233. 1251
+1234. 1252
+1235. 1254
+1236. 1254
+1237. 1255
+1238. 1256
+1239. 1260
+1240. 1264
+1241. 1266
+1242. 1268
+1243. 1270
+1244. 1270
+1245. 1271
+1246. 1272
+1247. 1274
+1248. 1274
+1249. 1275
+1250. 1276
+1251. 1276
+1252. 1279
+1253. 1280
+1254. 1281
+1255. 1282
+1256. 1282
+1257. 1284
+1258. 1284
+1259. 1286
+1260. 1286
+1261. 1287
+1262. 1288
+1263. 1288
+1264. 1289
+1265. 1289
+1266. 1291
+1267. 1292
+1268. 1293
+1269. 1294
+1270. 1295
+1271. 1296
+1272. 1296
+1273. 1298
+1274. 1298
+1275. 1299
+1276. 1299
+1277. 1301
+1278. 1301
+1279. 1301
+1280. 1301
+1281. 1301
+1282. 1302
+1283. 1304
+1284. 1304
+1285. 1304
+1286. 1305
+1287. 1305
+1288. 1306
+1289. 1306
+1290. 1309
+1291. 1311
+1292. 1312
+1293. 1313
+1294. 1315
+1295. 1315
+1296. 1317
+1297. 1323
+1298. 1326
+1299. 1327
+1300. 1328
+1301. 1329
+1302. 1330
+1303. 1331
+1304. 1332
+1305. 1334
+1306. 1337
+1307. 1339
+1308. 1339
+1309. 1341
+1310. 1342
+1311. 1344
+1312. 1345
+1313. 1347
+1314. 1350
+1315. 1351
+1316. 1351
+1317. 1352
+1318. 1353
+1319. 1354
+1320. 1355
+1321. 1357
+1322. 1357
+1323. 1358
+1324. 1359
+1325. 1359
+1326. 1359
+1327. 1361
+1328. 1363
+1329. 1364
+1330. 1365
+1331. 1367
+1332. 1372
+1333. 1373
+1334. 1373
+1335. 1374
+1336. 1374
+1337. 1375
+1338. 1376
+1339. 1376
+1340. 1376
+1341. 1377
+1342. 1377
+1343. 1378
+1344. 1379
+1345. 1379
+1346. 1380
+1347. 1380
+1348. 1380
+1349. 1381
+1350. 1382
+1351. 1383
+1352. 1384
+1353. 1384
+1354. 1386
+1355. 1387
+1356. 1390
+1357. 1391
+1358. 1392
+1359. 1393
+1360. 1394
+1361. 1396
+1362. 1397
+1363. 1398
+1364. 1399
+1365. 1399
+1366. 1400
+1367. 1400
+1368. 1401
+1369. 1401
+1370. 1402
+1371. 1404
+1372. 1404
+1373. 1404
+1374. 1406
+1375. 1407
+1376. 1410
+1377. 1410
+1378. 1410
+1379. 1411
+1380. 1412
+1381. 1414
+1382. 1415
+1383. 1416
+1384. 1416
+1385. 1418
+1386. 1419
+1387. 1420
+1388. 1422
+1389. 1422
+1390. 1423
+1391. 1424
+1392. 1427
+1393. 1428
+1394. 1428
+1395. 1430
+1396. 1430
+1397. 1431
+1398. 1434
+1399. 1436
+1400. 1439
+1401. 1439
+1402. 1440
+1403. 1441
+1404. 1442
+1405. 1442
+1406. 1443
+1407. 1444
+1408. 1444
+1409. 1446
+1410. 1448
+1411. 1448
+1412. 1448
+1413. 1449
+1414. 1450
+1415. 1451
+1416. 1452
+1417. 1453
+1418. 1454
+1419. 1456
+1420. 1457
+1421. 1457
+1422. 1459
+1423. 1462
+1424. 1462
+1425. 1462
+1426. 1462
+1427. 1463
+1428. 1467
+1429. 1471
+1430. 1472
+1431. 1473
+1432. 1473
+1433. 1474
+1434. 1476
+1435. 1477
+1436. 1477
+1437. 1478
+1438. 1480
+1439. 1481
+1440. 1482
+1441. 1483
+1442. 1484
+1443. 1484
+1444. 1487
+1445. 1488
+1446. 1489
+1447. 1490
+1448. 1496
+1449. 1496
+1450. 1499
+1451. 1500
+1452. 1500
+1453. 1503
+1454. 1503
+1455. 1503
+1456. 1504
+1457. 1504
+1458. 1506
+1459. 1507
+1460. 1508
+1461. 1509
+1462. 1510
+1463. 1512
+1464. 1512
+1465. 1512
+1466. 1514
+1467. 1515
+1468. 1517
+1469. 1519
+1470. 1519
+1471. 1521
+1472. 1521
+1473. 1522
+1474. 1523
+1475. 1526
+1476. 1527
+1477. 1529
+1478. 1529
+1479. 1529
+1480. 1529
+1481. 1532
+1482. 1532
+1483. 1534
+1484. 1534
+1485. 1536
+1486. 1537
+1487. 1540
+1488. 1540
+1489. 1541
+1490. 1541
+1491. 1543
+1492. 1543
+1493. 1545
+1494. 1545
+1495. 1546
+1496. 1547
+1497. 1548
+1498. 1548
+1499. 1551
+1500. 1552
+1501. 1554
+1502. 1557
+1503. 1557
+1504. 1557
+1505. 1558
+1506. 1559
+1507. 1560
+1508. 1560
+1509. 1560
+1510. 1562
+1511. 1562
+1512. 1562
+1513. 1562
+1514. 1565
+1515. 1565
+1516. 1568
+1517. 1568
+1518. 1570
+1519. 1572
+1520. 1573
+1521. 1573
+1522. 1575
+1523. 1577
+1524. 1578
+1525. 1579
+1526. 1580
+1527. 1581
+1528. 1581
+1529. 1581
+1530. 1583
+1531. 1583
+1532. 1583
+1533. 1587
+1534. 1587
+1535. 1587
+1536. 1587
+1537. 1589
+1538. 1592
+1539. 1595
+1540. 1596
+1541. 1596
+1542. 1599
+1543. 1599
+1544. 1601
+1545. 1603
+1546. 1606
+1547. 1608
+1548. 1610
+1549. 1610
+1550. 1610
+1551. 1611
+1552. 1613
+1553. 1613
+1554. 1615
+1555. 1616
+1556. 1617
+1557. 1618
+1558. 1620
+1559. 1620
+1560. 1622
+1561. 1622
+1562. 1625
+1563. 1625
+1564. 1626
+1565. 1631
+1566. 1632
+1567. 1636
+1568. 1636
+1569. 1639
+1570. 1641
+1571. 1641
+1572. 1642
+1573. 1644
+1574. 1644
+1575. 1645
+1576. 1647
+1577. 1650
+1578. 1650
+1579. 1650
+1580. 1652
+1581. 1653
+1582. 1654
+1583. 1656
+1584. 1659
+1585. 1664
+1586. 1665
+1587. 1666
+1588. 1666
+1589. 1666
+1590. 1668
+1591. 1668
+1592. 1671
+1593. 1672
+1594. 1673
+1595. 1674
+1596. 1674
+1597. 1674
+1598. 1674
+1599. 1675
+1600. 1676
+1601. 1677
+1602. 1678
+1603. 1678
+1604. 1679
+1605. 1680
+1606. 1682
+1607. 1684
+1608. 1686
+1609. 1688
+1610. 1689
+1611. 1690
+1612. 1691
+1613. 1691
+1614. 1693
+1615. 1693
+1616. 1693
+1617. 1696
+1618. 1697
+1619. 1698
+1620. 1699
+1621. 1703
+1622. 1705
+1623. 1706
+1624. 1706
+1625. 1707
+1626. 1707
+1627. 1709
+1628. 1710
+1629. 1711
+1630. 1711
+1631. 1712
+1632. 1712
+1633. 1713
+1634. 1713
+1635. 1713
+1636. 1713
+1637. 1714
+1638. 1715
+1639. 1715
+1640. 1716
+1641. 1716
+1642. 1717
+1643. 1718
+1644. 1718
+1645. 1720
+1646. 1722
+1647. 1724
+1648. 1725
+1649. 1725
+1650. 1726
+1651. 1727
+1652. 1729
+1653. 1730
+1654. 1731
+1655. 1731
+1656. 1733
+1657. 1733
+1658. 1734
+1659. 1734
+1660. 1734
+1661. 1735
+1662. 1736
+1663. 1736
+1664. 1738
+1665. 1739
+1666. 1740
+1667. 1742
+1668. 1744
+1669. 1744
+1670. 1745
+1671. 1746
+1672. 1747
+1673. 1748
+1674. 1748
+1675. 1753
+1676. 1754
+1677. 1755
+1678. 1755
+1679. 1755
+1680. 1757
+1681. 1758
+1682. 1758
+1683. 1759
+1684. 1761
+1685. 1763
+1686. 1767
+1687. 1769
+1688. 1769
+1689. 1769
+1690. 1774
+1691. 1775
+1692. 1776
+1693. 1778
+1694. 1782
+1695. 1782
+1696. 1785
+1697. 1788
+1698. 1789
+1699. 1790
+1700. 1791
+1701. 1792
+1702. 1792
+1703. 1793
+1704. 1793
+1705. 1794
+1706. 1794
+1707. 1796
+1708. 1796
+1709. 1797
+1710. 1797
+1711. 1799
+1712. 1799
+1713. 1800
+1714. 1802
+1715. 1802
+1716. 1804
+1717. 1805
+1718. 1807
+1719. 1807
+1720. 1807
+1721. 1808
+1722. 1809
+1723. 1809
+1724. 1811
+1725. 1813
+1726. 1815
+1727. 1816
+1728. 1817
+1729. 1818
+1730. 1820
+1731. 1820
+1732. 1821
+1733. 1821
+1734. 1822
+1735. 1824
+1736. 1825
+1737. 1826
+1738. 1826
+1739. 1827
+1740. 1828
+1741. 1828
+1742. 1828
+1743. 1829
+1744. 1832
+1745. 1835
+1746. 1836
+1747. 1838
+1748. 1839
+1749. 1840
+1750. 1841
+1751. 1843
+1752. 1843
+1753. 1843
+1754. 1843
+1755. 1845
+1756. 1846
+1757. 1846
+1758. 1853
+1759. 1854
+1760. 1855
+1761. 1856
+1762. 1859
+1763. 1859
+1764. 1860
+1765. 1863
+1766. 1863
+1767. 1864
+1768. 1864
+1769. 1866
+1770. 1867
+1771. 1867
+1772. 1867
+1773. 1868
+1774. 1869
+1775. 1871
+1776. 1871
+1777. 1873
+1778. 1874
+1779. 1876
+1780. 1877
+1781. 1877
+1782. 1880
+1783. 1881
+1784. 1882
+1785. 1882
+1786. 1883
+1787. 1884
+1788. 1887
+1789. 1888
+1790. 1888
+1791. 1888
+1792. 1889
+1793. 1890
+1794. 1890
+1795. 1891
+1796. 1891
+1797. 1892
+1798. 1895
+1799. 1901
+1800. 1901
+1801. 1901
+1802. 1902
+1803. 1902
+1804. 1903
+1805. 1904
+1806. 1904
+1807. 1904
+1808. 1906
+1809. 1909
+1810. 1909
+1811. 1911
+1812. 1912
+1813. 1912
+1814. 1913
+1815. 1916
+1816. 1917
+1817. 1917
+1818. 1918
+1819. 1918
+1820. 1919
+1821. 1922
+1822. 1924
+1823. 1926
+1824. 1927
+1825. 1928
+1826. 1928
+1827. 1928
+1828. 1929
+1829. 1931
+1830. 1931
+1831. 1932
+1832. 1932
+1833. 1933
+1834. 1934
+1835. 1936
+1836. 1936
+1837. 1937
+1838. 1938
+1839. 1938
+1840. 1942
+1841. 1942
+1842. 1943
+1843. 1943
+1844. 1945
+1845. 1948
+1846. 1948
+1847. 1949
+1848. 1949
+1849. 1951
+1850. 1952
+1851. 1952
+1852. 1953
+1853. 1955
+1854. 1956
+1855. 1958
+1856. 1958
+1857. 1958
+1858. 1959
+1859. 1962
+1860. 1963
+1861. 1964
+1862. 1965
+1863. 1965
+1864. 1966
+1865. 1966
+1866. 1967
+1867. 1971
+1868. 1972
+1869. 1973
+1870. 1975
+1871. 1975
+1872. 1976
+1873. 1977
+1874. 1977
+1875. 1978
+1876. 1978
+1877. 1979
+1878. 1982
+1879. 1982
+1880. 1983
+1881. 1983
+1882. 1984
+1883. 1985
+1884. 1988
+1885. 1988
+1886. 1988
+1887. 1989
+1888. 1989
+1889. 1990
+1890. 1991
+1891. 1992
+1892. 1994
+1893. 1994
+1894. 1996
+1895. 1997
+1896. 1997
+1897. 1997
+1898. 1998
+1899. 1998
 LISTA ARREGLADA (QuickSort)
 0.0
-1.30
-2.54
-3.75
-4.100
-5.109
-6.112
-7.136
-8.141
-9.163
-10.176
-11.193
-12.200
-13.207
-14.212
-15.215
-16.216
-17.226
-18.232
-19.239
-20.242
-21.249
-22.263
-23.269
-24.293
-25.298
-26.302
-27.323
-28.333
-29.335
-30.341
-31.343
-32.354
-33.358
-34.400
-35.420
-36.425
-37.431
-38.439
-39.442
-40.490
-41.504
-42.536
-43.538
-44.541
-45.542
-46.556
-47.586
-48.586
-49.593
-50.594
-51.612
-52.626
-53.632
-54.650
-55.653
-56.660
-57.669
-58.671
-59.680
-60.681
-61.689
-62.693
-63.700
-64.703
-65.704
-66.713
-67.720
-68.728
-69.728
-70.731
-71.736
-72.756
-73.774
-74.779
-75.781
-76.782
-77.784
-78.810
-79.815
-80.824
-81.831
-82.838
-83.863
-84.864
-85.875
-86.896
-87.903
-88.909
-89.918
-90.926
-91.926
-92.933
-93.938
-94.941
-95.942
-96.990
-97.991
-98.997
-99.1011
-100.1033
-101.1044
-102.1049
-103.1050
-104.1055
-105.1058
-106.1075
-107.1078
-108.1089
-109.1105
-110.1115
-111.1116
-112.1120
-113.1122
-114.1128
-115.1184
-116.1191
-117.1191
-118.1198
-119.1202
-120.1224
-121.1230
-122.1249
-123.1255
-124.1286
-125.1287
-126.1299
-127.1301
-128.1304
-129.1308
-130.1315
-131.1316
-132.1320
-133.1336
-134.1357
-135.1370
-136.1370
-137.1387
-138.1388
-139.1399
-140.1414
-141.1420
-142.1458
-143.1465
-144.1474
-145.1477
-146.1481
-147.1486
-148.1531
-149.1535
-150.1539
-151.1539
-152.1590
-153.1590
-154.1595
-155.1600
-156.1613
-157.1623
-158.1632
-159.1636
-160.1661
-161.1672
-162.1680
-163.1684
-164.1699
-165.1707
-166.1709
-167.1731
-168.1735
-169.1748
-170.1749
-171.1752
-172.1758
-173.1760
-174.1762
-175.1763
-176.1770
-177.1777
-178.1789
-179.1795
-180.1812
-181.1826
-182.1834
-183.1839
-184.1844
-185.1854
-186.1856
-187.1865
-188.1877
-189.1883
-190.1883
-191.1890
-192.1911
-193.1927
-194.1930
-195.1958
-196.1959
-197.1968
-198.1987
-199.1989
+1.0
+2.0
+3.1
+4.1
+5.2
+6.2
+7.3
+8.3
+9.5
+10.5
+11.5
+12.9
+13.10
+14.11
+15.11
+16.12
+17.12
+18.13
+19.14
+20.15
+21.15
+22.16
+23.16
+24.17
+25.18
+26.19
+27.20
+28.20
+29.21
+30.22
+31.22
+32.23
+33.23
+34.23
+35.24
+36.24
+37.25
+38.26
+39.26
+40.27
+41.27
+42.28
+43.29
+44.29
+45.30
+46.30
+47.32
+48.33
+49.33
+50.33
+51.34
+52.35
+53.38
+54.38
+55.38
+56.40
+57.41
+58.41
+59.44
+60.45
+61.48
+62.48
+63.48
+64.49
+65.49
+66.49
+67.49
+68.53
+69.53
+70.53
+71.58
+72.59
+73.62
+74.64
+75.65
+76.67
+77.68
+78.69
+79.74
+80.75
+81.75
+82.77
+83.79
+84.79
+85.79
+86.80
+87.80
+88.85
+89.86
+90.86
+91.86
+92.86
+93.87
+94.87
+95.89
+96.89
+97.90
+98.90
+99.91
+100.91
+101.94
+102.94
+103.96
+104.97
+105.98
+106.99
+107.99
+108.101
+109.102
+110.103
+111.104
+112.104
+113.105
+114.105
+115.106
+116.107
+117.108
+118.109
+119.110
+120.111
+121.111
+122.113
+123.114
+124.115
+125.117
+126.117
+127.120
+128.122
+129.124
+130.126
+131.131
+132.132
+133.132
+134.132
+135.133
+136.137
+137.141
+138.142
+139.142
+140.142
+141.143
+142.144
+143.144
+144.144
+145.145
+146.146
+147.146
+148.152
+149.152
+150.152
+151.154
+152.156
+153.156
+154.158
+155.158
+156.159
+157.160
+158.163
+159.163
+160.164
+161.167
+162.168
+163.168
+164.170
+165.170
+166.172
+167.178
+168.178
+169.180
+170.181
+171.182
+172.183
+173.184
+174.184
+175.185
+176.185
+177.188
+178.189
+179.191
+180.192
+181.192
+182.193
+183.194
+184.195
+185.196
+186.196
+187.196
+188.196
+189.197
+190.199
+191.201
+192.202
+193.203
+194.203
+195.204
+196.205
+197.205
+198.206
+199.207
+200.207
+201.211
+202.212
+203.212
+204.214
+205.214
+206.216
+207.218
+208.220
+209.220
+210.220
+211.221
+212.221
+213.223
+214.223
+215.224
+216.224
+217.224
+218.225
+219.229
+220.230
+221.231
+222.233
+223.233
+224.234
+225.236
+226.238
+227.239
+228.240
+229.240
+230.240
+231.241
+232.243
+233.243
+234.244
+235.245
+236.246
+237.247
+238.250
+239.251
+240.252
+241.253
+242.253
+243.253
+244.254
+245.255
+246.256
+247.256
+248.257
+249.257
+250.262
+251.266
+252.266
+253.266
+254.267
+255.268
+256.268
+257.269
+258.270
+259.271
+260.272
+261.274
+262.274
+263.274
+264.275
+265.277
+266.279
+267.282
+268.282
+269.282
+270.284
+271.285
+272.286
+273.290
+274.292
+275.294
+276.295
+277.295
+278.295
+279.296
+280.296
+281.296
+282.298
+283.300
+284.300
+285.301
+286.302
+287.302
+288.306
+289.307
+290.307
+291.309
+292.309
+293.310
+294.310
+295.311
+296.311
+297.313
+298.316
+299.317
+300.318
+301.318
+302.319
+303.319
+304.320
+305.322
+306.322
+307.322
+308.327
+309.330
+310.330
+311.330
+312.330
+313.331
+314.331
+315.332
+316.332
+317.334
+318.335
+319.335
+320.335
+321.335
+322.337
+323.337
+324.338
+325.338
+326.339
+327.340
+328.340
+329.340
+330.341
+331.341
+332.342
+333.342
+334.343
+335.345
+336.345
+337.346
+338.348
+339.348
+340.349
+341.350
+342.351
+343.353
+344.353
+345.354
+346.354
+347.354
+348.356
+349.356
+350.357
+351.358
+352.359
+353.360
+354.360
+355.363
+356.363
+357.364
+358.364
+359.364
+360.366
+361.366
+362.366
+363.367
+364.367
+365.367
+366.368
+367.368
+368.368
+369.368
+370.375
+371.380
+372.383
+373.385
+374.390
+375.390
+376.392
+377.393
+378.395
+379.396
+380.397
+381.397
+382.397
+383.398
+384.399
+385.400
+386.400
+387.402
+388.404
+389.405
+390.405
+391.405
+392.405
+393.406
+394.406
+395.408
+396.409
+397.409
+398.409
+399.409
+400.410
+401.411
+402.411
+403.413
+404.413
+405.413
+406.413
+407.414
+408.415
+409.415
+410.416
+411.417
+412.417
+413.418
+414.421
+415.422
+416.424
+417.425
+418.428
+419.434
+420.435
+421.437
+422.437
+423.437
+424.438
+425.438
+426.439
+427.440
+428.440
+429.441
+430.444
+431.444
+432.447
+433.448
+434.448
+435.450
+436.450
+437.451
+438.452
+439.453
+440.456
+441.456
+442.457
+443.457
+444.461
+445.462
+446.463
+447.464
+448.465
+449.465
+450.466
+451.470
+452.471
+453.474
+454.476
+455.477
+456.477
+457.478
+458.479
+459.479
+460.480
+461.480
+462.480
+463.481
+464.481
+465.483
+466.484
+467.485
+468.486
+469.486
+470.486
+471.487
+472.487
+473.487
+474.487
+475.490
+476.490
+477.491
+478.492
+479.492
+480.494
+481.494
+482.496
+483.497
+484.500
+485.501
+486.501
+487.501
+488.503
+489.504
+490.504
+491.505
+492.505
+493.505
+494.507
+495.509
+496.510
+497.510
+498.511
+499.516
+500.517
+501.517
+502.517
+503.518
+504.522
+505.525
+506.525
+507.526
+508.527
+509.528
+510.531
+511.531
+512.532
+513.533
+514.533
+515.533
+516.533
+517.533
+518.534
+519.536
+520.537
+521.537
+522.539
+523.540
+524.540
+525.540
+526.541
+527.542
+528.542
+529.543
+530.544
+531.545
+532.545
+533.546
+534.546
+535.547
+536.549
+537.552
+538.553
+539.554
+540.555
+541.556
+542.556
+543.557
+544.557
+545.560
+546.562
+547.564
+548.565
+549.565
+550.565
+551.565
+552.566
+553.567
+554.567
+555.567
+556.568
+557.568
+558.569
+559.569
+560.569
+561.573
+562.573
+563.574
+564.574
+565.575
+566.576
+567.576
+568.579
+569.580
+570.581
+571.581
+572.584
+573.585
+574.586
+575.586
+576.586
+577.586
+578.587
+579.588
+580.589
+581.589
+582.590
+583.590
+584.590
+585.591
+586.591
+587.592
+588.593
+589.595
+590.595
+591.599
+592.599
+593.599
+594.600
+595.600
+596.601
+597.601
+598.601
+599.602
+600.603
+601.603
+602.604
+603.604
+604.604
+605.606
+606.607
+607.608
+608.610
+609.610
+610.612
+611.612
+612.613
+613.613
+614.613
+615.615
+616.615
+617.615
+618.615
+619.616
+620.616
+621.617
+622.621
+623.623
+624.623
+625.624
+626.625
+627.625
+628.627
+629.627
+630.628
+631.628
+632.628
+633.631
+634.631
+635.632
+636.632
+637.634
+638.635
+639.635
+640.636
+641.637
+642.637
+643.638
+644.639
+645.641
+646.641
+647.642
+648.643
+649.644
+650.645
+651.645
+652.647
+653.647
+654.649
+655.650
+656.652
+657.652
+658.653
+659.654
+660.654
+661.655
+662.655
+663.655
+664.656
+665.657
+666.658
+667.659
+668.660
+669.660
+670.662
+671.662
+672.664
+673.666
+674.667
+675.670
+676.671
+677.671
+678.671
+679.671
+680.672
+681.673
+682.674
+683.674
+684.674
+685.675
+686.677
+687.678
+688.679
+689.679
+690.680
+691.680
+692.680
+693.681
+694.682
+695.682
+696.682
+697.683
+698.685
+699.685
+700.685
+701.689
+702.691
+703.691
+704.691
+705.692
+706.692
+707.693
+708.693
+709.695
+710.696
+711.696
+712.698
+713.698
+714.702
+715.702
+716.703
+717.704
+718.705
+719.705
+720.706
+721.706
+722.706
+723.707
+724.708
+725.709
+726.711
+727.712
+728.713
+729.714
+730.717
+731.717
+732.717
+733.718
+734.719
+735.720
+736.722
+737.723
+738.723
+739.724
+740.725
+741.726
+742.726
+743.726
+744.728
+745.729
+746.730
+747.732
+748.732
+749.732
+750.735
+751.736
+752.736
+753.737
+754.737
+755.738
+756.739
+757.739
+758.739
+759.740
+760.741
+761.742
+762.742
+763.743
+764.744
+765.744
+766.745
+767.745
+768.749
+769.749
+770.750
+771.750
+772.754
+773.754
+774.755
+775.756
+776.757
+777.757
+778.759
+779.759
+780.760
+781.761
+782.762
+783.762
+784.764
+785.767
+786.768
+787.769
+788.771
+789.772
+790.776
+791.778
+792.779
+793.781
+794.782
+795.783
+796.785
+797.786
+798.786
+799.788
+800.788
+801.789
+802.790
+803.792
+804.794
+805.794
+806.795
+807.797
+808.797
+809.797
+810.799
+811.800
+812.801
+813.801
+814.802
+815.803
+816.803
+817.804
+818.805
+819.806
+820.809
+821.809
+822.810
+823.811
+824.812
+825.812
+826.817
+827.819
+828.825
+829.826
+830.827
+831.828
+832.834
+833.837
+834.837
+835.838
+836.839
+837.839
+838.841
+839.841
+840.842
+841.843
+842.845
+843.846
+844.847
+845.847
+846.847
+847.848
+848.849
+849.850
+850.850
+851.850
+852.851
+853.851
+854.852
+855.853
+856.855
+857.856
+858.857
+859.858
+860.859
+861.860
+862.861
+863.863
+864.863
+865.865
+866.867
+867.868
+868.869
+869.871
+870.871
+871.872
+872.872
+873.873
+874.875
+875.876
+876.877
+877.878
+878.878
+879.878
+880.880
+881.880
+882.882
+883.884
+884.885
+885.885
+886.886
+887.886
+888.887
+889.887
+890.888
+891.889
+892.891
+893.892
+894.894
+895.895
+896.895
+897.896
+898.896
+899.897
+900.900
+901.900
+902.901
+903.901
+904.905
+905.908
+906.908
+907.910
+908.910
+909.910
+910.911
+911.911
+912.914
+913.915
+914.916
+915.916
+916.916
+917.918
+918.921
+919.922
+920.924
+921.925
+922.925
+923.930
+924.931
+925.933
+926.935
+927.935
+928.936
+929.942
+930.945
+931.946
+932.946
+933.947
+934.949
+935.951
+936.953
+937.956
+938.958
+939.959
+940.960
+941.961
+942.961
+943.963
+944.964
+945.967
+946.967
+947.967
+948.969
+949.969
+950.969
+951.970
+952.973
+953.973
+954.975
+955.975
+956.977
+957.978
+958.979
+959.979
+960.980
+961.980
+962.980
+963.981
+964.983
+965.986
+966.987
+967.987
+968.988
+969.988
+970.988
+971.989
+972.990
+973.990
+974.991
+975.993
+976.993
+977.994
+978.995
+979.995
+980.995
+981.995
+982.997
+983.999
+984.999
+985.1000
+986.1001
+987.1003
+988.1004
+989.1005
+990.1005
+991.1006
+992.1007
+993.1008
+994.1008
+995.1009
+996.1010
+997.1011
+998.1011
+999.1011
+1000.1013
+1001.1019
+1002.1020
+1003.1020
+1004.1020
+1005.1020
+1006.1022
+1007.1024
+1008.1024
+1009.1026
+1010.1027
+1011.1028
+1012.1028
+1013.1028
+1014.1031
+1015.1031
+1016.1032
+1017.1032
+1018.1033
+1019.1034
+1020.1035
+1021.1036
+1022.1037
+1023.1038
+1024.1038
+1025.1039
+1026.1040
+1027.1041
+1028.1045
+1029.1045
+1030.1046
+1031.1050
+1032.1051
+1033.1052
+1034.1053
+1035.1053
+1036.1053
+1037.1055
+1038.1055
+1039.1055
+1040.1055
+1041.1056
+1042.1056
+1043.1058
+1044.1059
+1045.1060
+1046.1060
+1047.1061
+1048.1061
+1049.1062
+1050.1062
+1051.1063
+1052.1063
+1053.1063
+1054.1063
+1055.1066
+1056.1066
+1057.1066
+1058.1071
+1059.1072
+1060.1073
+1061.1074
+1062.1076
+1063.1076
+1064.1078
+1065.1078
+1066.1078
+1067.1079
+1068.1080
+1069.1080
+1070.1080
+1071.1085
+1072.1085
+1073.1086
+1074.1086
+1075.1086
+1076.1086
+1077.1087
+1078.1087
+1079.1088
+1080.1089
+1081.1090
+1082.1091
+1083.1091
+1084.1091
+1085.1092
+1086.1092
+1087.1092
+1088.1093
+1089.1096
+1090.1097
+1091.1098
+1092.1099
+1093.1100
+1094.1100
+1095.1101
+1096.1101
+1097.1104
+1098.1104
+1099.1105
+1100.1105
+1101.1106
+1102.1107
+1103.1108
+1104.1109
+1105.1109
+1106.1110
+1107.1110
+1108.1110
+1109.1111
+1110.1113
+1111.1113
+1112.1114
+1113.1114
+1114.1114
+1115.1120
+1116.1120
+1117.1121
+1118.1123
+1119.1123
+1120.1124
+1121.1124
+1122.1128
+1123.1129
+1124.1131
+1125.1131
+1126.1133
+1127.1135
+1128.1136
+1129.1138
+1130.1139
+1131.1139
+1132.1140
+1133.1140
+1134.1143
+1135.1143
+1136.1146
+1137.1148
+1138.1151
+1139.1153
+1140.1154
+1141.1155
+1142.1157
+1143.1157
+1144.1157
+1145.1158
+1146.1159
+1147.1160
+1148.1164
+1149.1164
+1150.1165
+1151.1166
+1152.1166
+1153.1167
+1154.1168
+1155.1169
+1156.1170
+1157.1171
+1158.1171
+1159.1173
+1160.1174
+1161.1174
+1162.1176
+1163.1176
+1164.1176
+1165.1177
+1166.1180
+1167.1181
+1168.1181
+1169.1182
+1170.1184
+1171.1184
+1172.1186
+1173.1187
+1174.1188
+1175.1190
+1176.1191
+1177.1191
+1178.1193
+1179.1193
+1180.1196
+1181.1198
+1182.1200
+1183.1201
+1184.1202
+1185.1204
+1186.1205
+1187.1205
+1188.1206
+1189.1206
+1190.1207
+1191.1207
+1192.1207
+1193.1208
+1194.1212
+1195.1214
+1196.1216
+1197.1216
+1198.1216
+1199.1216
+1200.1217
+1201.1218
+1202.1219
+1203.1219
+1204.1219
+1205.1219
+1206.1219
+1207.1220
+1208.1223
+1209.1223
+1210.1223
+1211.1223
+1212.1224
+1213.1225
+1214.1225
+1215.1226
+1216.1227
+1217.1228
+1218.1228
+1219.1228
+1220.1228
+1221.1230
+1222.1231
+1223.1232
+1224.1235
+1225.1238
+1226.1239
+1227.1241
+1228.1242
+1229.1242
+1230.1243
+1231.1243
+1232.1251
+1233.1251
+1234.1252
+1235.1254
+1236.1254
+1237.1255
+1238.1256
+1239.1260
+1240.1264
+1241.1266
+1242.1268
+1243.1270
+1244.1270
+1245.1271
+1246.1272
+1247.1274
+1248.1274
+1249.1275
+1250.1276
+1251.1276
+1252.1279
+1253.1280
+1254.1281
+1255.1282
+1256.1282
+1257.1284
+1258.1284
+1259.1286
+1260.1286
+1261.1287
+1262.1288
+1263.1288
+1264.1289
+1265.1289
+1266.1291
+1267.1292
+1268.1293
+1269.1294
+1270.1295
+1271.1296
+1272.1296
+1273.1298
+1274.1298
+1275.1299
+1276.1299
+1277.1301
+1278.1301
+1279.1301
+1280.1301
+1281.1301
+1282.1302
+1283.1304
+1284.1304
+1285.1304
+1286.1305
+1287.1305
+1288.1306
+1289.1306
+1290.1309
+1291.1311
+1292.1312
+1293.1313
+1294.1315
+1295.1315
+1296.1317
+1297.1323
+1298.1326
+1299.1327
+1300.1328
+1301.1329
+1302.1330
+1303.1331
+1304.1332
+1305.1334
+1306.1337
+1307.1339
+1308.1339
+1309.1341
+1310.1342
+1311.1344
+1312.1345
+1313.1347
+1314.1350
+1315.1351
+1316.1351
+1317.1352
+1318.1353
+1319.1354
+1320.1355
+1321.1357
+1322.1357
+1323.1358
+1324.1359
+1325.1359
+1326.1359
+1327.1361
+1328.1363
+1329.1364
+1330.1365
+1331.1367
+1332.1372
+1333.1373
+1334.1373
+1335.1374
+1336.1374
+1337.1375
+1338.1376
+1339.1376
+1340.1376
+1341.1377
+1342.1377
+1343.1378
+1344.1379
+1345.1379
+1346.1380
+1347.1380
+1348.1380
+1349.1381
+1350.1382
+1351.1383
+1352.1384
+1353.1384
+1354.1386
+1355.1387
+1356.1390
+1357.1391
+1358.1392
+1359.1393
+1360.1394
+1361.1396
+1362.1397
+1363.1398
+1364.1399
+1365.1399
+1366.1400
+1367.1400
+1368.1401
+1369.1401
+1370.1402
+1371.1404
+1372.1404
+1373.1404
+1374.1406
+1375.1407
+1376.1410
+1377.1410
+1378.1410
+1379.1411
+1380.1412
+1381.1414
+1382.1415
+1383.1416
+1384.1416
+1385.1418
+1386.1419
+1387.1420
+1388.1422
+1389.1422
+1390.1423
+1391.1424
+1392.1427
+1393.1428
+1394.1428
+1395.1430
+1396.1430
+1397.1431
+1398.1434
+1399.1436
+1400.1439
+1401.1439
+1402.1440
+1403.1441
+1404.1442
+1405.1442
+1406.1443
+1407.1444
+1408.1444
+1409.1446
+1410.1448
+1411.1448
+1412.1448
+1413.1449
+1414.1450
+1415.1451
+1416.1452
+1417.1453
+1418.1454
+1419.1456
+1420.1457
+1421.1457
+1422.1459
+1423.1462
+1424.1462
+1425.1462
+1426.1462
+1427.1463
+1428.1467
+1429.1471
+1430.1472
+1431.1473
+1432.1473
+1433.1474
+1434.1476
+1435.1477
+1436.1477
+1437.1478
+1438.1480
+1439.1481
+1440.1482
+1441.1483
+1442.1484
+1443.1484
+1444.1487
+1445.1488
+1446.1489
+1447.1490
+1448.1496
+1449.1496
+1450.1499
+1451.1500
+1452.1500
+1453.1503
+1454.1503
+1455.1503
+1456.1504
+1457.1504
+1458.1506
+1459.1507
+1460.1508
+1461.1509
+1462.1510
+1463.1512
+1464.1512
+1465.1512
+1466.1514
+1467.1515
+1468.1517
+1469.1519
+1470.1519
+1471.1521
+1472.1521
+1473.1522
+1474.1523
+1475.1526
+1476.1527
+1477.1529
+1478.1529
+1479.1529
+1480.1529
+1481.1532
+1482.1532
+1483.1534
+1484.1534
+1485.1536
+1486.1537
+1487.1540
+1488.1540
+1489.1541
+1490.1541
+1491.1543
+1492.1543
+1493.1545
+1494.1545
+1495.1546
+1496.1547
+1497.1548
+1498.1548
+1499.1551
+1500.1552
+1501.1554
+1502.1557
+1503.1557
+1504.1557
+1505.1558
+1506.1559
+1507.1560
+1508.1560
+1509.1560
+1510.1562
+1511.1562
+1512.1562
+1513.1562
+1514.1565
+1515.1565
+1516.1568
+1517.1568
+1518.1570
+1519.1572
+1520.1573
+1521.1573
+1522.1575
+1523.1577
+1524.1578
+1525.1579
+1526.1580
+1527.1581
+1528.1581
+1529.1581
+1530.1583
+1531.1583
+1532.1583
+1533.1587
+1534.1587
+1535.1587
+1536.1587
+1537.1589
+1538.1592
+1539.1595
+1540.1596
+1541.1596
+1542.1599
+1543.1599
+1544.1601
+1545.1603
+1546.1606
+1547.1608
+1548.1610
+1549.1610
+1550.1610
+1551.1611
+1552.1613
+1553.1613
+1554.1615
+1555.1616
+1556.1617
+1557.1618
+1558.1620
+1559.1620
+1560.1622
+1561.1622
+1562.1625
+1563.1625
+1564.1626
+1565.1631
+1566.1632
+1567.1636
+1568.1636
+1569.1639
+1570.1641
+1571.1641
+1572.1642
+1573.1644
+1574.1644
+1575.1645
+1576.1647
+1577.1650
+1578.1650
+1579.1650
+1580.1652
+1581.1653
+1582.1654
+1583.1656
+1584.1659
+1585.1664
+1586.1665
+1587.1666
+1588.1666
+1589.1666
+1590.1668
+1591.1668
+1592.1671
+1593.1672
+1594.1673
+1595.1674
+1596.1674
+1597.1674
+1598.1674
+1599.1675
+1600.1676
+1601.1677
+1602.1678
+1603.1678
+1604.1679
+1605.1680
+1606.1682
+1607.1684
+1608.1686
+1609.1688
+1610.1689
+1611.1690
+1612.1691
+1613.1691
+1614.1693
+1615.1693
+1616.1693
+1617.1696
+1618.1697
+1619.1698
+1620.1699
+1621.1703
+1622.1705
+1623.1706
+1624.1706
+1625.1707
+1626.1707
+1627.1709
+1628.1710
+1629.1711
+1630.1711
+1631.1712
+1632.1712
+1633.1713
+1634.1713
+1635.1713
+1636.1713
+1637.1714
+1638.1715
+1639.1715
+1640.1716
+1641.1716
+1642.1717
+1643.1718
+1644.1718
+1645.1720
+1646.1722
+1647.1724
+1648.1725
+1649.1725
+1650.1726
+1651.1727
+1652.1729
+1653.1730
+1654.1731
+1655.1731
+1656.1733
+1657.1733
+1658.1734
+1659.1734
+1660.1734
+1661.1735
+1662.1736
+1663.1736
+1664.1738
+1665.1739
+1666.1740
+1667.1742
+1668.1744
+1669.1744
+1670.1745
+1671.1746
+1672.1747
+1673.1748
+1674.1748
+1675.1753
+1676.1754
+1677.1755
+1678.1755
+1679.1755
+1680.1757
+1681.1758
+1682.1758
+1683.1759
+1684.1761
+1685.1763
+1686.1767
+1687.1769
+1688.1769
+1689.1769
+1690.1774
+1691.1775
+1692.1776
+1693.1778
+1694.1782
+1695.1782
+1696.1785
+1697.1788
+1698.1789
+1699.1790
+1700.1791
+1701.1792
+1702.1792
+1703.1793
+1704.1793
+1705.1794
+1706.1794
+1707.1796
+1708.1796
+1709.1797
+1710.1797
+1711.1799
+1712.1799
+1713.1800
+1714.1802
+1715.1802
+1716.1804
+1717.1805
+1718.1807
+1719.1807
+1720.1807
+1721.1808
+1722.1809
+1723.1809
+1724.1811
+1725.1813
+1726.1815
+1727.1816
+1728.1817
+1729.1818
+1730.1820
+1731.1820
+1732.1821
+1733.1821
+1734.1822
+1735.1824
+1736.1825
+1737.1826
+1738.1826
+1739.1827
+1740.1828
+1741.1828
+1742.1828
+1743.1829
+1744.1832
+1745.1835
+1746.1836
+1747.1838
+1748.1839
+1749.1840
+1750.1841
+1751.1843
+1752.1843
+1753.1843
+1754.1843
+1755.1845
+1756.1846
+1757.1846
+1758.1853
+1759.1854
+1760.1855
+1761.1856
+1762.1859
+1763.1859
+1764.1860
+1765.1863
+1766.1863
+1767.1864
+1768.1864
+1769.1866
+1770.1867
+1771.1867
+1772.1867
+1773.1868
+1774.1869
+1775.1871
+1776.1871
+1777.1873
+1778.1874
+1779.1876
+1780.1877
+1781.1877
+1782.1880
+1783.1881
+1784.1882
+1785.1882
+1786.1883
+1787.1884
+1788.1887
+1789.1888
+1790.1888
+1791.1888
+1792.1889
+1793.1890
+1794.1890
+1795.1891
+1796.1891
+1797.1892
+1798.1895
+1799.1901
+1800.1901
+1801.1901
+1802.1902
+1803.1902
+1804.1903
+1805.1904
+1806.1904
+1807.1904
+1808.1906
+1809.1909
+1810.1909
+1811.1911
+1812.1912
+1813.1912
+1814.1913
+1815.1916
+1816.1917
+1817.1917
+1818.1918
+1819.1918
+1820.1919
+1821.1922
+1822.1924
+1823.1926
+1824.1927
+1825.1928
+1826.1928
+1827.1928
+1828.1929
+1829.1931
+1830.1931
+1831.1932
+1832.1932
+1833.1933
+1834.1934
+1835.1936
+1836.1936
+1837.1937
+1838.1938
+1839.1938
+1840.1942
+1841.1942
+1842.1943
+1843.1943
+1844.1945
+1845.1948
+1846.1948
+1847.1949
+1848.1949
+1849.1951
+1850.1952
+1851.1952
+1852.1953
+1853.1955
+1854.1956
+1855.1958
+1856.1958
+1857.1958
+1858.1959
+1859.1962
+1860.1963
+1861.1964
+1862.1965
+1863.1965
+1864.1966
+1865.1966
+1866.1967
+1867.1971
+1868.1972
+1869.1973
+1870.1975
+1871.1975
+1872.1976
+1873.1977
+1874.1977
+1875.1978
+1876.1978
+1877.1979
+1878.1982
+1879.1982
+1880.1983
+1881.1983
+1882.1984
+1883.1985
+1884.1988
+1885.1988
+1886.1988
+1887.1989
+1888.1989
+1889.1990
+1890.1991
+1891.1992
+1892.1994
+1893.1994
+1894.1996
+1895.1997
+1896.1997
+1897.1997
+1898.1998
+1899.1998
 LISTA NORMAL
 0. 0
-1. 30
-2. 54
-3. 75
-4. 100
-5. 109
-6. 112
-7. 136
-8. 141
-9. 163
-10. 176
-11. 193
-12. 200
-13. 207
-14. 212
-15. 215
-16. 216
-17. 226
-18. 232
-19. 239
-20. 242
-21. 249
-22. 263
-23. 269
-24. 293
-25. 298
-26. 302
-27. 323
-28. 333
-29. 335
-30. 341
-31. 343
-32. 354
-33. 358
-34. 400
-35. 420
-36. 425
-37. 431
-38. 439
-39. 442
-40. 490
-41. 504
-42. 536
-43. 538
-44. 541
-45. 542
-46. 556
-47. 586
-48. 586
-49. 593
-50. 594
-51. 612
-52. 626
-53. 632
-54. 650
-55. 653
-56. 660
-57. 669
-58. 671
-59. 680
-60. 681
-61. 689
-62. 693
-63. 700
-64. 703
-65. 704
-66. 713
-67. 720
-68. 728
-69. 728
-70. 731
-71. 736
-72. 756
-73. 774
-74. 779
-75. 781
-76. 782
-77. 784
-78. 810
-79. 815
-80. 824
-81. 831
-82. 838
-83. 863
-84. 864
-85. 875
-86. 896
-87. 903
-88. 909
-89. 918
-90. 926
-91. 926
-92. 933
-93. 938
-94. 941
-95. 942
-96. 990
-97. 991
-98. 997
-99. 1011
-100. 1033
-101. 1044
-102. 1049
-103. 1050
-104. 1055
-105. 1058
-106. 1075
-107. 1078
-108. 1089
-109. 1105
-110. 1115
-111. 1116
-112. 1120
-113. 1122
-114. 1128
-115. 1184
-116. 1191
-117. 1191
-118. 1198
-119. 1202
-120. 1224
-121. 1230
-122. 1249
-123. 1255
-124. 1286
-125. 1287
-126. 1299
-127. 1301
-128. 1304
-129. 1308
-130. 1315
-131. 1316
-132. 1320
-133. 1336
-134. 1357
-135. 1370
-136. 1370
-137. 1387
-138. 1388
-139. 1399
-140. 1414
-141. 1420
-142. 1458
-143. 1465
-144. 1474
-145. 1477
-146. 1481
-147. 1486
-148. 1531
-149. 1535
-150. 1539
-151. 1539
-152. 1590
-153. 1590
-154. 1595
-155. 1600
-156. 1613
-157. 1623
-158. 1632
-159. 1636
-160. 1661
-161. 1672
-162. 1680
-163. 1684
-164. 1699
-165. 1707
-166. 1709
-167. 1731
-168. 1735
-169. 1748
-170. 1749
-171. 1752
-172. 1758
-173. 1760
-174. 1762
-175. 1763
-176. 1770
-177. 1777
-178. 1789
-179. 1795
-180. 1812
-181. 1826
-182. 1834
-183. 1839
-184. 1844
-185. 1854
-186. 1856
-187. 1865
-188. 1877
-189. 1883
-190. 1883
-191. 1890
-192. 1911
-193. 1927
-194. 1930
-195. 1958
-196. 1959
-197. 1968
-198. 1987
-199. 1989
+1. 0
+2. 0
+3. 1
+4. 1
+5. 2
+6. 2
+7. 3
+8. 3
+9. 5
+10. 5
+11. 5
+12. 9
+13. 10
+14. 11
+15. 11
+16. 12
+17. 12
+18. 13
+19. 14
+20. 15
+21. 15
+22. 16
+23. 16
+24. 17
+25. 18
+26. 19
+27. 20
+28. 20
+29. 21
+30. 22
+31. 22
+32. 23
+33. 23
+34. 23
+35. 24
+36. 24
+37. 25
+38. 26
+39. 26
+40. 27
+41. 27
+42. 28
+43. 29
+44. 29
+45. 30
+46. 30
+47. 32
+48. 33
+49. 33
+50. 33
+51. 34
+52. 35
+53. 38
+54. 38
+55. 38
+56. 40
+57. 41
+58. 41
+59. 44
+60. 45
+61. 48
+62. 48
+63. 48
+64. 49
+65. 49
+66. 49
+67. 49
+68. 53
+69. 53
+70. 53
+71. 58
+72. 59
+73. 62
+74. 64
+75. 65
+76. 67
+77. 68
+78. 69
+79. 74
+80. 75
+81. 75
+82. 77
+83. 79
+84. 79
+85. 79
+86. 80
+87. 80
+88. 85
+89. 86
+90. 86
+91. 86
+92. 86
+93. 87
+94. 87
+95. 89
+96. 89
+97. 90
+98. 90
+99. 91
+100. 91
+101. 94
+102. 94
+103. 96
+104. 97
+105. 98
+106. 99
+107. 99
+108. 101
+109. 102
+110. 103
+111. 104
+112. 104
+113. 105
+114. 105
+115. 106
+116. 107
+117. 108
+118. 109
+119. 110
+120. 111
+121. 111
+122. 113
+123. 114
+124. 115
+125. 117
+126. 117
+127. 120
+128. 122
+129. 124
+130. 126
+131. 131
+132. 132
+133. 132
+134. 132
+135. 133
+136. 137
+137. 141
+138. 142
+139. 142
+140. 142
+141. 143
+142. 144
+143. 144
+144. 144
+145. 145
+146. 146
+147. 146
+148. 152
+149. 152
+150. 152
+151. 154
+152. 156
+153. 156
+154. 158
+155. 158
+156. 159
+157. 160
+158. 163
+159. 163
+160. 164
+161. 167
+162. 168
+163. 168
+164. 170
+165. 170
+166. 172
+167. 178
+168. 178
+169. 180
+170. 181
+171. 182
+172. 183
+173. 184
+174. 184
+175. 185
+176. 185
+177. 188
+178. 189
+179. 191
+180. 192
+181. 192
+182. 193
+183. 194
+184. 195
+185. 196
+186. 196
+187. 196
+188. 196
+189. 197
+190. 199
+191. 201
+192. 202
+193. 203
+194. 203
+195. 204
+196. 205
+197. 205
+198. 206
+199. 207
+200. 207
+201. 211
+202. 212
+203. 212
+204. 214
+205. 214
+206. 216
+207. 218
+208. 220
+209. 220
+210. 220
+211. 221
+212. 221
+213. 223
+214. 223
+215. 224
+216. 224
+217. 224
+218. 225
+219. 229
+220. 230
+221. 231
+222. 233
+223. 233
+224. 234
+225. 236
+226. 238
+227. 239
+228. 240
+229. 240
+230. 240
+231. 241
+232. 243
+233. 243
+234. 244
+235. 245
+236. 246
+237. 247
+238. 250
+239. 251
+240. 252
+241. 253
+242. 253
+243. 253
+244. 254
+245. 255
+246. 256
+247. 256
+248. 257
+249. 257
+250. 262
+251. 266
+252. 266
+253. 266
+254. 267
+255. 268
+256. 268
+257. 269
+258. 270
+259. 271
+260. 272
+261. 274
+262. 274
+263. 274
+264. 275
+265. 277
+266. 279
+267. 282
+268. 282
+269. 282
+270. 284
+271. 285
+272. 286
+273. 290
+274. 292
+275. 294
+276. 295
+277. 295
+278. 295
+279. 296
+280. 296
+281. 296
+282. 298
+283. 300
+284. 300
+285. 301
+286. 302
+287. 302
+288. 306
+289. 307
+290. 307
+291. 309
+292. 309
+293. 310
+294. 310
+295. 311
+296. 311
+297. 313
+298. 316
+299. 317
+300. 318
+301. 318
+302. 319
+303. 319
+304. 320
+305. 322
+306. 322
+307. 322
+308. 327
+309. 330
+310. 330
+311. 330
+312. 330
+313. 331
+314. 331
+315. 332
+316. 332
+317. 334
+318. 335
+319. 335
+320. 335
+321. 335
+322. 337
+323. 337
+324. 338
+325. 338
+326. 339
+327. 340
+328. 340
+329. 340
+330. 341
+331. 341
+332. 342
+333. 342
+334. 343
+335. 345
+336. 345
+337. 346
+338. 348
+339. 348
+340. 349
+341. 350
+342. 351
+343. 353
+344. 353
+345. 354
+346. 354
+347. 354
+348. 356
+349. 356
+350. 357
+351. 358
+352. 359
+353. 360
+354. 360
+355. 363
+356. 363
+357. 364
+358. 364
+359. 364
+360. 366
+361. 366
+362. 366
+363. 367
+364. 367
+365. 367
+366. 368
+367. 368
+368. 368
+369. 368
+370. 375
+371. 380
+372. 383
+373. 385
+374. 390
+375. 390
+376. 392
+377. 393
+378. 395
+379. 396
+380. 397
+381. 397
+382. 397
+383. 398
+384. 399
+385. 400
+386. 400
+387. 402
+388. 404
+389. 405
+390. 405
+391. 405
+392. 405
+393. 406
+394. 406
+395. 408
+396. 409
+397. 409
+398. 409
+399. 409
+400. 410
+401. 411
+402. 411
+403. 413
+404. 413
+405. 413
+406. 413
+407. 414
+408. 415
+409. 415
+410. 416
+411. 417
+412. 417
+413. 418
+414. 421
+415. 422
+416. 424
+417. 425
+418. 428
+419. 434
+420. 435
+421. 437
+422. 437
+423. 437
+424. 438
+425. 438
+426. 439
+427. 440
+428. 440
+429. 441
+430. 444
+431. 444
+432. 447
+433. 448
+434. 448
+435. 450
+436. 450
+437. 451
+438. 452
+439. 453
+440. 456
+441. 456
+442. 457
+443. 457
+444. 461
+445. 462
+446. 463
+447. 464
+448. 465
+449. 465
+450. 466
+451. 470
+452. 471
+453. 474
+454. 476
+455. 477
+456. 477
+457. 478
+458. 479
+459. 479
+460. 480
+461. 480
+462. 480
+463. 481
+464. 481
+465. 483
+466. 484
+467. 485
+468. 486
+469. 486
+470. 486
+471. 487
+472. 487
+473. 487
+474. 487
+475. 490
+476. 490
+477. 491
+478. 492
+479. 492
+480. 494
+481. 494
+482. 496
+483. 497
+484. 500
+485. 501
+486. 501
+487. 501
+488. 503
+489. 504
+490. 504
+491. 505
+492. 505
+493. 505
+494. 507
+495. 509
+496. 510
+497. 510
+498. 511
+499. 516
+500. 517
+501. 517
+502. 517
+503. 518
+504. 522
+505. 525
+506. 525
+507. 526
+508. 527
+509. 528
+510. 531
+511. 531
+512. 532
+513. 533
+514. 533
+515. 533
+516. 533
+517. 533
+518. 534
+519. 536
+520. 537
+521. 537
+522. 539
+523. 540
+524. 540
+525. 540
+526. 541
+527. 542
+528. 542
+529. 543
+530. 544
+531. 545
+532. 545
+533. 546
+534. 546
+535. 547
+536. 549
+537. 552
+538. 553
+539. 554
+540. 555
+541. 556
+542. 556
+543. 557
+544. 557
+545. 560
+546. 562
+547. 564
+548. 565
+549. 565
+550. 565
+551. 565
+552. 566
+553. 567
+554. 567
+555. 567
+556. 568
+557. 568
+558. 569
+559. 569
+560. 569
+561. 573
+562. 573
+563. 574
+564. 574
+565. 575
+566. 576
+567. 576
+568. 579
+569. 580
+570. 581
+571. 581
+572. 584
+573. 585
+574. 586
+575. 586
+576. 586
+577. 586
+578. 587
+579. 588
+580. 589
+581. 589
+582. 590
+583. 590
+584. 590
+585. 591
+586. 591
+587. 592
+588. 593
+589. 595
+590. 595
+591. 599
+592. 599
+593. 599
+594. 600
+595. 600
+596. 601
+597. 601
+598. 601
+599. 602
+600. 603
+601. 603
+602. 604
+603. 604
+604. 604
+605. 606
+606. 607
+607. 608
+608. 610
+609. 610
+610. 612
+611. 612
+612. 613
+613. 613
+614. 613
+615. 615
+616. 615
+617. 615
+618. 615
+619. 616
+620. 616
+621. 617
+622. 621
+623. 623
+624. 623
+625. 624
+626. 625
+627. 625
+628. 627
+629. 627
+630. 628
+631. 628
+632. 628
+633. 631
+634. 631
+635. 632
+636. 632
+637. 634
+638. 635
+639. 635
+640. 636
+641. 637
+642. 637
+643. 638
+644. 639
+645. 641
+646. 641
+647. 642
+648. 643
+649. 644
+650. 645
+651. 645
+652. 647
+653. 647
+654. 649
+655. 650
+656. 652
+657. 652
+658. 653
+659. 654
+660. 654
+661. 655
+662. 655
+663. 655
+664. 656
+665. 657
+666. 658
+667. 659
+668. 660
+669. 660
+670. 662
+671. 662
+672. 664
+673. 666
+674. 667
+675. 670
+676. 671
+677. 671
+678. 671
+679. 671
+680. 672
+681. 673
+682. 674
+683. 674
+684. 674
+685. 675
+686. 677
+687. 678
+688. 679
+689. 679
+690. 680
+691. 680
+692. 680
+693. 681
+694. 682
+695. 682
+696. 682
+697. 683
+698. 685
+699. 685
+700. 685
+701. 689
+702. 691
+703. 691
+704. 691
+705. 692
+706. 692
+707. 693
+708. 693
+709. 695
+710. 696
+711. 696
+712. 698
+713. 698
+714. 702
+715. 702
+716. 703
+717. 704
+718. 705
+719. 705
+720. 706
+721. 706
+722. 706
+723. 707
+724. 708
+725. 709
+726. 711
+727. 712
+728. 713
+729. 714
+730. 717
+731. 717
+732. 717
+733. 718
+734. 719
+735. 720
+736. 722
+737. 723
+738. 723
+739. 724
+740. 725
+741. 726
+742. 726
+743. 726
+744. 728
+745. 729
+746. 730
+747. 732
+748. 732
+749. 732
+750. 735
+751. 736
+752. 736
+753. 737
+754. 737
+755. 738
+756. 739
+757. 739
+758. 739
+759. 740
+760. 741
+761. 742
+762. 742
+763. 743
+764. 744
+765. 744
+766. 745
+767. 745
+768. 749
+769. 749
+770. 750
+771. 750
+772. 754
+773. 754
+774. 755
+775. 756
+776. 757
+777. 757
+778. 759
+779. 759
+780. 760
+781. 761
+782. 762
+783. 762
+784. 764
+785. 767
+786. 768
+787. 769
+788. 771
+789. 772
+790. 776
+791. 778
+792. 779
+793. 781
+794. 782
+795. 783
+796. 785
+797. 786
+798. 786
+799. 788
+800. 788
+801. 789
+802. 790
+803. 792
+804. 794
+805. 794
+806. 795
+807. 797
+808. 797
+809. 797
+810. 799
+811. 800
+812. 801
+813. 801
+814. 802
+815. 803
+816. 803
+817. 804
+818. 805
+819. 806
+820. 809
+821. 809
+822. 810
+823. 811
+824. 812
+825. 812
+826. 817
+827. 819
+828. 825
+829. 826
+830. 827
+831. 828
+832. 834
+833. 837
+834. 837
+835. 838
+836. 839
+837. 839
+838. 841
+839. 841
+840. 842
+841. 843
+842. 845
+843. 846
+844. 847
+845. 847
+846. 847
+847. 848
+848. 849
+849. 850
+850. 850
+851. 850
+852. 851
+853. 851
+854. 852
+855. 853
+856. 855
+857. 856
+858. 857
+859. 858
+860. 859
+861. 860
+862. 861
+863. 863
+864. 863
+865. 865
+866. 867
+867. 868
+868. 869
+869. 871
+870. 871
+871. 872
+872. 872
+873. 873
+874. 875
+875. 876
+876. 877
+877. 878
+878. 878
+879. 878
+880. 880
+881. 880
+882. 882
+883. 884
+884. 885
+885. 885
+886. 886
+887. 886
+888. 887
+889. 887
+890. 888
+891. 889
+892. 891
+893. 892
+894. 894
+895. 895
+896. 895
+897. 896
+898. 896
+899. 897
+900. 900
+901. 900
+902. 901
+903. 901
+904. 905
+905. 908
+906. 908
+907. 910
+908. 910
+909. 910
+910. 911
+911. 911
+912. 914
+913. 915
+914. 916
+915. 916
+916. 916
+917. 918
+918. 921
+919. 922
+920. 924
+921. 925
+922. 925
+923. 930
+924. 931
+925. 933
+926. 935
+927. 935
+928. 936
+929. 942
+930. 945
+931. 946
+932. 946
+933. 947
+934. 949
+935. 951
+936. 953
+937. 956
+938. 958
+939. 959
+940. 960
+941. 961
+942. 961
+943. 963
+944. 964
+945. 967
+946. 967
+947. 967
+948. 969
+949. 969
+950. 969
+951. 970
+952. 973
+953. 973
+954. 975
+955. 975
+956. 977
+957. 978
+958. 979
+959. 979
+960. 980
+961. 980
+962. 980
+963. 981
+964. 983
+965. 986
+966. 987
+967. 987
+968. 988
+969. 988
+970. 988
+971. 989
+972. 990
+973. 990
+974. 991
+975. 993
+976. 993
+977. 994
+978. 995
+979. 995
+980. 995
+981. 995
+982. 997
+983. 999
+984. 999
+985. 1000
+986. 1001
+987. 1003
+988. 1004
+989. 1005
+990. 1005
+991. 1006
+992. 1007
+993. 1008
+994. 1008
+995. 1009
+996. 1010
+997. 1011
+998. 1011
+999. 1011
+1000. 1013
+1001. 1019
+1002. 1020
+1003. 1020
+1004. 1020
+1005. 1020
+1006. 1022
+1007. 1024
+1008. 1024
+1009. 1026
+1010. 1027
+1011. 1028
+1012. 1028
+1013. 1028
+1014. 1031
+1015. 1031
+1016. 1032
+1017. 1032
+1018. 1033
+1019. 1034
+1020. 1035
+1021. 1036
+1022. 1037
+1023. 1038
+1024. 1038
+1025. 1039
+1026. 1040
+1027. 1041
+1028. 1045
+1029. 1045
+1030. 1046
+1031. 1050
+1032. 1051
+1033. 1052
+1034. 1053
+1035. 1053
+1036. 1053
+1037. 1055
+1038. 1055
+1039. 1055
+1040. 1055
+1041. 1056
+1042. 1056
+1043. 1058
+1044. 1059
+1045. 1060
+1046. 1060
+1047. 1061
+1048. 1061
+1049. 1062
+1050. 1062
+1051. 1063
+1052. 1063
+1053. 1063
+1054. 1063
+1055. 1066
+1056. 1066
+1057. 1066
+1058. 1071
+1059. 1072
+1060. 1073
+1061. 1074
+1062. 1076
+1063. 1076
+1064. 1078
+1065. 1078
+1066. 1078
+1067. 1079
+1068. 1080
+1069. 1080
+1070. 1080
+1071. 1085
+1072. 1085
+1073. 1086
+1074. 1086
+1075. 1086
+1076. 1086
+1077. 1087
+1078. 1087
+1079. 1088
+1080. 1089
+1081. 1090
+1082. 1091
+1083. 1091
+1084. 1091
+1085. 1092
+1086. 1092
+1087. 1092
+1088. 1093
+1089. 1096
+1090. 1097
+1091. 1098
+1092. 1099
+1093. 1100
+1094. 1100
+1095. 1101
+1096. 1101
+1097. 1104
+1098. 1104
+1099. 1105
+1100. 1105
+1101. 1106
+1102. 1107
+1103. 1108
+1104. 1109
+1105. 1109
+1106. 1110
+1107. 1110
+1108. 1110
+1109. 1111
+1110. 1113
+1111. 1113
+1112. 1114
+1113. 1114
+1114. 1114
+1115. 1120
+1116. 1120
+1117. 1121
+1118. 1123
+1119. 1123
+1120. 1124
+1121. 1124
+1122. 1128
+1123. 1129
+1124. 1131
+1125. 1131
+1126. 1133
+1127. 1135
+1128. 1136
+1129. 1138
+1130. 1139
+1131. 1139
+1132. 1140
+1133. 1140
+1134. 1143
+1135. 1143
+1136. 1146
+1137. 1148
+1138. 1151
+1139. 1153
+1140. 1154
+1141. 1155
+1142. 1157
+1143. 1157
+1144. 1157
+1145. 1158
+1146. 1159
+1147. 1160
+1148. 1164
+1149. 1164
+1150. 1165
+1151. 1166
+1152. 1166
+1153. 1167
+1154. 1168
+1155. 1169
+1156. 1170
+1157. 1171
+1158. 1171
+1159. 1173
+1160. 1174
+1161. 1174
+1162. 1176
+1163. 1176
+1164. 1176
+1165. 1177
+1166. 1180
+1167. 1181
+1168. 1181
+1169. 1182
+1170. 1184
+1171. 1184
+1172. 1186
+1173. 1187
+1174. 1188
+1175. 1190
+1176. 1191
+1177. 1191
+1178. 1193
+1179. 1193
+1180. 1196
+1181. 1198
+1182. 1200
+1183. 1201
+1184. 1202
+1185. 1204
+1186. 1205
+1187. 1205
+1188. 1206
+1189. 1206
+1190. 1207
+1191. 1207
+1192. 1207
+1193. 1208
+1194. 1212
+1195. 1214
+1196. 1216
+1197. 1216
+1198. 1216
+1199. 1216
+1200. 1217
+1201. 1218
+1202. 1219
+1203. 1219
+1204. 1219
+1205. 1219
+1206. 1219
+1207. 1220
+1208. 1223
+1209. 1223
+1210. 1223
+1211. 1223
+1212. 1224
+1213. 1225
+1214. 1225
+1215. 1226
+1216. 1227
+1217. 1228
+1218. 1228
+1219. 1228
+1220. 1228
+1221. 1230
+1222. 1231
+1223. 1232
+1224. 1235
+1225. 1238
+1226. 1239
+1227. 1241
+1228. 1242
+1229. 1242
+1230. 1243
+1231. 1243
+1232. 1251
+1233. 1251
+1234. 1252
+1235. 1254
+1236. 1254
+1237. 1255
+1238. 1256
+1239. 1260
+1240. 1264
+1241. 1266
+1242. 1268
+1243. 1270
+1244. 1270
+1245. 1271
+1246. 1272
+1247. 1274
+1248. 1274
+1249. 1275
+1250. 1276
+1251. 1276
+1252. 1279
+1253. 1280
+1254. 1281
+1255. 1282
+1256. 1282
+1257. 1284
+1258. 1284
+1259. 1286
+1260. 1286
+1261. 1287
+1262. 1288
+1263. 1288
+1264. 1289
+1265. 1289
+1266. 1291
+1267. 1292
+1268. 1293
+1269. 1294
+1270. 1295
+1271. 1296
+1272. 1296
+1273. 1298
+1274. 1298
+1275. 1299
+1276. 1299
+1277. 1301
+1278. 1301
+1279. 1301
+1280. 1301
+1281. 1301
+1282. 1302
+1283. 1304
+1284. 1304
+1285. 1304
+1286. 1305
+1287. 1305
+1288. 1306
+1289. 1306
+1290. 1309
+1291. 1311
+1292. 1312
+1293. 1313
+1294. 1315
+1295. 1315
+1296. 1317
+1297. 1323
+1298. 1326
+1299. 1327
+1300. 1328
+1301. 1329
+1302. 1330
+1303. 1331
+1304. 1332
+1305. 1334
+1306. 1337
+1307. 1339
+1308. 1339
+1309. 1341
+1310. 1342
+1311. 1344
+1312. 1345
+1313. 1347
+1314. 1350
+1315. 1351
+1316. 1351
+1317. 1352
+1318. 1353
+1319. 1354
+1320. 1355
+1321. 1357
+1322. 1357
+1323. 1358
+1324. 1359
+1325. 1359
+1326. 1359
+1327. 1361
+1328. 1363
+1329. 1364
+1330. 1365
+1331. 1367
+1332. 1372
+1333. 1373
+1334. 1373
+1335. 1374
+1336. 1374
+1337. 1375
+1338. 1376
+1339. 1376
+1340. 1376
+1341. 1377
+1342. 1377
+1343. 1378
+1344. 1379
+1345. 1379
+1346. 1380
+1347. 1380
+1348. 1380
+1349. 1381
+1350. 1382
+1351. 1383
+1352. 1384
+1353. 1384
+1354. 1386
+1355. 1387
+1356. 1390
+1357. 1391
+1358. 1392
+1359. 1393
+1360. 1394
+1361. 1396
+1362. 1397
+1363. 1398
+1364. 1399
+1365. 1399
+1366. 1400
+1367. 1400
+1368. 1401
+1369. 1401
+1370. 1402
+1371. 1404
+1372. 1404
+1373. 1404
+1374. 1406
+1375. 1407
+1376. 1410
+1377. 1410
+1378. 1410
+1379. 1411
+1380. 1412
+1381. 1414
+1382. 1415
+1383. 1416
+1384. 1416
+1385. 1418
+1386. 1419
+1387. 1420
+1388. 1422
+1389. 1422
+1390. 1423
+1391. 1424
+1392. 1427
+1393. 1428
+1394. 1428
+1395. 1430
+1396. 1430
+1397. 1431
+1398. 1434
+1399. 1436
+1400. 1439
+1401. 1439
+1402. 1440
+1403. 1441
+1404. 1442
+1405. 1442
+1406. 1443
+1407. 1444
+1408. 1444
+1409. 1446
+1410. 1448
+1411. 1448
+1412. 1448
+1413. 1449
+1414. 1450
+1415. 1451
+1416. 1452
+1417. 1453
+1418. 1454
+1419. 1456
+1420. 1457
+1421. 1457
+1422. 1459
+1423. 1462
+1424. 1462
+1425. 1462
+1426. 1462
+1427. 1463
+1428. 1467
+1429. 1471
+1430. 1472
+1431. 1473
+1432. 1473
+1433. 1474
+1434. 1476
+1435. 1477
+1436. 1477
+1437. 1478
+1438. 1480
+1439. 1481
+1440. 1482
+1441. 1483
+1442. 1484
+1443. 1484
+1444. 1487
+1445. 1488
+1446. 1489
+1447. 1490
+1448. 1496
+1449. 1496
+1450. 1499
+1451. 1500
+1452. 1500
+1453. 1503
+1454. 1503
+1455. 1503
+1456. 1504
+1457. 1504
+1458. 1506
+1459. 1507
+1460. 1508
+1461. 1509
+1462. 1510
+1463. 1512
+1464. 1512
+1465. 1512
+1466. 1514
+1467. 1515
+1468. 1517
+1469. 1519
+1470. 1519
+1471. 1521
+1472. 1521
+1473. 1522
+1474. 1523
+1475. 1526
+1476. 1527
+1477. 1529
+1478. 1529
+1479. 1529
+1480. 1529
+1481. 1532
+1482. 1532
+1483. 1534
+1484. 1534
+1485. 1536
+1486. 1537
+1487. 1540
+1488. 1540
+1489. 1541
+1490. 1541
+1491. 1543
+1492. 1543
+1493. 1545
+1494. 1545
+1495. 1546
+1496. 1547
+1497. 1548
+1498. 1548
+1499. 1551
+1500. 1552
+1501. 1554
+1502. 1557
+1503. 1557
+1504. 1557
+1505. 1558
+1506. 1559
+1507. 1560
+1508. 1560
+1509. 1560
+1510. 1562
+1511. 1562
+1512. 1562
+1513. 1562
+1514. 1565
+1515. 1565
+1516. 1568
+1517. 1568
+1518. 1570
+1519. 1572
+1520. 1573
+1521. 1573
+1522. 1575
+1523. 1577
+1524. 1578
+1525. 1579
+1526. 1580
+1527. 1581
+1528. 1581
+1529. 1581
+1530. 1583
+1531. 1583
+1532. 1583
+1533. 1587
+1534. 1587
+1535. 1587
+1536. 1587
+1537. 1589
+1538. 1592
+1539. 1595
+1540. 1596
+1541. 1596
+1542. 1599
+1543. 1599
+1544. 1601
+1545. 1603
+1546. 1606
+1547. 1608
+1548. 1610
+1549. 1610
+1550. 1610
+1551. 1611
+1552. 1613
+1553. 1613
+1554. 1615
+1555. 1616
+1556. 1617
+1557. 1618
+1558. 1620
+1559. 1620
+1560. 1622
+1561. 1622
+1562. 1625
+1563. 1625
+1564. 1626
+1565. 1631
+1566. 1632
+1567. 1636
+1568. 1636
+1569. 1639
+1570. 1641
+1571. 1641
+1572. 1642
+1573. 1644
+1574. 1644
+1575. 1645
+1576. 1647
+1577. 1650
+1578. 1650
+1579. 1650
+1580. 1652
+1581. 1653
+1582. 1654
+1583. 1656
+1584. 1659
+1585. 1664
+1586. 1665
+1587. 1666
+1588. 1666
+1589. 1666
+1590. 1668
+1591. 1668
+1592. 1671
+1593. 1672
+1594. 1673
+1595. 1674
+1596. 1674
+1597. 1674
+1598. 1674
+1599. 1675
+1600. 1676
+1601. 1677
+1602. 1678
+1603. 1678
+1604. 1679
+1605. 1680
+1606. 1682
+1607. 1684
+1608. 1686
+1609. 1688
+1610. 1689
+1611. 1690
+1612. 1691
+1613. 1691
+1614. 1693
+1615. 1693
+1616. 1693
+1617. 1696
+1618. 1697
+1619. 1698
+1620. 1699
+1621. 1703
+1622. 1705
+1623. 1706
+1624. 1706
+1625. 1707
+1626. 1707
+1627. 1709
+1628. 1710
+1629. 1711
+1630. 1711
+1631. 1712
+1632. 1712
+1633. 1713
+1634. 1713
+1635. 1713
+1636. 1713
+1637. 1714
+1638. 1715
+1639. 1715
+1640. 1716
+1641. 1716
+1642. 1717
+1643. 1718
+1644. 1718
+1645. 1720
+1646. 1722
+1647. 1724
+1648. 1725
+1649. 1725
+1650. 1726
+1651. 1727
+1652. 1729
+1653. 1730
+1654. 1731
+1655. 1731
+1656. 1733
+1657. 1733
+1658. 1734
+1659. 1734
+1660. 1734
+1661. 1735
+1662. 1736
+1663. 1736
+1664. 1738
+1665. 1739
+1666. 1740
+1667. 1742
+1668. 1744
+1669. 1744
+1670. 1745
+1671. 1746
+1672. 1747
+1673. 1748
+1674. 1748
+1675. 1753
+1676. 1754
+1677. 1755
+1678. 1755
+1679. 1755
+1680. 1757
+1681. 1758
+1682. 1758
+1683. 1759
+1684. 1761
+1685. 1763
+1686. 1767
+1687. 1769
+1688. 1769
+1689. 1769
+1690. 1774
+1691. 1775
+1692. 1776
+1693. 1778
+1694. 1782
+1695. 1782
+1696. 1785
+1697. 1788
+1698. 1789
+1699. 1790
+1700. 1791
+1701. 1792
+1702. 1792
+1703. 1793
+1704. 1793
+1705. 1794
+1706. 1794
+1707. 1796
+1708. 1796
+1709. 1797
+1710. 1797
+1711. 1799
+1712. 1799
+1713. 1800
+1714. 1802
+1715. 1802
+1716. 1804
+1717. 1805
+1718. 1807
+1719. 1807
+1720. 1807
+1721. 1808
+1722. 1809
+1723. 1809
+1724. 1811
+1725. 1813
+1726. 1815
+1727. 1816
+1728. 1817
+1729. 1818
+1730. 1820
+1731. 1820
+1732. 1821
+1733. 1821
+1734. 1822
+1735. 1824
+1736. 1825
+1737. 1826
+1738. 1826
+1739. 1827
+1740. 1828
+1741. 1828
+1742. 1828
+1743. 1829
+1744. 1832
+1745. 1835
+1746. 1836
+1747. 1838
+1748. 1839
+1749. 1840
+1750. 1841
+1751. 1843
+1752. 1843
+1753. 1843
+1754. 1843
+1755. 1845
+1756. 1846
+1757. 1846
+1758. 1853
+1759. 1854
+1760. 1855
+1761. 1856
+1762. 1859
+1763. 1859
+1764. 1860
+1765. 1863
+1766. 1863
+1767. 1864
+1768. 1864
+1769. 1866
+1770. 1867
+1771. 1867
+1772. 1867
+1773. 1868
+1774. 1869
+1775. 1871
+1776. 1871
+1777. 1873
+1778. 1874
+1779. 1876
+1780. 1877
+1781. 1877
+1782. 1880
+1783. 1881
+1784. 1882
+1785. 1882
+1786. 1883
+1787. 1884
+1788. 1887
+1789. 1888
+1790. 1888
+1791. 1888
+1792. 1889
+1793. 1890
+1794. 1890
+1795. 1891
+1796. 1891
+1797. 1892
+1798. 1895
+1799. 1901
+1800. 1901
+1801. 1901
+1802. 1902
+1803. 1902
+1804. 1903
+1805. 1904
+1806. 1904
+1807. 1904
+1808. 1906
+1809. 1909
+1810. 1909
+1811. 1911
+1812. 1912
+1813. 1912
+1814. 1913
+1815. 1916
+1816. 1917
+1817. 1917
+1818. 1918
+1819. 1918
+1820. 1919
+1821. 1922
+1822. 1924
+1823. 1926
+1824. 1927
+1825. 1928
+1826. 1928
+1827. 1928
+1828. 1929
+1829. 1931
+1830. 1931
+1831. 1932
+1832. 1932
+1833. 1933
+1834. 1934
+1835. 1936
+1836. 1936
+1837. 1937
+1838. 1938
+1839. 1938
+1840. 1942
+1841. 1942
+1842. 1943
+1843. 1943
+1844. 1945
+1845. 1948
+1846. 1948
+1847. 1949
+1848. 1949
+1849. 1951
+1850. 1952
+1851. 1952
+1852. 1953
+1853. 1955
+1854. 1956
+1855. 1958
+1856. 1958
+1857. 1958
+1858. 1959
+1859. 1962
+1860. 1963
+1861. 1964
+1862. 1965
+1863. 1965
+1864. 1966
+1865. 1966
+1866. 1967
+1867. 1971
+1868. 1972
+1869. 1973
+1870. 1975
+1871. 1975
+1872. 1976
+1873. 1977
+1874. 1977
+1875. 1978
+1876. 1978
+1877. 1979
+1878. 1982
+1879. 1982
+1880. 1983
+1881. 1983
+1882. 1984
+1883. 1985
+1884. 1988
+1885. 1988
+1886. 1988
+1887. 1989
+1888. 1989
+1889. 1990
+1890. 1991
+1891. 1992
+1892. 1994
+1893. 1994
+1894. 1996
+1895. 1997
+1896. 1997
+1897. 1997
+1898. 1998
+1899. 1998
 LISTA ARREGLADA (MergeSort)
-0.0
-1.30
-2.54
-3.75
-4.100
-5.109
-6.112
-7.136
-8.141
-9.163
-10.176
-11.193
-12.200
-13.207
-14.212
-15.215
-16.216
-17.226
-18.232
-19.239
-20.242
-21.249
-22.263
-23.269
-24.293
-25.298
-26.302
-27.323
-28.333
-29.335
-30.341
-31.343
-32.354
-33.358
-34.400
-35.420
-36.425
-37.431
-38.439
-39.442
-40.490
-41.504
-42.536
-43.538
-44.541
-45.542
-46.556
-47.586
-48.586
-49.593
-50.594
-51.612
-52.626
-53.632
-54.650
-55.653
-56.660
-57.669
-58.671
-59.680
-60.681
-61.689
-62.693
-63.700
-64.703
-65.704
-66.713
-67.720
-68.728
-69.728
-70.731
-71.736
-72.756
-73.774
-74.779
-75.781
-76.782
-77.784
-78.810
-79.815
-80.824
-81.831
-82.838
-83.863
-84.864
-85.875
-86.896
-87.903
-88.909
-89.918
-90.926
-91.926
-92.933
-93.938
-94.941
-95.942
-96.990
-97.991
-98.997
-99.1011
-100.1033
-101.1044
-102.1049
-103.1050
-104.1055
-105.1058
-106.1075
-107.1078
-108.1089
-109.1105
-110.1115
-111.1116
-112.1120
-113.1122
-114.1128
-115.1184
-116.1191
-117.1191
-118.1198
-119.1202
-120.1224
-121.1230
-122.1249
-123.1255
-124.1286
-125.1287
-126.1299
-127.1301
-128.1304
-129.1308
-130.1315
-131.1316
-132.1320
-133.1336
-134.1357
-135.1370
-136.1370
-137.1387
-138.1388
-139.1399
-140.1414
-141.1420
-142.1458
-143.1465
-144.1474
-145.1477
-146.1481
-147.1486
-148.1531
-149.1535
-150.1539
-151.1539
-152.1590
-153.1590
-154.1595
-155.1600
-156.1613
-157.1623
-158.1632
-159.1636
-160.1661
-161.1672
-162.1680
-163.1684
-164.1699
-165.1707
-166.1709
-167.1731
-168.1735
-169.1748
-170.1749
-171.1752
-172.1758
-173.1760
-174.1762
-175.1763
-176.1770
-177.1777
-178.1789
-179.1795
-180.1812
-181.1826
-182.1834
-183.1839
-184.1844
-185.1854
-186.1856
-187.1865
-188.1877
-189.1883
-190.1883
-191.1890
-192.1911
-193.1927
-194.1930
-195.1958
-196.1959
-197.1968
-198.1987
-199.1989
+0.1445
+1.1445
+2.1445
+3.1445
+4.1445
+5.1445
+6.1445
+7.1445
+8.1445
+9.1445
+10.1445
+11.1445
+12.1445
+13.1445
+14.1445
+15.1445
+16.1445
+17.1445
+18.1445
+19.1445
+20.1445
+21.1445
+22.1445
+23.1445
+24.1445
+25.1445
+26.1445
+27.1445
+28.1445
+29.1445
+30.1445
+31.1445
+32.1445
+33.1445
+34.1445
+35.1445
+36.1445
+37.1445
+38.1445
+39.1445
+40.1445
+41.1445
+42.1445
+43.1445
+44.1445
+45.1445
+46.1445
+47.1445
+48.1445
+49.1445
+50.1445
+51.1445
+52.1445
+53.1445
+54.1445
+55.1445
+56.1445
+57.1445
+58.1445
+59.1445
+60.1445
+61.1445
+62.1445
+63.1445
+64.1445
+65.1445
+66.1445
+67.1445
+68.1445
+69.1445
+70.1445
+71.1445
+72.1445
+73.1445
+74.1445
+75.1445
+76.1445
+77.1445
+78.1445
+79.1445
+80.1445
+81.1445
+82.1445
+83.1445
+84.1445
+85.1445
+86.1445
+87.1445
+88.1445
+89.1445
+90.1445
+91.1445
+92.1445
+93.1445
+94.1445
+95.1445
+96.1445
+97.1445
+98.1445
+99.1445
+100.1445
+101.1445
+102.1445
+103.1445
+104.1445
+105.1445
+106.1445
+107.1445
+108.1445
+109.1445
+110.1445
+111.1445
+112.1445
+113.1445
+114.1445
+115.1445
+116.1445
+117.1445
+118.1445
+119.1445
+120.1445
+121.1445
+122.1445
+123.1445
+124.1445
+125.1445
+126.1445
+127.1445
+128.1445
+129.1466
+130.1504
+131.1506
+132.1507
+133.1517
+134.1523
+135.1529
+136.1539
+137.1575
+138.1579
+139.1595
+140.1596
+141.1599
+142.1602
+143.1603
+144.1605
+145.1605
+146.1619
+147.1624
+148.1632
+149.1638
+150.1640
+151.1676
+152.1714
+153.1718
+154.1719
+155.1721
+156.1724
+157.1736
+158.1749
+159.1754
+160.1756
+161.1763
+162.1777
+163.1788
+164.1804
+165.1813
+166.1820
+167.1833
+168.1841
+169.1862
+170.1869
+171.1924
+172.1926
+173.1985
+174.1995
 LISTA NORMAL
-0. 0
-1. 30
-2. 54
-3. 75
-4. 100
-5. 109
-6. 112
-7. 136
-8. 141
-9. 163
-10. 176
-11. 193
-12. 200
-13. 207
-14. 212
-15. 215
-16. 216
-17. 226
-18. 232
-19. 239
-20. 242
-21. 249
-22. 263
-23. 269
-24. 293
-25. 298
-26. 302
-27. 323
-28. 333
-29. 335
-30. 341
-31. 343
-32. 354
-33. 358
-34. 400
-35. 420
-36. 425
-37. 431
-38. 439
-39. 442
-40. 490
-41. 504
-42. 536
-43. 538
-44. 541
-45. 542
-46. 556
-47. 586
-48. 586
-49. 593
-50. 594
-51. 612
-52. 626
-53. 632
-54. 650
-55. 653
-56. 660
-57. 669
-58. 671
-59. 680
-60. 681
-61. 689
-62. 693
-63. 700
-64. 703
-65. 704
-66. 713
-67. 720
-68. 728
-69. 728
-70. 731
-71. 736
-72. 756
-73. 774
-74. 779
-75. 781
-76. 782
-77. 784
-78. 810
-79. 815
-80. 824
-81. 831
-82. 838
-83. 863
-84. 864
-85. 875
-86. 896
-87. 903
-88. 909
-89. 918
-90. 926
-91. 926
-92. 933
-93. 938
-94. 941
-95. 942
-96. 990
-97. 991
-98. 997
-99. 1011
-100. 1033
-101. 1044
-102. 1049
-103. 1050
-104. 1055
-105. 1058
-106. 1075
-107. 1078
-108. 1089
-109. 1105
-110. 1115
-111. 1116
-112. 1120
-113. 1122
-114. 1128
-115. 1184
-116. 1191
-117. 1191
-118. 1198
-119. 1202
-120. 1224
-121. 1230
-122. 1249
-123. 1255
-124. 1286
-125. 1287
-126. 1299
-127. 1301
-128. 1304
-129. 1308
-130. 1315
-131. 1316
-132. 1320
-133. 1336
-134. 1357
-135. 1370
-136. 1370
-137. 1387
-138. 1388
-139. 1399
-140. 1414
-141. 1420
-142. 1458
-143. 1465
-144. 1474
-145. 1477
-146. 1481
-147. 1486
-148. 1531
-149. 1535
-150. 1539
-151. 1539
-152. 1590
-153. 1590
-154. 1595
-155. 1600
-156. 1613
-157. 1623
-158. 1632
-159. 1636
-160. 1661
-161. 1672
-162. 1680
-163. 1684
-164. 1699
-165. 1707
-166. 1709
-167. 1731
-168. 1735
-169. 1748
-170. 1749
-171. 1752
-172. 1758
-173. 1760
-174. 1762
-175. 1763
-176. 1770
-177. 1777
-178. 1789
-179. 1795
-180. 1812
-181. 1826
-182. 1834
-183. 1839
-184. 1844
-185. 1854
-186. 1856
-187. 1865
-188. 1877
-189. 1883
-190. 1883
-191. 1890
-192. 1911
-193. 1927
-194. 1930
-195. 1958
-196. 1959
-197. 1968
-198. 1987
-199. 1989
+0. 1445
+1. 1445
+2. 1445
+3. 1445
+4. 1445
+5. 1445
+6. 1445
+7. 1445
+8. 1445
+9. 1445
+10. 1445
+11. 1445
+12. 1445
+13. 1445
+14. 1445
+15. 1445
+16. 1445
+17. 1445
+18. 1445
+19. 1445
+20. 1445
+21. 1445
+22. 1445
+23. 1445
+24. 1445
+25. 1445
+26. 1445
+27. 1445
+28. 1445
+29. 1445
+30. 1445
+31. 1445
+32. 1445
+33. 1445
+34. 1445
+35. 1445
+36. 1445
+37. 1445
+38. 1445
+39. 1445
+40. 1445
+41. 1445
+42. 1445
+43. 1445
+44. 1445
+45. 1445
+46. 1445
+47. 1445
+48. 1445
+49. 1445
+50. 1445
+51. 1445
+52. 1445
+53. 1445
+54. 1445
+55. 1445
+56. 1445
+57. 1445
+58. 1445
+59. 1445
+60. 1445
+61. 1445
+62. 1445
+63. 1445
+64. 1445
+65. 1445
+66. 1445
+67. 1445
+68. 1445
+69. 1445
+70. 1445
+71. 1445
+72. 1445
+73. 1445
+74. 1445
+75. 1445
+76. 1445
+77. 1445
+78. 1445
+79. 1445
+80. 1445
+81. 1445
+82. 1445
+83. 1445
+84. 1445
+85. 1445
+86. 1445
+87. 1445
+88. 1445
+89. 1445
+90. 1445
+91. 1445
+92. 1445
+93. 1445
+94. 1445
+95. 1445
+96. 1445
+97. 1445
+98. 1445
+99. 1445
+100. 1445
+101. 1445
+102. 1445
+103. 1445
+104. 1445
+105. 1445
+106. 1445
+107. 1445
+108. 1445
+109. 1445
+110. 1445
+111. 1445
+112. 1445
+113. 1445
+114. 1445
+115. 1445
+116. 1445
+117. 1445
+118. 1445
+119. 1445
+120. 1445
+121. 1445
+122. 1445
+123. 1445
+124. 1445
+125. 1445
+126. 1445
+127. 1445
+128. 1445
+129. 1466
+130. 1504
+131. 1506
+132. 1507
+133. 1517
+134. 1523
+135. 1529
+136. 1539
+137. 1575
+138. 1579
+139. 1595
+140. 1596
+141. 1599
+142. 1602
+143. 1603
+144. 1605
+145. 1605
+146. 1619
+147. 1624
+148. 1632
+149. 1638
+150. 1640
+151. 1676
+152. 1714
+153. 1718
+154. 1719
+155. 1721
+156. 1724
+157. 1736
+158. 1749
+159. 1754
+160. 1756
+161. 1763
+162. 1777
+163. 1788
+164. 1804
+165. 1813
+166. 1820
+167. 1833
+168. 1841
+169. 1862
+170. 1869
+171. 1924
+172. 1926
+173. 1985
+174. 1995
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
