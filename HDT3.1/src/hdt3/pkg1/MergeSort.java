@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Aaron Giron, Carnet: 13042
+ * @author kuk Ho Chung, Carnet: 13
+ * @author Max de Leon, Carnet: 13
+ * 
+ * Metodo Sort para ordenamiento de numeros 
+ */
+
 package hdt3.pkg1;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -8,10 +17,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.List;
-/**
- *
- * @author GNXN000000
- */
+
+
 public class MergeSort {
 	public static void mergeSort(ArrayList<Integer> data, int n){
 		mergeSortRecursive(data,new int[n],0,n-1);

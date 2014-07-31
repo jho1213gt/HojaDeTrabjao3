@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Aaron Giron, Carnet: 13042
+ * @author kuk Ho Chung, Carnet: 13
+ * @author Max de Leon, Carnet: 13
+ * 
+ * Metodo Sort para ordenamiento de numeros 
+ */
+
 package hdt3.pkg1;
 
 import java.io.BufferedWriter;
@@ -6,10 +15,6 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-/**
- *
- * @author Acer
- */
 public class QuickSort {
     
     private static int partition(ArrayList<Integer> data, int left, int right)

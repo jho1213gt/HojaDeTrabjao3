@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Aaron Giron, Carnet: 13042
+ * @author kuk Ho Chung, Carnet: 13
+ * @author Max de Leon, Carnet: 13
+ * 
+ * Metodo Sort para ordenamiento de numeros 
+ */
+
 package hdt3.pkg1;
 import java.io.*;
 import java.util.*;
@@ -38,7 +47,7 @@ public class Principal {
 			System.out.println("Error al escribir");
 		}
                 
-                for(int i = 0; i < cont; i++){
+        for(int i = 0; i < cont; i++){
 			int num = (int)(Math.random()*(2000-1));
 			lista.add(num);
 		}

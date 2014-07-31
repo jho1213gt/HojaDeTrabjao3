@@ -1,7 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ *
+ * @author Aaron Giron, Carnet: 13042
+ * @author kuk Ho Chung, Carnet: 13
+ * @author Max de Leon, Carnet: 13
+ * 
+ * Metodo Sort para ordenamiento de numeros 
  */
 
 package hdt3.pkg1;
@@ -12,10 +15,7 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-/**
- *
- * @author GNXN000000
- */
+
 public class InsertionSort {
     public static void insertionSort(ArrayList<Integer> data, int n){        
         
