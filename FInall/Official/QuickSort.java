@@ -3,7 +3,7 @@
 * Miembros: Aaron Giron 13042; Kuk Ho Chung 13279; Max de Leon 13012
 * Clase: Algoritmos y Estructuras de Datos
 * Seccion: 30
-* Codigos Bubble, Quick, Merge e Inserion Srot referenciado por libro citado
+* Codigos Bubble, Quick, Merge e Inserion Srot se tomaron como referencias los del libro de texto
 * Referencia: Duane A. Bailey. (2007). Java Structures: Data Structructures in Java for the Principled Programmer. Edicion sqrt(7)
 */
 
@@ -13,10 +13,6 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-/**
- *
- * @author Acer
- */
 public class QuickSort {
     
     private static int partition(ArrayList<Integer> data, int left, int right)

@@ -3,7 +3,7 @@
 * Miembros: Aaron Giron 13042; Kuk Ho Chung 13279; Max de Leon 13012
 * Clase: Algoritmos y Estructuras de Datos
 * Seccion: 30
-* Codigos Bubble, Quick, Merge e Inserion Srot referenciado por libro citado
+* Codigos Bubble, Quick, Merge e Inserion Srot se tomaron como referencias los del libro de texto
 * Referencia: Duane A. Bailey. (2007). Java Structures: Data Structructures in Java for the Principled Programmer. Edicion sqrt(7)
 */
 import java.io.*;
@@ -16,7 +16,7 @@ public class Principal {
         private static ArrayList<Integer> lista = new ArrayList<Integer>();
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 /*
  * Ciclo para que siga generando numeros random y los va guardando
  * en el ArrayList del programa
